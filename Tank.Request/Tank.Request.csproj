@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\WONDERTANK vReZero\Request\bin\Tank.Request.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64EEF839-E979-442F-9332-58090101BA67}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Tank.Request</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Tank.Request</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ajax">
+      <HintPath>lib\Ajax.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="zlib.net">
+      <HintPath>lib\zlib.net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountRegister.cs" />
+    <Compile Include="AchievementList.cs" />
+    <Compile Include="ActiveList.cs" />
+    <Compile Include="AASGetState.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AASUpdateState.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ActivePullDown.cs" />
+    <Compile Include="activitysystemitems.cs" />
+    <Compile Include="AuctionPageList.cs" />
+    <Compile Include="BallList.cs" />
+    <Compile Include="bombconfig.cs" />
+    <Compile Include="CardUpdateCondition.cs" />
+    <Compile Include="CardUpdateInfo.cs" />
+    <Compile Include="ChargeMoney.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChargeTest.cs" />
+    <Compile Include="ConsortiaAllyList.cs" />
+    <Compile Include="ConsortiaApplyAllyList.cs" />
+    <Compile Include="ConsortiaApplyUsersList.cs" />
+    <Compile Include="ConsortiaDutyList.cs" />
+    <Compile Include="ConsortiaEquipControl.cs" />
+    <Compile Include="ConsortiaEquipControlList.cs" />
+    <Compile Include="ConsortiaEventList.cs" />
+    <Compile Include="ConsortiaIMList.cs" />
+    <Compile Include="ConsortiaInviteUsersList.cs" />
+    <Compile Include="ConsortiaLevelList.cs" />
+    <Compile Include="ConsortiaList.cs" />
+    <Compile Include="consortianamecheck.cs" />
+    <Compile Include="ConsortiaUsersList.cs" />
+    <Compile Include="CheckRegistration.cs" />
+    <Compile Include="AdvanceQuestionRead.cs" />
+    <Compile Include="AdvanceQuestTime.cs" />
+    <Compile Include="ApprenticeshipClubList.cs" />
+    <Compile Include="CreatShortCut.cs" />
+    <Compile Include="dailyloglist.cs" />
+    <Compile Include="elitematchplayerlist.cs" />
+    <Compile Include="eventrewarditemlist.cs" />
+    <Compile Include="FarmGetUserFieldInfos.cs" />
+    <Compile Include="giftrecievelog.cs" />
+    <Compile Include="giftsendlog.cs" />
+    <Compile Include="gmtipallbyids.cs" />
+    <Compile Include="LoadBoxTemp.cs" />
+    <Compile Include="LoadUserBox.cs" />
+    <Compile Include="luckstaractivityrank.cs" />
+    <Compile Include="newtitleinfo.cs" />
+    <Compile Include="petskillelementinfo.cs" />
+    <Compile Include="petskillinfo.cs" />
+    <Compile Include="petskilltemplateinfo.cs" />
+    <Compile Include="pettemplateinfo.cs" />
+    <Compile Include="runetemplatelist.cs" />
+    <Compile Include="shopcheapitemlist.cs" />
+    <Compile Include="ShopGoodsShowList.cs" />
+    <Compile Include="UserApprenticeshipInfoList.cs" />
+    <Compile Include="IMRecentContactsList.cs" />
+    <Compile Include="CreateAllXml.cs" />
+    <Compile Include="CreateLogin.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="csFunction.cs" />
+    <Compile Include="DailyAwardList.cs" />
+    <Compile Include="eServerUpdateType.cs" />
+    <Compile Include="ExitGameTransit.cs" />
+    <Compile Include="ExperienceRate.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FavoriteTransit.cs" />
+    <Compile Include="GetSID.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="IMFriendsBbs.cs" />
+    <Compile Include="IMFriendsGood.cs" />
+    <Compile Include="IMListLoad.cs" />
+    <Compile Include="ItemStrengthenList.cs" />
+    <Compile Include="KeyGenerator.cs" />
+    <Compile Include="KitoffUser.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoadItemsCategory.cs" />
+    <Compile Include="LoadMapsItems.cs" />
+    <Compile Include="LoadPVEItems.cs" />
+    <Compile Include="LoadUserEquip.cs" />
+    <Compile Include="LoadUserItems.cs" />
+    <Compile Include="LoadUserMail.cs" />
+    <Compile Include="LoadUsersSort.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="LoginSelectList.cs" />
+    <Compile Include="LoginTest.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogTime.cs" />
+    <Compile Include="MailSenderList.cs" />
+    <Compile Include="MapServerList.cs" />
+    <Compile Include="MarryInfoPageList.cs" />
+    <Compile Include="NickNameCheck.cs" />
+    <Compile Include="NoticeServerUpdate.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NPCInfoList.cs" />
+    <Compile Include="PayTransit.cs" />
+    <Compile Include="PlayerManager.cs" />
+    <Compile Include="QuestList.cs" />
+    <Compile Include="RenameConsortiaName.cs" />
+    <Compile Include="RenameNick.cs" />
+    <Compile Include="SendItemTest.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SentReward.cs" />
+    <Compile Include="SentRewardTest.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ServerList1.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShopItemList.cs" />
+    <Compile Include="StaticFunction.cs" />
+    <Compile Include="StaticsMgr.cs" />
+    <Compile Include="SubmitTest.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SystemNotice.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TemplateAllList.cs" />
+    <Compile Include="UserGoodsInfo.cs" />
+    <Compile Include="UserNameCheck.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserQuestList.cs" />
+    <Compile Include="ValidateCode.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VisualizeRegister.cs" />
+    <Compile Include="ServerList.cs" />
+    <Compile Include="VisualizeItemLoad.cs" />
+    <Compile Include="WebsResponse.cs" />
+    <Compile Include="Illegalcharacters\FileSystem.cs" />
+    <Compile Include="Properties\Settings.cs" />
+    <Compile Include="CenterService\ICenterService.cs" />
+    <Compile Include="CenterService\ICenterServiceChannel.cs" />
+    <Compile Include="CenterService\CenterServiceClient.cs" />
+    <Compile Include="CelebList\CelebByAchievementPointDayList.cs" />
+    <Compile Include="CelebList\CelebByAchievementPointList.cs" />
+    <Compile Include="CelebList\CelebByAchievementPointWeekList.cs" />
+    <Compile Include="CelebList\CelebByWeekGiftGP.cs" />
+    <Compile Include="CelebList\CelebByDayGiftGpList.cs" />
+    <Compile Include="CelebList\CelebByGiftGPList.cs" />
+    <Compile Include="CelebList\CelebByConsortiaDayHonor.cs" />
+    <Compile Include="CelebList\CelebByConsortiaDayRiches.cs" />
+    <Compile Include="CelebList\celebbyconsortiafightpower.cs" />
+    <Compile Include="CelebList\CelebByConsortiaHonor.cs" />
+    <Compile Include="CelebList\CelebByConsortiaLevel.cs" />
+    <Compile Include="CelebList\CelebByConsortiaRiches.cs" />
+    <Compile Include="CelebList\CelebByConsortiaWeekHonor.cs" />
+    <Compile Include="CelebList\CelebByConsortiaWeekRiches.cs" />
+    <Compile Include="CelebList\CelebByDayBestEquip.cs" />
+    <Compile Include="CelebList\CelebByDayFightPowerList.cs" />
+    <Compile Include="CelebList\CelebByDayGPList.cs" />
+    <Compile Include="CelebList\CelebByDayOfferList.cs" />
+    <Compile Include="CelebList\CelebByGpList.cs" />
+    <Compile Include="CelebList\CelebByOfferList.cs" />
+    <Compile Include="CelebList\CelebByWeekGPList.cs" />
+    <Compile Include="CelebList\celebbyweekleaguescore.cs" />
+    <Compile Include="CelebList\CelebByWeekOfferList.cs" />
+    <Compile Include="CelebList\CreateAllCeleb.cs" />
+    <Compile Include="Count\click.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bussiness\Bussiness.csproj">
+      <Project>{84bf6699-751a-4078-aec4-e217dacdec28}</Project>
+      <Name>Bussiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Game.Base\Game.Base.csproj">
+      <Project>{0b98b651-e8ad-42a2-a9d2-340aa0d795be}</Project>
+      <Name>Game.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Road.Flash\Road.Flash.csproj">
+      <Project>{24028d61-9e32-4f86-ad36-4b4af594094d}</Project>
+      <Name>Road.Flash</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SqlDataProvider\SqlDataProvider.csproj">
+      <Project>{4d86ca83-4902-4288-9144-6170aa09ceac}</Project>
+      <Name>SqlDataProvider</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

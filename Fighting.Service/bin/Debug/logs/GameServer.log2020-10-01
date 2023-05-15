@@ -1,0 +1,45 @@
+20:31:17,589 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+20:31:17,589 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+20:31:17,621 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+20:31:17,621 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+20:31:17,636 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+20:31:17,636 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+20:31:18,136 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+20:31:18,246 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+20:31:18,246 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+20:31:18,464 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+20:31:18,464 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+20:31:18,480 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+20:31:18,496 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+20:31:18,527 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+20:31:18,543 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+20:31:18,543 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+20:31:18,543 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+20:31:18,558 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+20:31:20,355 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62963
+20:31:20,402 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62964
+20:47:45,360 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+20:47:45,361 - [36] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+20:47:47,917 - [36] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+22:09:25,824 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+22:09:25,836 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+22:09:25,861 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+22:09:25,861 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+22:09:25,862 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+22:09:25,863 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+22:09:26,079 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+22:09:26,173 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+22:09:26,179 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+22:09:26,314 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+22:09:26,318 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+22:09:26,330 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+22:09:26,343 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+22:09:26,359 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+22:09:26,372 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+22:09:26,376 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+22:09:26,380 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+22:09:26,390 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+22:40:44,631 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:52818
+22:40:44,644 - [65] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:52819
+22:44:01,199 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+22:44:01,204 - [73] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0

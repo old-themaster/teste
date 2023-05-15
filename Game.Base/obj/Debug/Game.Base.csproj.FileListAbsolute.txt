@@ -1,0 +1,150 @@
+C:\WONDERTANK vReZero\Source\Game.Base\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source\Game.Base\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source\Game.Base\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source\Game.Base\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source\Game.Base\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source\Game.Base\obj\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source\Game.Base\obj\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source\Game.Base\obj\Debug\Game.Base.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\obj\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\obj\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Base\obj\Debug\Game.Base.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\bin\Debug\Game.Base.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\bin\Debug\Game.Base.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\bin\Debug\log4net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\bin\Debug\protobuf-net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\bin\Debug\zlib.net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\obj\Debug\Game.Base.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\obj\Debug\Game.Base.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\bin\Debug\log4net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\bin\Debug\protobuf-net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\obj\Debug\Game.Base.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\obj\Debug\Game.Base.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\bin\Debug\log4net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\bin\Debug\protobuf-net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.csprojAssemblyReference.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\obj\Debug\Game.Base.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\bin\Debug\Game.Base.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\bin\Debug\Game.Base.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\bin\Debug\log4net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\bin\Debug\protobuf-net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\bin\Debug\zlib.net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Base\obj\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\obj\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Base\obj\Debug\Game.Base.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Base\bin\Debug\Game.Base.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Base\bin\Debug\Game.Base.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Base\bin\Debug\log4net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Base\bin\Debug\protobuf-net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Base\bin\Debug\zlib.net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\projeto ddtank 4.1\Source4.5\Game.Base\obj\Debug\Game.Base.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Base\obj\Debug\Game.Base.pdb
+C:\Source4.5\Game.Base\bin\Debug\Game.Base.dll
+C:\Source4.5\Game.Base\bin\Debug\Game.Base.pdb
+C:\Source4.5\Game.Base\bin\Debug\log4net.dll
+C:\Source4.5\Game.Base\bin\Debug\protobuf-net.dll
+C:\Source4.5\Game.Base\bin\Debug\zlib.net.dll
+C:\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\Source4.5\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\Source4.5\Game.Base\obj\Debug\Game.Base.dll
+C:\Source4.5\Game.Base\obj\Debug\Game.Base.pdb
+C:\projeto ddtank 4.1\source\Game.Base\bin\Debug\Game.Base.dll
+C:\projeto ddtank 4.1\source\Game.Base\bin\Debug\Game.Base.pdb
+C:\projeto ddtank 4.1\source\Game.Base\bin\Debug\log4net.dll
+C:\projeto ddtank 4.1\source\Game.Base\bin\Debug\protobuf-net.dll
+C:\projeto ddtank 4.1\source\Game.Base\bin\Debug\zlib.net.dll
+C:\projeto ddtank 4.1\source\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\source\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\source\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\projeto ddtank 4.1\source\Game.Base\obj\Debug\Game.Base.dll
+C:\projeto ddtank 4.1\source\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\Administrador\Downloads\source\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\Administrador\Downloads\source\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\Administrador\Downloads\source\Game.Base\bin\Debug\log4net.dll
+C:\Users\Administrador\Downloads\source\Game.Base\bin\Debug\protobuf-net.dll
+C:\Users\Administrador\Downloads\source\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\Administrador\Downloads\source\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\source\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\source\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\Users\Administrador\Downloads\source\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\Administrador\Downloads\source\Game.Base\obj\Debug\Game.Base.pdb

@@ -1,0 +1,49 @@
+01:23:20,225 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+01:23:20,480 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property servidor,keep it default value!
+01:23:21,189 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: False
+01:23:21,212 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+01:23:21,215 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+01:23:21,407 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+01:23:21,409 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+01:23:21,409 - [MAIN] - INFO  - Game.Server.GameServer - Edition: 2612558: True
+01:23:21,411 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port: 9200: True
+01:23:22,196 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+01:23:22,407 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+01:23:23,678 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+01:23:23,813 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70063 is not exist!
+01:23:23,814 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70039 is not exist!
+01:23:23,814 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70032 is not exist!
+01:23:23,815 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70031 is not exist!
+01:23:23,816 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70027 is not exist!
+01:23:23,817 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70026 is not exist!
+01:23:23,818 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70025 is not exist!
+01:23:24,107 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60206 is not exist!
+01:23:24,124 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60205 is not exist!
+01:23:24,157 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60204 is not exist!
+01:23:24,165 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60203 is not exist!
+01:23:24,166 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60202 is not exist!
+01:23:24,173 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60201 is not exist!
+01:23:24,174 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60110 is not exist!
+01:23:24,174 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60109 is not exist!
+01:23:24,175 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60108 is not exist!
+01:23:24,176 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60107 is not exist!
+01:23:24,176 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60106 is not exist!
+01:23:24,177 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60105 is not exist!
+01:23:24,178 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60104 is not exist!
+01:23:24,179 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60102 is not exist!
+01:23:24,179 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60101 is not exist!
+01:23:24,180 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file40012 is not exist!
+01:23:24,181 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file40008 is not exist!
+01:23:24,572 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file15000 is not exist!
+01:23:24,576 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file14999 is not exist!
+01:23:24,579 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file14304 is not exist!
+01:23:27,466 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file10151 is not exist!
+01:23:27,625 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1711 is not exist!
+01:23:27,626 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1709 is not exist!
+01:23:27,627 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1708 is not exist!
+01:23:27,627 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1706 is not exist!
+01:23:27,628 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1705 is not exist!
+01:23:27,628 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1704 is not exist!
+01:23:27,630 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1703 is not exist!
+01:23:27,632 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1702 is not exist!
+01:23:27,632 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1654 is no

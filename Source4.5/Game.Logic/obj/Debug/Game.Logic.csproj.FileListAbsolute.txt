@@ -1,0 +1,436 @@
+C:\Users\Administrator\Desktop\Game server\Road.Service\bin\Debug\Game.Logic.dll
+C:\Users\Administrator\Desktop\Game server\Road.Service\bin\Debug\Game.Logic.pdb
+C:\Users\Administrator\Desktop\Game server\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Game server\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Game server\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Administrator\Desktop\Game server\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Ursinho\Desktop\Source Project 4.1\Road.Service\bin\Debug\Game.Logic.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Road.Service\bin\Debug\Game.Logic.pdb
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\System.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Ursinho\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\System.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Gabriel\Desktop\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\System.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Gabriel\Desktop\Imagens\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.pdb
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\Game.Logic.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\Game.Logic.pdb
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\Bussiness.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\Game.Base.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\SqlDataProvider.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\System.Configuration.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\System.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\System.Drawing.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\zlib.net.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\protobuf-net.dll
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\Bussiness.pdb
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\Game.Base.pdb
+D:\Sources\Source Project 4.1\Game.Logic\bin\Debug\SqlDataProvider.pdb
+D:\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+D:\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+D:\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+D:\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.dll
+D:\Sources\Source Project 4.1\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\System.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Ursinho\Desktop\Source 4.1\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\System.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Administrator\Documents\source\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrator\Documents\source\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\source\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\source\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Administrator\Documents\source\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Administrator\Documents\source\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\System.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Administrator\Downloads\source\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrator\Downloads\source\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\source\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\source\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Administrator\Downloads\source\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Administrator\Downloads\source\Game.Logic\obj\Debug\Game.Logic.pdb
+F:\Source\Game.Logic\bin\Debug\Game.Logic.dll
+F:\Source\Game.Logic\bin\Debug\Game.Logic.pdb
+F:\Source\Game.Logic\bin\Debug\Bussiness.dll
+F:\Source\Game.Logic\bin\Debug\Game.Base.dll
+F:\Source\Game.Logic\bin\Debug\SqlDataProvider.dll
+F:\Source\Game.Logic\bin\Debug\System.Configuration.dll
+F:\Source\Game.Logic\bin\Debug\System.dll
+F:\Source\Game.Logic\bin\Debug\System.Drawing.dll
+F:\Source\Game.Logic\bin\Debug\zlib.net.dll
+F:\Source\Game.Logic\bin\Debug\protobuf-net.dll
+F:\Source\Game.Logic\bin\Debug\Bussiness.pdb
+F:\Source\Game.Logic\bin\Debug\Game.Base.pdb
+F:\Source\Game.Logic\bin\Debug\SqlDataProvider.pdb
+F:\Source\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+F:\Source\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+F:\Source\Game.Logic\obj\Debug\Game.Logic.dll
+F:\Source\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\Game.Logic.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\System.Configuration.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\System.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\System.Drawing.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\Bussiness.pdb
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source\Game.Logic\obj\Debug\Game.Logic.dll
+C:\WONDERTANK vReZero\Source\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\Game.Logic.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\System.Configuration.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\System.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\System.Drawing.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\Bussiness.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\obj\Debug\Game.Logic.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\Game.Logic.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\Bussiness.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\Game.Base.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\log4net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\System.Configuration.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\System.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\System.Drawing.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\zlib.net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\protobuf-net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\Bussiness.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\Game.Base.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\obj\Debug\Game.Logic.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\log4net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\System.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\System.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\log4net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\System.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\System.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Game.Logic.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Bussiness.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Game.Base.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\log4net.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\System.Configuration.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\System.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\System.Drawing.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\zlib.net.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\protobuf-net.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Bussiness.pdb
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Game.Base.pdb
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.dll
+C:\projeto ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Game.Logic.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Bussiness.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Game.Base.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\log4net.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\System.Configuration.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\System.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\System.Drawing.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\zlib.net.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\protobuf-net.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Bussiness.pdb
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\Game.Base.pdb
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.AssemblyReference.cache
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.dll
+C:\projeto DDtank\ddtank 4.5\Source(costura)\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Game.Logic.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Bussiness.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Game.Base.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\log4net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\System.Configuration.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\System.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\System.Drawing.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\zlib.net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\protobuf-net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Bussiness.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Game.Base.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.AssemblyReference.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Game.Logic.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\System.Configuration.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\System.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\System.Drawing.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\Game.Logic.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\System.Configuration.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\System.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\System.Drawing.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\obj\Debug\Game.Logic.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\Game.Logic.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\Bussiness.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\Game.Base.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\log4net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\System.Configuration.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\System.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\System.Drawing.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\zlib.net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\protobuf-net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\Bussiness.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\Game.Base.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\obj\Debug\Game.Logic.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Source4.5\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Source4.5\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Source4.5\Game.Logic\bin\Debug\Bussiness.dll
+C:\Source4.5\Game.Logic\bin\Debug\Game.Base.dll
+C:\Source4.5\Game.Logic\bin\Debug\log4net.dll
+C:\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Source4.5\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Source4.5\Game.Logic\bin\Debug\System.dll
+C:\Source4.5\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Source4.5\Game.Logic\bin\Debug\zlib.net.dll
+C:\Source4.5\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Source4.5\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Source4.5\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.AssemblyReference.cache
+C:\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Source4.5\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Source4.5\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\log4net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\System.Configuration.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\System.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\System.Drawing.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\protobuf-net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.AssemblyReference.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Logic\obj\Debug\Game.Logic.pdb

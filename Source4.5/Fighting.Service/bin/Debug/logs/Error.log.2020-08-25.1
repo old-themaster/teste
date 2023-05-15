@@ -1,0 +1,10 @@
+23:49:29,504 - [5] - ERROR - Game.Logic.BaseGame - Map update error:
+System.TypeInitializationException: The type initializer for 'Game.Logic.PVPGame' threw an exception. ---> System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Game.Logic.PVPGame..cctor() in C:\Users\Administrator\Documents\Source\Game.Logic\Game.Logic\PVPGame.cs:line 19
+   --- End of inner exception stack trace ---
+   at Game.Logic.PVPGame.GameOver() in C:\Users\Administrator\Documents\Source\Game.Logic\Game.Logic\PVPGame.cs:line 402
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in C:\Users\Administrator\Documents\Source\Game.Logic\Game.Logic.Actions\CheckPVPGameStateAction.cs:line 48
+   at Game.Logic.BaseGame.Update(Int64 tick) in C:\Users\Administrator\Documents\Source\Game.Logic\Game.Logic\BaseGame.cs:line 2857

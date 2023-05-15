@@ -1,0 +1,195 @@
+00:11:39,620 - [68] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:11:39,635 - [68] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:11:42,479 - [34] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+00:14:42,767 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+00:14:42,782 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+00:14:42,798 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+00:14:42,798 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+00:14:42,798 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+00:14:42,798 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+00:14:43,110 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+00:14:43,204 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+00:14:43,204 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+00:14:43,329 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+00:14:43,345 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+00:14:43,360 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+00:14:43,376 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+00:14:43,376 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+00:14:43,392 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+00:14:43,392 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+00:14:43,392 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+00:14:43,423 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+00:14:44,688 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:52991
+00:14:44,704 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:52992
+00:16:14,933 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:16:14,935 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:16:26,271 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:53111
+00:16:26,286 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:53112
+00:18:04,997 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:18:05,000 - [14] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:19:42,392 - [14] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:53280
+00:19:42,400 - [14] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:53281
+00:20:43,260 - [16] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:20:43,260 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:22:13,879 - [21] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:53434
+00:22:13,896 - [21] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:53435
+00:27:28,932 - [21] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:27:28,932 - [21] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+00:27:35,369 - [21] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+01:51:43,721 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+01:51:43,733 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+01:51:43,759 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+01:51:43,760 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+01:51:43,761 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+01:51:43,761 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+01:51:43,993 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+01:51:44,075 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+01:51:44,081 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+01:51:44,201 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+01:51:44,205 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+01:51:44,216 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+01:51:44,228 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+01:51:44,242 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+01:51:44,253 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+01:51:44,257 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+01:51:44,260 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+01:51:44,267 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+01:51:46,345 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:53909
+01:51:46,368 - [9] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:53910
+01:55:29,413 - [9] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+01:55:29,459 - [9] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+01:56:17,575 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54111
+01:56:17,585 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54112
+02:00:41,882 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:00:41,883 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:00:44,720 - [24] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+02:06:29,869 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+02:06:29,879 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+02:06:29,904 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+02:06:29,904 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+02:06:29,905 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+02:06:29,905 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+02:06:30,030 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+02:06:30,112 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+02:06:30,117 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+02:06:30,232 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+02:06:30,236 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+02:06:30,247 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+02:06:30,258 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+02:06:30,270 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+02:06:30,281 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+02:06:30,285 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+02:06:30,288 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+02:06:30,298 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+02:06:38,715 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54371
+02:06:38,755 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54372
+02:10:24,799 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:10:24,800 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:10:34,365 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54599
+02:10:34,380 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54600
+02:12:07,414 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:12:07,415 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:12:52,927 - [16] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54700
+02:12:52,945 - [16] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54701
+02:15:04,034 - [16] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:15:04,036 - [16] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:15:44,794 - [25] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54862
+02:15:44,812 - [25] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54863
+02:17:05,513 - [25] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:17:05,517 - [31] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:17:19,386 - [25] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54956
+02:17:19,396 - [25] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:54957
+02:19:00,604 - [32] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:19:00,605 - [32] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:20:28,472 - [38] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:55047
+02:20:28,483 - [38] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:55048
+02:21:18,925 - [38] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:21:18,926 - [44] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+02:22:13:17:12,957 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+13:17:12,969 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+13:17:12,998 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+13:17:12,999 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+13:17:12,999 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+13:17:13,000 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+13:17:13,462 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+13:17:13,606 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+13:17:13,612 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+13:17:13,765 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+13:17:13,769 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+13:17:13,793 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+13:17:13,804 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+13:17:13,817 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+13:17:13,832 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+13:17:13,835 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+13:17:13,838 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+13:17:13,849 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+13:17:15,565 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60249
+13:17:15,579 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60250
+13:18:59,512 - [9] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:18:59,518 - [9] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:19:17,905 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60353
+13:19:17,915 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60354
+13:20:41,361 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:20:41,367 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:21:31,739 - [16] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60435
+13:21:31,757 - [16] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60436
+13:22:33,856 - [16] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:22:33,856 - [19] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:22:50,944 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60496
+13:22:50,964 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60497
+13:23:52,204 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:23:52,206 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:24:20,788 - [28] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60581
+13:24:20,803 - [26] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60582
+13:28:16,720 - [26] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:28:16,722 - [26] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:28:39,937 - [38] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60802
+13:28:39,951 - [38] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60803
+13:31:24,610 - [40] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:31:24,611 - [46] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:32:26,819 16:44:49,437 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+16:44:49,437 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+16:44:49,468 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+16:44:49,468 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+16:44:49,468 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+16:44:49,468 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+16:44:49,812 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+16:44:49,937 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+16:44:49,952 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+16:44:50,429 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+16:44:50,433 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+16:44:50,445 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+16:44:50,461 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+16:44:50,483 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+16:44:50,499 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+16:44:50,499 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+16:44:50,499 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+16:44:50,514 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+16:44:52,469 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:49814
+16:44:52,500 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:49815
+16:53:48,329 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:53:48,329 - [21] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:53:50,735 - [22] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+17:04:55,293 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+17:04:55,304 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+17:04:55,327 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+17:04:55,328 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+17:04:55,328 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+17:04:55,329 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+17:04:55,459 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+17:04:55,540 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+17:04:55,546 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+17:04:55,679 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+17:04:55,683 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+17:04:55,713 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+17:04:55,725 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+17:04:55,758 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+17:04:55,769 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+17:04:55,773 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:04:55,776 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+17:04:55,798 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+17:04:56,962 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:50279
+17:04:56,984 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:50280
+17:42:07,022 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:42:07,022 - [77] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:42:09,402 - [77] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected

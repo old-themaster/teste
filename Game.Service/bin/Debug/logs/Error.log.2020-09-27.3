@@ -1,0 +1,11 @@
+13:43:31,721 - [28] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ChickenBoxHandler  client: 178.63.219.82:51990)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameUtils.PlayerActives.PayFlushView() in C:\WONDERTANK vReZero\Source(costura)\Game.Server\Server\GameUtils\PlayerActives.cs:line 234
+   at Game.Server.GameUtils.PlayerActives.LoadChickenBox() in C:\WONDERTANK vReZero\Source(costura)\Game.Server\Server\GameUtils\PlayerActives.cs:line 225
+   at Game.Server.GameUtils.PlayerActives.EnterChickenBox() in C:\WONDERTANK vReZero\Source(costura)\Game.Server\Server\GameUtils\PlayerActives.cs:line 214
+   at Game.Server.Packets.Client.ChickenBoxHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\WONDERTANK vReZero\Source(costura)\Game.Server\Server\Packets\Client\ChickenBoxHandler.cs:line 22
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\WONDERTANK vReZero\Source(costura)\Game.Server\Base\Packets\PacketProcessor.cs:line 65
+13:43:31,728 - [28] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 18 00 5A 00 57 00 00 00 02 00 00 00 00   q....Z.W........
+0010: 00 00 00 00 00 00 00 0A                           ........        
+

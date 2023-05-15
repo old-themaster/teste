@@ -1,0 +1,1240 @@
+15:08:10,440 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file15000 is not exist!
+15:08:10,444 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file14999 is not exist!
+15:08:10,446 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file14304 is not exist!
+15:08:11,533 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11338.bomb
+15:08:11,576 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112731.bomb
+15:08:11,577 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112732.bomb
+15:08:11,578 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112741.bomb
+15:08:11,579 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112742.bomb
+15:08:11,580 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112751.bomb
+15:08:11,582 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112752.bomb
+15:08:11,583 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112761.bomb
+15:08:11,584 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112762.bomb
+15:08:11,587 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112771.bomb
+15:08:11,590 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112772.bomb
+15:08:11,598 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112951.bomb
+15:08:11,599 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112952.bomb
+15:08:11,601 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112961.bomb
+15:08:11,606 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112962.bomb
+15:08:11,607 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112971.bomb
+15:08:11,608 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112972.bomb
+15:08:11,609 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112981.bomb
+15:08:11,610 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112982.bomb
+15:08:11,611 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112991.bomb
+15:08:11,612 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\112992.bomb
+15:08:11,613 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113051.bomb
+15:08:11,614 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113052.bomb
+15:08:11,615 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113061.bomb
+15:08:11,619 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113062.bomb
+15:08:11,621 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113071.bomb
+15:08:11,622 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113072.bomb
+15:08:11,624 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113081.bomb
+15:08:11,625 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113082.bomb
+15:08:11,626 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113091.bomb
+15:08:11,627 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113092.bomb
+15:08:11,640 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113251.bomb
+15:08:11,641 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113252.bomb
+15:08:11,642 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113261.bomb
+15:08:11,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113262.bomb
+15:08:11,647 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113271.bomb
+15:08:11,648 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113272.bomb
+15:08:11,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113311.bomb
+15:08:11,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113312.bomb
+15:08:11,656 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113331.bomb
+15:08:11,657 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113332.bomb
+15:08:11,658 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113351.bomb
+15:08:11,659 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113352.bomb
+15:08:11,660 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113361.bomb
+15:08:11,666 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113362.bomb
+15:08:11,668 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113371.bomb
+15:08:11,670 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113372.bomb
+15:08:11,671 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113381.bomb
+15:08:11,673 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113382.bomb
+15:08:11,675 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113431.bomb
+15:08:11,677 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113432.bomb
+15:08:11,679 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113451.bomb
+15:08:11,680 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113452.bomb
+15:08:11,681 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113461.bomb
+15:08:11,682 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113462.bomb
+15:08:11,683 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113471.bomb
+15:08:11,684 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113472.bomb
+15:08:11,686 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113511.bomb
+15:08:11,687 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113512.bomb
+15:08:11,688 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113531.bomb
+15:08:11,689 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113532.bomb
+15:08:11,690 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113541.bomb
+15:08:11,691 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113542.bomb
+15:08:11,692 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113551.bomb
+15:08:11,696 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113552.bomb
+15:08:11,697 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113591.bomb
+15:08:11,700 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113592.bomb
+15:08:11,702 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113601.bomb
+15:08:11,705 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113602.bomb
+15:08:11,706 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113641.bomb
+15:08:11,706 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\113642.bomb
+15:08:11,715 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115011.bomb
+15:08:11,716 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115012.bomb
+15:08:11,717 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115013.bomb
+15:08:11,718 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115021.bomb
+15:08:11,719 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115022.bomb
+15:08:11,720 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115023.bomb
+15:08:11,721 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115031.bomb
+15:08:11,722 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115032.bomb
+15:08:11,726 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\115033.bomb
+15:08:11,742 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118011.bomb
+15:08:11,743 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118012.bomb
+15:08:11,745 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118013.bomb
+15:08:11,747 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118021.bomb
+15:08:11,747 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118022.bomb
+15:08:11,748 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118023.bomb
+15:08:11,749 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118031.bomb
+15:08:11,750 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118032.bomb
+15:08:11,751 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\118033.bomb
+15:08:11,842 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\178.bomb
+15:08:11,843 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\179.bomb
+15:08:11,844 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\180.bomb
+15:08:11,847 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\186.bomb
+15:08:11,847 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\187.bomb
+15:08:11,848 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\189.bomb
+15:08:11,849 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\190.bomb
+15:08:11,851 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\200.bomb
+15:08:11,868 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\298.bomb
+15:08:11,996 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11273.bomb
+15:08:11,999 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11274.bomb
+15:08:12,005 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11275.bomb
+15:08:12,009 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11276.bomb
+15:08:12,009 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11277.bomb
+15:08:12,010 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11278.bomb
+15:08:12,012 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11279.bomb
+15:08:12,012 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11280.bomb
+15:08:12,013 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11281.bomb
+15:08:12,014 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11282.bomb
+15:08:12,024 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11295.bomb
+15:08:12,025 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11296.bomb
+15:08:12,026 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11297.bomb
+15:08:12,027 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11298.bomb
+15:08:12,028 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11299.bomb
+15:08:12,037 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11300.bomb
+15:08:12,038 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11301.bomb
+15:08:12,039 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11302.bomb
+15:08:12,040 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11303.bomb
+15:08:12,041 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11304.bomb
+15:08:12,044 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11305.bomb
+15:08:12,045 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11306.bomb
+15:08:12,046 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11307.bomb
+15:08:12,048 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11308.bomb
+15:08:12,050 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11309.bomb
+15:08:12,051 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11310.bomb
+15:08:12,054 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11311.bomb
+15:08:12,056 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11312.bomb
+15:08:12,057 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11313.bomb
+15:08:12,057 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11314.bomb
+15:08:12,061 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11325.bomb
+15:08:12,065 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11326.bomb
+15:08:12,067 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11327.bomb
+15:08:12,068 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11328.bomb
+15:08:12,069 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11329.bomb
+15:08:12,071 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11330.bomb
+15:08:12,072 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11331.bomb
+15:08:12,073 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11332.bomb
+15:08:12,075 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11333.bomb
+15:08:12,077 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11334.bomb
+15:08:12,079 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11335.bomb
+15:08:12,080 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11336.bomb
+15:08:12,082 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11337.bomb
+15:08:12,082 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11339.bomb
+15:08:12,084 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11340.bomb
+15:08:12,085 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11341.bomb
+15:08:12,086 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11342.bomb
+15:08:12,087 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11343.bomb
+15:08:12,088 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11344.bomb
+15:08:12,090 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11345.bomb
+15:08:12,091 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11346.bomb
+15:08:12,095 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11347.bomb
+15:08:12,096 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11348.bomb
+15:08:12,101 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11349.bomb
+15:08:12,102 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11350.bomb
+15:08:12,104 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11351.bomb
+15:08:12,105 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11352.bomb
+15:08:12,106 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11353.bomb
+15:08:12,107 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11354.bomb
+15:08:12,111 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11355.bomb
+15:08:12,111 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11356.bomb
+15:08:12,112 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11357.bomb
+15:08:12,113 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11358.bomb
+15:08:12,114 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11359.bomb
+15:08:12,115 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11360.bomb
+15:08:12,116 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11362.bomb
+15:08:12,118 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11363.bomb
+15:08:12,119 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11364.bomb
+15:08:12,120 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11365.bomb
+15:08:12,121 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11366.bomb
+15:08:12,129 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11373.bomb
+15:08:12,139 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11392.bomb
+15:08:12,141 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11400.bomb
+15:08:12,144 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11401.bomb
+15:08:12,145 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11403.bomb
+15:08:12,146 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11405.bomb
+15:08:12,147 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11406.bomb
+15:08:12,148 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11407.bomb
+15:08:12,149 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11408.bomb
+15:08:12,150 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11501.bomb
+15:08:12,151 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11502.bomb
+15:08:12,152 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11503.bomb
+15:08:12,158 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11801.bomb
+15:08:12,159 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11802.bomb
+15:08:12,160 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11803.bomb
+15:09:05,534 - [12] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 55
+15:09:29,738 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:29,864 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:29,995 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:30,250 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:30,457 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:30,598 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:30,730 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:30,949 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:31,076 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:31,240 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:31,364 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:31,558 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:31,810 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:31,944 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:32,067 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:32,222 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:32,352 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:32,575 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:32,691 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:32,852 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:33,042 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:33,270 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:33,406 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:33,555 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:33,827 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:34,034 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:34,247 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:34,476 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:34,843 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:35,102 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:35,360 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:35,756 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:36,471 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:36,750 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:36,888 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:37,050 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:37,327 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:37,572 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:37,726 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:37,955 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:38,120 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:38,391 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:38,549 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:38,731 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:38,939 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:39,154 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:39,849 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:39,994 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:40,129 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:40,271 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:40,450 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:40,816 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:41,738 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:41,882 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:42,036 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:42,154 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:42,347 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:42,545 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:42,667 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:42,884 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:43,065 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:43,182 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:43,302 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:43,457 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:43,595 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:43,757 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:43,925 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:44,056 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:44,224 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:09:44,336 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data) na C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\PlayerBussiness.cs:linha 8778
+15:10:42,852 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:42,966 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:43,194 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:43,332 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:43,711 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:43,980 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:44,478 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:44,942 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:45,324 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:45,413 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:45,643 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:45,764 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:45,889 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:46,000 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:46,121 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:46,269 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:46,376 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:46,474 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:46,708 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:46,903 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:47,198 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:47,323 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:47,425 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:47,539 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:47,696 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:47,842 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:47,949 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:48,072 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:48,196 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:48,370 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:48,478 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:48,625 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:48,860 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:49,743 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:49,928 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:50,132 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:50,242 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:50,354 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:50,498 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:50,669 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:50,860 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:50,969 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:51,085 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:51,225 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:51,379 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:51,521 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:51,623 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:51,922 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:52,422 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:52,660 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:52,885 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:53,189 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:53,301 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:53,415 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:53,538 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:53,688 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:53,955 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:54,083 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:54,249 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:54,350 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:54,760 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:55,108 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:55,383 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:55,678 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:55,900 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:56,087 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:56,340 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:56,537 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:56,736 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:10:56,926 - [18] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:22,986 - [12] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 55
+15:11:42,830 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:42,963 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:43,064 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:43,265 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:43,385 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:43,492 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:43,630 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:43,744 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:43,863 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:43,995 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:44,122 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:44,224 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:44,337 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:44,434 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:44,566 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:44,682 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:44,797 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:44,897 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:45,034 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:45,148 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:45,305 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:45,407 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:45,531 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:45,681 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:45,857 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:45,966 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,068 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,178 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,291 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,446 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,563 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,669 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,774 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,859 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:46,976 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:47,082 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:47,271 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:47,408 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:47,552 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:47,683 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:47,797 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:47,974 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:48,110 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:48,225 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:48,376 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:48,520 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:48,661 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:48,773 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:48,894 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:48,988 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:49,158 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:49,267 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:49,375 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:49,480 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:49,641 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:49,804 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:49,928 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:50,106 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:50,384 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:50,503 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:50,643 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:50,756 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:50,991 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:51,165 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:51,294 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:51,486 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:51,767 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:51,931 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:52,492 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:11:52,742 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData:
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:15:15,430 - [13] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 55
+15:17:38,582 - [12] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 55
+15:18:00,119 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:00,248 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:00,358 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:00,487 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:00,706 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:00,823 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:00,942 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:01,098 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:01,294 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:01,440 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:01,557 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:01,693 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:01,822 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:02,009 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:02,175 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:02,302 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:02,467 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:02,597 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:02,722 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:02,849 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:03,035 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:03,225 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:03,350 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:03,486 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:03,621 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:03,749 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:03,896 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:04,041 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:04,169 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:04,295 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:04,420 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:04,590 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:04,716 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:04,838 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:04,985 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:05,165 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:05,329 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:05,460 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:05,596 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:05,783 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:05,899 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:06,033 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:06,166 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:06,286 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:06,483 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:06,604 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:06,778 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:06,897 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:07,070 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:07,247 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:07,377 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:07,540 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:07,688 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:07,844 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:07,982 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:08,104 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:08,271 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:08,513 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:08,716 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:09,055 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:09,282 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:09,475 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:10,053 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:10,251 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:10,374 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:10,564 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:10,830 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:11,184 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:11,384 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:18:11,528 - [12] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro Ao Salvar os Dados
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:40,280 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:41,471 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:42,696 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:44,030 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:45,122 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:46,630 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:47,216 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:48,478 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:50,226 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:52,190 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:53,874 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:55,290 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:56,274 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:57,339 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:58,457 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:21:59,540 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:00,559 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:01,274 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:02,318 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:03,539 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:04,746 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:06,280 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:07,509 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:08,783 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:10,341 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:11,633 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:12,838 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:14,179 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:15,555 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:17,133 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:26,394 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:33,488 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:34,386 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:35,561 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:36,557 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:37,769 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:38,568 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:39,480 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:40,629 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:41,367 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:42,245 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:43,215 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:43,778 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:44,809 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:46,224 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:47,093 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:47,253 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:47,447 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:48,109 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:48,790 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:49,439 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:50,443 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:52,854 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:22:57,031 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:01,449 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:03,246 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:04,627 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:07,263 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:09,505 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:09,938 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:11,056 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:11,506 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:11,818 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:13,217 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:23:14,823 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+2022-03-27 15:23:50,054 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:24:11,509 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:24:11,941 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:24:12,370 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)
+15:24:12,763 - [62] - ERROR - Bussiness.BaseBussiness - UpdatePlayerActivityData
+System.Exception: Erro ao Salvar
+   em Bussiness.PlayerBussiness.UpdatePlayerActivityData(ActiveQuestUserData data)

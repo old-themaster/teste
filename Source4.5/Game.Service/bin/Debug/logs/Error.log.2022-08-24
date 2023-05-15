@@ -1,0 +1,658 @@
+21:09:16,579 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,589 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AssState,keep it default value!
+21:09:16,591 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,593 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BagMailEnable,keep it default value!
+21:09:16,595 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,596 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BeginAuction,keep it default value!
+21:09:16,598 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,599 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BigDicePrice,keep it default value!
+21:09:16,601 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,602 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SmallDicePrice,keep it default value!
+21:09:16,605 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,609 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BigExp,keep it default value!
+21:09:16,611 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,613 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoguAdventurePrice,keep it default value!
+21:09:16,616 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,618 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoxAppearCondition,keep it default value!
+21:09:16,622 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,624 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Cess,keep it default value!
+21:09:16,627 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,629 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CommonDicePrice,keep it default value!
+21:09:16,632 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,634 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ConsortiaStrengthenEx,keep it default value!
+21:09:16,637 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,640 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CustomLimit,keep it default value!
+21:09:16,644 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,645 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+21:09:16,648 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,651 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+21:09:16,656 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,658 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBeginDate,keep it default value!
+21:09:16,660 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,662 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasEndDate,keep it default value!
+21:09:16,665 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,668 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasGifts,keep it default value!
+21:09:16,676 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,678 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasGiftsMaxNum,keep it default value!
+21:09:16,682 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,685 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuildSnowmanDoubleMoney,keep it default value!
+21:09:16,689 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,691 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuyTimeMoney,keep it default value!
+21:09:16,693 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,695 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasMinute,keep it default value!
+21:09:16,698 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,701 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuyMinute,keep it default value!
+21:09:16,704 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,705 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DailyAwardState,keep it default value!
+21:09:16,708 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,709 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityBeginDate,keep it default value!
+21:09:16,711 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,716 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityEndDate,keep it default value!
+21:09:16,718 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,720 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityMoney,keep it default value!
+21:09:16,723 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,725 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AdvanceRateValue,keep it default value!
+21:09:16,727 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,728 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceBeginTime,keep it default value!
+21:09:16,734 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,735 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceEndTime,keep it default value!
+21:09:16,737 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,739 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceGameAwardAndCount,keep it default value!
+21:09:16,741 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,742 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceRefreshPrice,keep it default value!
+21:09:16,746 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,749 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DisableCommands,keep it default value!
+21:09:16,752 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,753 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPriceBig,keep it default value!
+21:09:16,756 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,757 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidDDTPrice,keep it default value!
+21:09:16,760 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,764 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidTimeRemain,keep it default value!
+21:09:16,766 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,768 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPriceSmall,keep it default value!
+21:09:16,770 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,771 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPricePerMin,keep it default value!
+21:09:16,774 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,776 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DoubleDicePrice,keep it default value!
+21:09:16,779 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,781 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatAreaMinScore,keep it default value!
+21:09:16,784 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,785 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatBeginDate,keep it default value!
+21:09:16,787 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,789 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatByMoney,keep it default value!
+21:09:16,791 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,795 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatByProps,keep it default value!
+21:09:16,798 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,799 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatConvertHours,keep it default value!
+21:09:16,801 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,803 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatEndDate,keep it default value!
+21:09:16,805 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,807 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatMaxScore,keep it default value!
+21:09:16,810 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,813 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatMinScore,keep it default value!
+21:09:16,815 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,816 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatProp,keep it default value!
+21:09:16,818 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,820 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+21:09:16,822 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,824 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EndAuction,keep it default value!
+21:09:16,829 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,830 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EquipMaxRefineryLevel,keep it default value!
+21:09:16,833 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,834 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EquipRefineryExp,keep it default value!
+21:09:16,836 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,838 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightFootballTime,keep it default value!
+21:09:16,841 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,844 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FreeExp,keep it default value!
+21:09:16,846 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,848 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FreeMoney,keep it default value!
+21:09:16,850 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,852 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HoleLevelUpExpList,keep it default value!
+21:09:16,855 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,860 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HotSpringExp,keep it default value!
+21:09:16,862 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,863 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsActiveMoney,keep it default value!
+21:09:16,866 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,868 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsDDTMoneyActive,keep it default value!
+21:09:16,870 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,871 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitAuction,keep it default value!
+21:09:16,877 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,879 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitCount,keep it default value!
+21:09:16,881 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,882 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitMail,keep it default value!
+21:09:16,885 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,886 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitMoney,keep it default value!
+21:09:16,889 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,892 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WishBeadRate,keep it default value!
+21:09:16,894 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,896 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WishBeadLimitLv,keep it default value!
+21:09:16,898 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,899 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsWishBeadLimit,keep it default value!
+21:09:16,901 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,902 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsPromotePackageOpen,keep it default value!
+21:09:16,907 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,909 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property KingBuffPrice,keep it default value!
+21:09:16,912 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,913 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleAnswerScore,keep it default value!
+21:09:16,916 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,917 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleAnswerTime,keep it default value!
+21:09:16,919 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,924 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleBeginDate,keep it default value!
+21:09:16,926 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,927 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleBeginTime,keep it default value!
+21:09:16,929 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,931 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleComboMoney,keep it default value!
+21:09:16,933 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,935 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleEndDate,keep it default value!
+21:09:16,938 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,941 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleEndTime,keep it default value!
+21:09:16,944 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,945 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleFreeComboNum,keep it default value!
+21:09:16,948 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,950 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleFreeHitNum,keep it default value!
+21:09:16,954 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,957 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleHitMoney,keep it default value!
+21:09:16,959 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,960 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleOpenLevel,keep it default value!
+21:09:16,963 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,964 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitAuction,keep it default value!
+21:09:16,967 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,972 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitCount,keep it default value!
+21:09:16,976 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,978 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitMail,keep it default value!
+21:09:16,980 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,982 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitMoney,keep it default value!
+21:09:16,986 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,988 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LuckStarActivityBeginDate,keep it default value!
+21:09:16,992 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,994 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LuckStarActivityEndDate,keep it default value!
+21:09:16,997 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:16,998 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MagicPackageID,keep it default value!
+21:09:17,003 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,005 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MagicStoneOpenPoint,keep it default value!
+21:09:17,008 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,010 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MaxMissionEnergy,keep it default value!
+21:09:17,012 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,013 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MinUseNum,keep it default value!
+21:09:17,016 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,018 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBeginDate,keep it default value!
+21:09:17,020 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,023 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterEndDate,keep it default value!
+21:09:17,025 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,026 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBoxInfo,keep it default value!
+21:09:17,028 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,030 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBuffMoney,keep it default value!
+21:09:17,034 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,036 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterFightNum,keep it default value!
+21:09:17,039 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,040 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterHP,keep it default value!
+21:09:17,043 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,044 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterOpenLevel,keep it default value!
+21:09:17,047 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,050 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenBeginTime,keep it default value!
+21:09:17,053 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,055 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenEndTime,keep it default value!
+21:09:17,057 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,059 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenEagleEyePrice,keep it default value!
+21:09:17,061 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,062 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenOpenCardPrice,keep it default value!
+21:09:17,068 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,069 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenFlushPrice,keep it default value!
+21:09:17,072 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,074 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenMagicStonePackageMoney,keep it default value!
+21:09:17,076 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,077 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenRunePackageMoney,keep it default value!
+21:09:17,080 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,083 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenRunePackageRange,keep it default value!
+21:09:17,085 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,086 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PetExp,keep it default value!
+21:09:17,089 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,090 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+21:09:17,092 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,094 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedDiscountMoney,keep it default value!
+21:09:17,099 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,100 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+21:09:17,103 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,104 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MarryRoomCreateMoney,keep it default value!
+21:09:17,107 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,108 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+21:09:17,111 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,115 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+21:09:17,117 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,118 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PromotePackagePrice,keep it default value!
+21:09:17,121 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,122 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidBeginTime,keep it default value!
+21:09:17,125 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,126 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidEndTime,keep it default value!
+21:09:17,131 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,132 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidRevivePrice,keep it default value!
+21:09:17,134 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,136 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramydTurnCardPrice,keep it default value!
+21:09:17,138 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,139 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RingLevel,keep it default value!
+21:09:17,142 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,148 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RingMaxRefineryLevel,keep it default value!
+21:09:17,151 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,153 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RuneLevelUpExp,keep it default value!
+21:09:17,156 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,157 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RunePackageID,keep it default value!
+21:09:17,162 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,164 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsFreeCount,keep it default value!
+21:09:17,166 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,167 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsFreeLimit,keep it default value!
+21:09:17,170 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,171 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsPayMoney,keep it default value!
+21:09:17,176 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,178 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsTakeCardMoney,keep it default value!
+21:09:17,180 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,181 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SpaPriRoomContinueTime,keep it default value!
+21:09:17,184 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,185 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SpaPubRoomLoginPay,keep it default value!
+21:09:17,188 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,189 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property TestActive,keep it default value!
+21:09:17,195 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,196 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VIPExpForEachLv,keep it default value!
+21:09:17,199 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,200 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VIPStrengthenEx,keep it default value!
+21:09:17,202 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,204 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VirtualName,keep it default value!
+21:09:17,208 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,210 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property TimeForLeague,keep it default value!
+21:09:17,212 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,214 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterFreezeHours,keep it default value!
+21:09:17,216 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,217 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyApprenticeFreezeHours,keep it default value!
+21:09:17,219 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,221 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyApprenticeAward,keep it default value!
+21:09:17,226 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,227 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterAward,keep it default value!
+21:09:17,230 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,231 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyAppAwardComplete,keep it default value!
+21:09:17,233 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,235 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasAwardComplete,keep it default value!
+21:09:17,237 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,241 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterExpPlus,keep it default value!
+21:09:17,243 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,245 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterRateData,keep it default value!
+21:09:17,247 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,249 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterMaxDay,keep it default value!
+21:09:17,251 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,255 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterEndDate,keep it default value!
+21:09:17,260 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,261 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EliteGameBlockWeapon,keep it default value!
+21:09:17,263 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,265 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EliteGameDayOpening,keep it default value!
+21:09:17,267 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,268 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightLibAwardGift,keep it default value!
+21:09:17,274 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,275 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightLibAwardExp,keep it default value!
+21:09:17,277 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,279 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionRiches,keep it default value!
+21:09:17,281 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,282 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardRiches,keep it default value!
+21:09:17,285 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,288 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardGP,keep it default value!
+21:09:17,291 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,293 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardOffer,keep it default value!
+21:09:17,295 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,296 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionMinute,keep it default value!
+21:09:17,298 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,300 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionBuffDay,keep it default value!
+21:09:17,302 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,306 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property InlayGoldPrice,keep it default value!
+21:09:17,308 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,310 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritSwitch,keep it default value!
+21:09:17,312 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,313 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritMaxLevel,keep it default value!
+21:09:17,317 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,319 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SendLittleGameActived,keep it default value!
+21:09:17,321 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,324 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritLevelAddDamage,keep it default value!
+21:09:17,326 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,327 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MysteryShopOpenTime,keep it default value!
+21:09:17,330 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,334 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MysteryShopFreshTime,keep it default value!
+21:09:17,337 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,338 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ClientVersion,keep it default value!
+21:09:17,341 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,342 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HalloweenEndDate,keep it default value!
+21:09:17,345 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,346 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayBeginDate,keep it default value!
+21:09:17,352 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,354 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayEndDate,keep it default value!
+21:09:17,357 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,358 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayMoney,keep it default value!
+21:09:17,360 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 280
+21:09:17,362 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ExchangeFold,keep it default value!
+21:09:17,373 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetAllConsortiaLevel
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.GetAllConsortiaLevel() na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ConsortiaBussiness.cs:linha 729
+21:09:17,716 - [MAIN] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ServiceBussiness.GetServiceSingle(Int32 ID) na C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\ServiceBussiness.cs:linha 354

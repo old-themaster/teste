@@ -1,0 +1,266 @@
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\Bussiness.pdb
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source\Bussiness\obj\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source\Bussiness\obj\Debug\Bussiness.pdb
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\Bussiness.pdb
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\obj\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source(costura)\Bussiness\obj\Debug\Bussiness.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\Bussiness.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\Bussiness.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\Game.Base.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\log4net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\zlib.net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\protobuf-net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\Game.Base.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\obj\Debug\Bussiness.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\log4net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Leilton\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\log4net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Administrador\Desktop\Source(costura)\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\log4net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\Bussiness.dll
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\Bussiness.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\Game.Base.dll
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\log4net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\zlib.net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\protobuf-net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\Game.Base.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.dll
+C:\DDtank 4.5\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\55849\Desktop\Source(costura) - Copia\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\Bussiness.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\Bussiness.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\Game.Base.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\log4net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\zlib.net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\protobuf-net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\Game.Base.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Bussiness\obj\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\obj\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\obj\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\Bussiness.dll
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\Bussiness.pdb
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\Game.Base.dll
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\log4net.dll
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\zlib.net.dll
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\protobuf-net.dll
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\Game.Base.pdb
+C:\projeto ddtank 4.1\Source4.5\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\projeto ddtank 4.1\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\projeto ddtank 4.1\Source4.5\Bussiness\obj\Debug\Bussiness.dll
+C:\projeto ddtank 4.1\Source4.5\Bussiness\obj\Debug\Bussiness.pdb
+C:\Source4.5\Bussiness\bin\Debug\Bussiness.dll
+C:\Source4.5\Bussiness\bin\Debug\Bussiness.pdb
+C:\Source4.5\Bussiness\bin\Debug\Game.Base.dll
+C:\Source4.5\Bussiness\bin\Debug\log4net.dll
+C:\Source4.5\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Source4.5\Bussiness\bin\Debug\zlib.net.dll
+C:\Source4.5\Bussiness\bin\Debug\protobuf-net.dll
+C:\Source4.5\Bussiness\bin\Debug\Game.Base.pdb
+C:\Source4.5\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Source4.5\Bussiness\obj\Debug\Bussiness.dll
+C:\Source4.5\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\log4net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\protobuf-net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Bussiness\obj\Debug\Bussiness.pdb

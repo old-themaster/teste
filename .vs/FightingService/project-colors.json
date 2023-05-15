@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84bf6699-751a-4078-aec4-e217dacdec28": {
+      "ProjectGuid": "84bf6699-751a-4078-aec4-e217dacdec28",
+      "DisplayName": "Bussiness",
+      "ColorIndex": 0
+    },
+    "b2910b83-d519-4a08-bbd3-1e82e6c4932a": {
+      "ProjectGuid": "b2910b83-d519-4a08-bbd3-1e82e6c4932a",
+      "DisplayName": "Fighting.Server",
+      "ColorIndex": 1
+    },
+    "86e4a36d-d548-4bd5-b3ed-8666a5090173": {
+      "ProjectGuid": "86e4a36d-d548-4bd5-b3ed-8666a5090173",
+      "DisplayName": "Game.Logic",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,1610 @@
+11:37:17,265 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+11:37:33,496 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,502 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AssState,keep it default value!
+11:37:33,503 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,504 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BagMailEnable,keep it default value!
+11:37:33,505 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,505 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BeginAuction,keep it default value!
+11:37:33,506 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,507 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property servidor,keep it default value!
+11:37:33,508 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,508 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BigDicePrice,keep it default value!
+11:37:33,509 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,512 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SmallDicePrice,keep it default value!
+11:37:33,514 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,515 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BigExp,keep it default value!
+11:37:33,516 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,517 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoguAdventurePrice,keep it default value!
+11:37:33,518 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,519 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoxAppearCondition,keep it default value!
+11:37:33,520 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,523 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Cess,keep it default value!
+11:37:33,524 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,525 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CommonDicePrice,keep it default value!
+11:37:33,526 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,527 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ConsortiaStrengthenEx,keep it default value!
+11:37:33,528 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,529 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CustomLimit,keep it default value!
+11:37:33,530 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,533 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+11:37:33,534 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,535 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+11:37:33,536 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,537 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBeginDate,keep it default value!
+11:37:33,538 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,539 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasEndDate,keep it default value!
+11:37:33,540 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,541 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasGifts,keep it default value!
+11:37:33,544 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,544 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasGiftsMaxNum,keep it default value!
+11:37:33,545 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,546 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuildSnowmanDoubleMoney,keep it default value!
+11:37:33,548 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,548 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuyTimeMoney,keep it default value!
+11:37:33,550 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,552 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasMinute,keep it default value!
+11:37:33,554 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,554 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuyMinute,keep it default value!
+11:37:33,555 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,556 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DailyAwardState,keep it default value!
+11:37:33,557 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,559 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityBeginDate,keep it default value!
+11:37:33,560 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,560 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityEndDate,keep it default value!
+11:37:33,564 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,564 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityMoney,keep it default value!
+11:37:33,566 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,567 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AdvanceRateValue,keep it default value!
+11:37:33,568 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,569 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceBeginTime,keep it default value!
+11:37:33,570 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,571 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceEndTime,keep it default value!
+11:37:33,572 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,574 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceGameAwardAndCount,keep it default value!
+11:37:33,575 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,576 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceRefreshPrice,keep it default value!
+11:37:33,578 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,578 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DisableCommands,keep it default value!
+11:37:33,580 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,580 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPriceBig,keep it default value!
+11:37:33,582 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,584 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidDDTPrice,keep it default value!
+11:37:33,585 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,586 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidTimeRemain,keep it default value!
+11:37:33,587 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,588 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPriceSmall,keep it default value!
+11:37:33,589 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,590 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPricePerMin,keep it default value!
+11:37:33,591 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,594 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DoubleDicePrice,keep it default value!
+11:37:33,595 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,596 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatAreaMinScore,keep it default value!
+11:37:33,597 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,598 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatBeginDate,keep it default value!
+11:37:33,599 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,600 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatByMoney,keep it default value!
+11:37:33,601 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,602 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatByProps,keep it default value!
+11:37:33,603 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,605 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatConvertHours,keep it default value!
+11:37:33,606 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,607 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatEndDate,keep it default value!
+11:37:33,608 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,609 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatMaxScore,keep it default value!
+11:37:33,610 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,611 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatMinScore,keep it default value!
+11:37:33,612 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,613 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatProp,keep it default value!
+11:37:33,614 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,616 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+11:37:33,618 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,619 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EndAuction,keep it default value!
+11:37:33,620 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,621 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property GodCardOpenOneTimeMoney,keep it default value!
+11:37:33,622 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,623 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property GodCardOpenFiveTimeMoney,keep it default value!
+11:37:33,624 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,626 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SanXiaoStartTime,keep it default value!
+11:37:33,628 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,628 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SanXiaoEndTime,keep it default value!
+11:37:33,630 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,630 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EquipMaxRefineryLevel,keep it default value!
+11:37:33,632 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,632 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EquipRefineryExp,keep it default value!
+11:37:33,634 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,634 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightFootballTime,keep it default value!
+11:37:33,637 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,638 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FreeExp,keep it default value!
+11:37:33,639 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,640 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FreeMoney,keep it default value!
+11:37:33,641 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,642 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HoleLevelUpExpList,keep it default value!
+11:37:33,643 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,644 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HotSpringExp,keep it default value!
+11:37:33,645 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,647 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsActiveMoney,keep it default value!
+11:37:33,648 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,649 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsDDTMoneyActive,keep it default value!
+11:37:33,650 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,651 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitAuction,keep it default value!
+11:37:33,653 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,653 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitCount,keep it default value!
+11:37:33,654 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,657 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitMail,keep it default value!
+11:37:33,658 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,659 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitMoney,keep it default value!
+11:37:33,660 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,661 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WishBeadRate,keep it default value!
+11:37:33,663 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,663 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WishBeadLimitLv,keep it default value!
+11:37:33,665 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,667 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsWishBeadLimit,keep it default value!
+11:37:33,668 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,669 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsPromotePackageOpen,keep it default value!
+11:37:33,670 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,671 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property KingBuffPrice,keep it default value!
+11:37:33,672 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,673 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleAnswerScore,keep it default value!
+11:37:33,674 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,677 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleAnswerTime,keep it default value!
+11:37:33,678 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,679 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleBeginDate,keep it default value!
+11:37:33,680 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,681 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleBeginTime,keep it default value!
+11:37:33,682 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,683 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleComboMoney,keep it default value!
+11:37:33,684 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,685 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleEndDate,keep it default value!
+11:37:33,686 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,688 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleEndTime,keep it default value!
+11:37:33,690 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,690 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleFreeComboNum,keep it default value!
+11:37:33,691 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,692 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleFreeHitNum,keep it default value!
+11:37:33,693 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,694 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleHitMoney,keep it default value!
+11:37:33,695 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,698 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleOpenLevel,keep it default value!
+11:37:33,699 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,700 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitAuction,keep it default value!
+11:37:33,701 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,702 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitCount,keep it default value!
+11:37:33,703 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,704 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitMail,keep it default value!
+11:37:33,706 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,708 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitMoney,keep it default value!
+11:37:33,709 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,710 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LuckStarActivityBeginDate,keep it default value!
+11:37:33,711 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,712 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LuckStarActivityEndDate,keep it default value!
+11:37:33,714 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,715 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MagicPackageID,keep it default value!
+11:37:33,716 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,718 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MagicStoneOpenPoint,keep it default value!
+11:37:33,719 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,720 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MaxMissionEnergy,keep it default value!
+11:37:33,721 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,722 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MinUseNum,keep it default value!
+11:37:33,723 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,724 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBeginDate,keep it default value!
+11:37:33,725 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,728 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterEndDate,keep it default value!
+11:37:33,729 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,730 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBoxInfo,keep it default value!
+11:37:33,731 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,732 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBuffMoney,keep it default value!
+11:37:33,733 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,734 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterFightNum,keep it default value!
+11:37:33,736 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,737 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterHP,keep it default value!
+11:37:33,740 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,741 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterOpenLevel,keep it default value!
+11:37:33,744 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,745 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenBeginTime,keep it default value!
+11:37:33,747 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,749 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenEndTime,keep it default value!
+11:37:33,750 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,751 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenEagleEyePrice,keep it default value!
+11:37:33,752 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,752 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenOpenCardPrice,keep it default value!
+11:37:33,754 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,755 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenFlushPrice,keep it default value!
+11:37:33,756 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,757 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenMagicStonePackageMoney,keep it default value!
+11:37:33,760 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,760 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenRunePackageMoney,keep it default value!
+11:37:33,762 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,762 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenRunePackageRange,keep it default value!
+11:37:33,764 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,764 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PetExp,keep it default value!
+11:37:33,766 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,767 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+11:37:33,768 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,770 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedDiscountMoney,keep it default value!
+11:37:33,771 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,772 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+11:37:33,773 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,774 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MarryRoomCreateMoney,keep it default value!
+11:37:33,775 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,776 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+11:37:33,777 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,780 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+11:37:33,781 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,782 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PromotePackagePrice,keep it default value!
+11:37:33,783 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,784 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidBeginTime,keep it default value!
+11:37:33,786 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,786 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidEndTime,keep it default value!
+11:37:33,788 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,790 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidRevivePrice,keep it default value!
+11:37:33,791 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,792 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramydTurnCardPrice,keep it default value!
+11:37:33,793 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,794 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RingLevel,keep it default value!
+11:37:33,795 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,796 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RingMaxRefineryLevel,keep it default value!
+11:37:33,797 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,800 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RuneLevelUpExp,keep it default value!
+11:37:33,801 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,802 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RunePackageID,keep it default value!
+11:37:33,803 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,804 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsFreeCount,keep it default value!
+11:37:33,805 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,806 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsFreeLimit,keep it default value!
+11:37:33,807 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,810 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsPayMoney,keep it default value!
+11:37:33,811 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,812 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsTakeCardMoney,keep it default value!
+11:37:33,813 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,814 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SpaPriRoomContinueTime,keep it default value!
+11:37:33,815 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,816 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SpaPubRoomLoginPay,keep it default value!
+11:37:33,817 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,819 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property TestActive,keep it default value!
+11:37:33,821 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,822 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VIPExpForEachLv,keep it default value!
+11:37:33,823 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,824 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VIPStrengthenEx,keep it default value!
+11:37:33,825 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,826 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VirtualName,keep it default value!
+11:37:33,827 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,828 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property TimeForLeague,keep it default value!
+11:37:33,831 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,831 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterFreezeHours,keep it default value!
+11:37:33,833 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,833 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyApprenticeFreezeHours,keep it default value!
+11:37:33,835 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,835 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyApprenticeAward,keep it default value!
+11:37:33,836 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,837 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterAward,keep it default value!
+11:37:33,840 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,841 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyAppAwardComplete,keep it default value!
+11:37:33,842 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,843 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasAwardComplete,keep it default value!
+11:37:33,845 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,847 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterExpPlus,keep it default value!
+11:37:33,848 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,850 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterRateData,keep it default value!
+11:37:33,851 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,852 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterMaxDay,keep it default value!
+11:37:33,853 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,853 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterEndDate,keep it default value!
+11:37:33,855 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,855 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EliteGameBlockWeapon,keep it default value!
+11:37:33,857 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,858 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EliteGameDayOpening,keep it default value!
+11:37:33,861 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,862 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightLibAwardGift,keep it default value!
+11:37:33,863 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,864 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightLibAwardExp,keep it default value!
+11:37:33,865 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,866 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionRiches,keep it default value!
+11:37:33,867 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,868 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardRiches,keep it default value!
+11:37:33,869 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,871 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardGP,keep it default value!
+11:37:33,873 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,873 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardOffer,keep it default value!
+11:37:33,874 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,875 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionMinute,keep it default value!
+11:37:33,876 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,877 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionBuffDay,keep it default value!
+11:37:33,878 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,880 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property InlayGoldPrice,keep it default value!
+11:37:33,882 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,883 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritSwitch,keep it default value!
+11:37:33,884 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,884 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritMaxLevel,keep it default value!
+11:37:33,886 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,886 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SendLittleGameActived,keep it default value!
+11:37:33,887 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,888 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritLevelAddDamage,keep it default value!
+11:37:33,889 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,891 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MysteryShopOpenTime,keep it default value!
+11:37:33,892 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,893 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MysteryShopFreshTime,keep it default value!
+11:37:33,894 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,895 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ClientVersion,keep it default value!
+11:37:33,896 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,897 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HalloweenEndDate,keep it default value!
+11:37:33,898 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,900 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayBeginDate,keep it default value!
+11:37:33,902 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,902 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayEndDate,keep it default value!
+11:37:33,904 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,904 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayMoney,keep it default value!
+11:37:33,905 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:37:33,906 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ExchangeFold,keep it default value!
+11:37:33,910 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+11:37:33,915 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+11:37:33,915 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+11:37:33,916 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:2612558: True
+11:37:33,918 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:45901: True
+11:37:34,028 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+11:37:34,029 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+11:37:34,033 - [MAIN] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerList() in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 236
+11:37:34,033 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+11:37:34,034 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+11:37:34,046 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+11:37:34,072 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+11:37:34,088 - [MAIN] - INFO  - Center.Server.WorldMgr - Total 6 syterm notice loaded.
+11:37:34,089 - [MAIN] - INFO  - Center.Server.CenterServer - WorldMgr Init: True
+11:37:34,090 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+11:37:34,093 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+11:37:34,094 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+11:37:34,095 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+11:37:34,095 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+11:37:34,096 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+11:37:34,096 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+11:37:34,097 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+11:37:34,098 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+11:37:34,098 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+11:37:34,104 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+11:37:34,105 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+11:38:34,106 - [8] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:38:34,107 - [8] - DEBUG - Center.Server.CenterServer - Scan ThreadId=8
+11:38:34,107 - [4] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:38:34,107 - [4] - DEBUG - Center.Server.CenterServer - Scan ThreadId=4
+11:38:34,109 - [4] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:38:34,110 - [4] - INFO  - Center.Server.CenterServer - Saving Record...
+11:38:34,110 - [4] - DEBUG - Center.Server.CenterServer - Save ThreadId=4
+11:38:34,113 - [8] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:38:34,114 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+11:38:34,114 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+11:38:34,118 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:38:34,119 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+11:38:34,119 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+11:38:34,120 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:38:34,122 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 15ms
+11:38:50,262 - [4] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:38:50,265 - [4] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:39:34,105 - [9] - INFO  - Center.Server.CenterServer - System Notice ...
+11:39:34,105 - [9] - DEBUG - Center.Server.CenterServer - Save ThreadId=9
+11:39:34,108 - [9] - INFO  - Center.Server.CenterServer - System Notice complete!
+11:39:34,121 - [9] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:39:34,121 - [9] - DEBUG - Center.Server.CenterServer - Scan ThreadId=9
+11:39:34,121 - [10] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:39:34,122 - [9] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:39:34,123 - [9] - INFO  - Center.Server.CenterServer - Saving Record...
+11:39:34,123 - [9] - DEBUG - Center.Server.CenterServer - Save ThreadId=9
+11:39:34,122 - [10] - DEBUG - Center.Server.CenterServer - Scan ThreadId=10
+11:39:34,124 - [10] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:39:34,126 - [10] - INFO  - Center.Server.CenterServer - Saving Record...
+11:39:34,126 - [10] - DEBUG - Center.Server.CenterServer - Save ThreadId=10
+11:39:34,127 - [10] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:39:34,128 - [10] - INFO  - Center.Server.CenterServer - Saving database...
+11:39:34,128 - [10] - DEBUG - Center.Server.CenterServer - Save ThreadId=10
+11:39:34,129 - [10] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:39:34,129 - [10] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:39:50,203 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:39:50,205 - [9] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:40:34,121 - [9] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:40:34,123 - [9] - DEBUG - Center.Server.CenterServer - Scan ThreadId=9
+11:40:34,121 - [11] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:40:34,123 - [11] - DEBUG - Center.Server.CenterServer - Scan ThreadId=11
+11:40:34,123 - [9] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:40:34,124 - [11] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:40:34,124 - [9] - INFO  - Center.Server.CenterServer - Saving Record...
+11:40:34,125 - [9] - DEBUG - Center.Server.CenterServer - Save ThreadId=9
+11:40:34,125 - [11] - INFO  - Center.Server.CenterServer - Saving Record...
+11:40:34,127 - [11] - DEBUG - Center.Server.CenterServer - Save ThreadId=11
+11:40:34,127 - [11] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:40:34,127 - [11] - INFO  - Center.Server.CenterServer - Saving database...
+11:40:34,128 - [11] - DEBUG - Center.Server.CenterServer - Save ThreadId=11
+11:40:34,129 - [11] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:40:34,129 - [11] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:40:50,277 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:40:50,280 - [9] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:41:34,104 - [12] - INFO  - Center.Server.CenterServer - System Notice ...
+11:41:34,104 - [12] - DEBUG - Center.Server.CenterServer - Save ThreadId=12
+11:41:34,105 - [12] - INFO  - Center.Server.CenterServer - System Notice complete!
+11:41:34,137 - [12] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:41:34,137 - [12] - DEBUG - Center.Server.CenterServer - Scan ThreadId=12
+11:41:34,138 - [12] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:41:34,138 - [12] - INFO  - Center.Server.CenterServer - Saving Record...
+11:41:34,139 - [12] - DEBUG - Center.Server.CenterServer - Save ThreadId=12
+11:41:34,137 - [13] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:41:34,139 - [13] - DEBUG - Center.Server.CenterServer - Scan ThreadId=13
+11:41:34,141 - [13] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:41:34,141 - [13] - INFO  - Center.Server.CenterServer - Saving Record...
+11:41:34,142 - [13] - DEBUG - Center.Server.CenterServer - Save ThreadId=13
+11:41:34,142 - [13] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:41:34,143 - [13] - INFO  - Center.Server.CenterServer - Saving database...
+11:41:34,143 - [13] - DEBUG - Center.Server.CenterServer - Save ThreadId=13
+11:41:34,144 - [13] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:41:34,144 - [13] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:41:50,247 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:41:50,249 - [12] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:42:34,138 - [14] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:42:34,138 - [14] - DEBUG - Center.Server.CenterServer - Scan ThreadId=14
+11:42:34,138 - [15] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:42:34,140 - [15] - DEBUG - Center.Server.CenterServer - Scan ThreadId=15
+11:42:34,139 - [14] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:42:34,141 - [14] - INFO  - Center.Server.CenterServer - Saving Record...
+11:42:34,141 - [14] - DEBUG - Center.Server.CenterServer - Save ThreadId=14
+11:42:34,140 - [15] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:42:34,142 - [15] - INFO  - Center.Server.CenterServer - Saving Record...
+11:42:34,143 - [15] - DEBUG - Center.Server.CenterServer - Save ThreadId=15
+11:42:34,143 - [15] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:42:34,144 - [15] - INFO  - Center.Server.CenterServer - Saving database...
+11:42:34,145 - [15] - DEBUG - Center.Server.CenterServer - Save ThreadId=15
+11:42:34,145 - [15] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:42:34,146 - [15] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:42:50,288 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:42:50,290 - [14] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:43:34,105 - [16] - INFO  - Center.Server.CenterServer - System Notice ...
+11:43:34,105 - [16] - DEBUG - Center.Server.CenterServer - Save ThreadId=16
+11:43:34,106 - [16] - INFO  - Center.Server.CenterServer - System Notice complete!
+11:43:34,151 - [16] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:43:34,151 - [17] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:43:34,152 - [17] - DEBUG - Center.Server.CenterServer - Scan ThreadId=17
+11:43:34,152 - [16] - DEBUG - Center.Server.CenterServer - Scan ThreadId=16
+11:43:34,152 - [17] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:43:34,153 - [17] - INFO  - Center.Server.CenterServer - Saving Record...
+11:43:34,154 - [17] - DEBUG - Center.Server.CenterServer - Save ThreadId=17
+11:43:34,154 - [18] - INFO  - Center.Server.CenterServer - Saving Record...
+11:43:34,155 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:43:34,155 - [18] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:43:34,156 - [18] - INFO  - Center.Server.CenterServer - Saving database...
+11:43:34,156 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:43:34,157 - [18] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:43:34,157 - [18] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:43:34,158 - [16] - INFO  - Center.Server.CenterServer - Scan Consortiaboss award complete!
+11:43:34,159 - [16] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:43:50,247 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:43:50,249 - [17] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:44:34,152 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:44:34,153 - [18] - DEBUG - Center.Server.CenterServer - Scan ThreadId=18
+11:44:34,152 - [19] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:44:34,154 - [19] - DEBUG - Center.Server.CenterServer - Scan ThreadId=19
+11:44:34,153 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:44:34,155 - [18] - INFO  - Center.Server.CenterServer - Saving Record...
+11:44:34,155 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:44:34,156 - [19] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:44:34,157 - [19] - INFO  - Center.Server.CenterServer - Saving Record...
+11:44:34,158 - [19] - DEBUG - Center.Server.CenterServer - Save ThreadId=19
+11:44:34,159 - [19] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:44:34,159 - [19] - INFO  - Center.Server.CenterServer - Saving database...
+11:44:34,160 - [19] - DEBUG - Center.Server.CenterServer - Save ThreadId=19
+11:44:34,160 - [19] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:44:34,162 - [19] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:44:50,275 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:44:50,277 - [18] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:45:34,106 - [18] - INFO  - Center.Server.CenterServer - System Notice ...
+11:45:34,106 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:45:34,107 - [18] - INFO  - Center.Server.CenterServer - System Notice complete!
+11:45:34,153 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:45:34,154 - [18] - DEBUG - Center.Server.CenterServer - Scan ThreadId=18
+11:45:34,153 - [20] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:45:34,154 - [20] - DEBUG - Center.Server.CenterServer - Scan ThreadId=20
+11:45:34,154 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:45:34,155 - [20] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:45:34,156 - [18] - INFO  - Center.Server.CenterServer - Saving Record...
+11:45:34,156 - [20] - INFO  - Center.Server.CenterServer - Saving Record...
+11:45:34,157 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:45:34,157 - [20] - DEBUG - Center.Server.CenterServer - Save ThreadId=20
+11:45:34,158 - [20] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:45:34,158 - [20] - INFO  - Center.Server.CenterServer - Saving database...
+11:45:34,159 - [20] - DEBUG - Center.Server.CenterServer - Save ThreadId=20
+11:45:34,160 - [20] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:45:34,160 - [20] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:45:50,300 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:45:50,302 - [18] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:46:34,153 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:46:34,154 - [22] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:46:34,154 - [22] - DEBUG - Center.Server.CenterServer - Scan ThreadId=22
+11:46:34,154 - [18] - DEBUG - Center.Server.CenterServer - Scan ThreadId=18
+11:46:34,155 - [22] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:46:34,156 - [22] - INFO  - Center.Server.CenterServer - Saving Record...
+11:46:34,156 - [22] - DEBUG - Center.Server.CenterServer - Save ThreadId=22
+11:46:34,155 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:46:34,157 - [18] - INFO  - Center.Server.CenterServer - Saving Record...
+11:46:34,158 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:46:34,160 - [18] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:46:34,161 - [18] - INFO  - Center.Server.CenterServer - Saving database...
+11:46:34,161 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:46:34,161 - [18] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:46:34,162 - [18] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:46:50,289 - [22] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:46:50,291 - [22] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:47:34,107 - [18] - INFO  - Center.Server.CenterServer - System Notice ...
+11:47:34,107 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:47:34,108 - [18] - INFO  - Center.Server.CenterServer - System Notice complete!
+11:47:34,153 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:47:34,153 - [18] - DEBUG - Center.Server.CenterServer - Scan ThreadId=18
+11:47:34,153 - [24] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:47:34,157 - [24] - DEBUG - Center.Server.CenterServer - Scan ThreadId=24
+11:47:34,157 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:47:34,158 - [18] - INFO  - Center.Server.CenterServer - Saving Record...
+11:47:34,158 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:47:34,157 - [24] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:47:34,159 - [24] - INFO  - Center.Server.CenterServer - Saving Record...
+11:47:34,160 - [24] - DEBUG - Center.Server.CenterServer - Save ThreadId=24
+11:47:34,161 - [24] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:47:34,161 - [24] - INFO  - Center.Server.CenterServer - Saving database...
+11:47:34,162 - [24] - DEBUG - Center.Server.CenterServer - Save ThreadId=24
+11:47:34,162 - [24] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:47:34,163 - [24] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:47:50,273 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:47:50,275 - [18] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:48:34,154 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+11:48:34,155 - [18] - DEBUG - Center.Server.CenterServer - Scan ThreadId=18
+11:48:34,154 - [25] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+11:48:34,156 - [25] - DEBUG - Center.Server.CenterServer - Scan ThreadId=25
+11:48:34,155 - [18] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+11:48:34,156 - [18] - INFO  - Center.Server.CenterServer - Saving Record...
+11:48:34,157 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+11:48:34,156 - [25] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+11:48:34,158 - [25] - INFO  - Center.Server.CenterServer - Saving Record...
+11:48:34,159 - [25] - DEBUG - Center.Server.CenterServer - Save ThreadId=25
+11:48:34,159 - [25] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:48:34,160 - [25] - INFO  - Center.Server.CenterServer - Saving database...
+11:48:34,160 - [25] - DEBUG - Center.Server.CenterServer - Save ThreadId=25
+11:48:34,160 - [25] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:48:34,161 - [25] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:48:50,267 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ConsortiaBussiness.cs:line 2020
+11:48:50,269 - [18] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:49:34,107 - [2511:50:42,658 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+11:50:58,944 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,951 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AssState,keep it default value!
+11:50:58,956 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,957 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BagMailEnable,keep it default value!
+11:50:58,958 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,959 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BeginAuction,keep it default value!
+11:50:58,960 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,960 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property servidor,keep it default value!
+11:50:58,961 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,961 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BigDicePrice,keep it default value!
+11:50:58,962 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,963 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SmallDicePrice,keep it default value!
+11:50:58,964 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,965 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BigExp,keep it default value!
+11:50:58,967 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,970 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoguAdventurePrice,keep it default value!
+11:50:58,971 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,972 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoxAppearCondition,keep it default value!
+11:50:58,973 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,974 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Cess,keep it default value!
+11:50:58,975 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,976 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CommonDicePrice,keep it default value!
+11:50:58,977 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,978 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ConsortiaStrengthenEx,keep it default value!
+11:50:58,981 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,982 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CustomLimit,keep it default value!
+11:50:58,983 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,984 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+11:50:58,985 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,986 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+11:50:58,987 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:58,989 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBeginDate,keep it default value!
+11:50:58,998 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,000 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasEndDate,keep it default value!
+11:50:59,002 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,004 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasGifts,keep it default value!
+11:50:59,005 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,007 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasGiftsMaxNum,keep it default value!
+11:50:59,008 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,009 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuildSnowmanDoubleMoney,keep it default value!
+11:50:59,010 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,011 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuyTimeMoney,keep it default value!
+11:50:59,012 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,013 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasMinute,keep it default value!
+11:50:59,015 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,017 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ChristmasBuyMinute,keep it default value!
+11:50:59,018 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,019 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DailyAwardState,keep it default value!
+11:50:59,021 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,021 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityBeginDate,keep it default value!
+11:50:59,023 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,027 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityEndDate,keep it default value!
+11:50:59,029 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,031 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayActivityMoney,keep it default value!
+11:50:59,032 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,034 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AdvanceRateValue,keep it default value!
+11:50:59,036 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,037 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceBeginTime,keep it default value!
+11:50:59,038 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,039 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceEndTime,keep it default value!
+11:50:59,040 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,041 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceGameAwardAndCount,keep it default value!
+11:50:59,042 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,043 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DiceRefreshPrice,keep it default value!
+11:50:59,045 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,047 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DisableCommands,keep it default value!
+11:50:59,048 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,049 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPriceBig,keep it default value!
+11:50:59,051 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,052 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidDDTPrice,keep it default value!
+11:50:59,058 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,059 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidTimeRemain,keep it default value!
+11:50:59,061 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,062 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPriceSmall,keep it default value!
+11:50:59,064 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,065 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WarriorFamRaidPricePerMin,keep it default value!
+11:50:59,069 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,069 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DoubleDicePrice,keep it default value!
+11:50:59,071 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,071 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatAreaMinScore,keep it default value!
+11:50:59,072 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,073 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatBeginDate,keep it default value!
+11:50:59,074 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,080 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatByMoney,keep it default value!
+11:50:59,081 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,082 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatByProps,keep it default value!
+11:50:59,083 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,085 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatConvertHours,keep it default value!
+11:50:59,087 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,088 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatEndDate,keep it default value!
+11:50:59,092 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,093 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatMaxScore,keep it default value!
+11:50:59,094 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,095 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatMinScore,keep it default value!
+11:50:59,096 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,097 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DragonBoatProp,keep it default value!
+11:50:59,098 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,099 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+11:50:59,100 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,102 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EndAuction,keep it default value!
+11:50:59,103 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,104 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property GodCardOpenOneTimeMoney,keep it default value!
+11:50:59,105 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,106 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property GodCardOpenFiveTimeMoney,keep it default value!
+11:50:59,108 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,108 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SanXiaoStartTime,keep it default value!
+11:50:59,110 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,112 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SanXiaoEndTime,keep it default value!
+11:50:59,113 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,114 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EquipMaxRefineryLevel,keep it default value!
+11:50:59,115 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,116 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EquipRefineryExp,keep it default value!
+11:50:59,118 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,119 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightFootballTime,keep it default value!
+11:50:59,120 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,122 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FreeExp,keep it default value!
+11:50:59,124 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,125 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FreeMoney,keep it default value!
+11:50:59,126 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,127 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HoleLevelUpExpList,keep it default value!
+11:50:59,128 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,132 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HotSpringExp,keep it default value!
+11:50:59,133 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,134 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsActiveMoney,keep it default value!
+11:50:59,135 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,136 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsDDTMoneyActive,keep it default value!
+11:50:59,137 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,139 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitAuction,keep it default value!
+11:50:59,140 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,143 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitCount,keep it default value!
+11:50:59,144 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,145 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitMail,keep it default value!
+11:50:59,146 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,147 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsLimitMoney,keep it default value!
+11:50:59,149 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,150 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WishBeadRate,keep it default value!
+11:50:59,153 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,154 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property WishBeadLimitLv,keep it default value!
+11:50:59,155 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,156 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsWishBeadLimit,keep it default value!
+11:50:59,157 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,158 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property IsPromotePackageOpen,keep it default value!
+11:50:59,159 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,160 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property KingBuffPrice,keep it default value!
+11:50:59,161 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,164 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleAnswerScore,keep it default value!
+11:50:59,165 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,167 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleAnswerTime,keep it default value!
+11:50:59,169 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,170 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleBeginDate,keep it default value!
+11:50:59,172 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,173 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleBeginTime,keep it default value!
+11:50:59,175 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,177 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleComboMoney,keep it default value!
+11:50:59,180 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,186 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleEndDate,keep it default value!
+11:50:59,189 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,190 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleEndTime,keep it default value!
+11:50:59,194 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,205 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleFreeComboNum,keep it default value!
+11:50:59,207 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,210 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleFreeHitNum,keep it default value!
+11:50:59,215 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,215 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleHitMoney,keep it default value!
+11:50:59,217 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,218 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LightRiddleOpenLevel,keep it default value!
+11:50:59,219 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,220 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitAuction,keep it default value!
+11:50:59,221 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,222 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitCount,keep it default value!
+11:50:59,223 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,224 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitMail,keep it default value!
+11:50:59,227 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,228 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LimitMoney,keep it default value!
+11:50:59,229 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,230 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LuckStarActivityBeginDate,keep it default value!
+11:50:59,231 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,233 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LuckStarActivityEndDate,keep it default value!
+11:50:59,236 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,238 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MagicPackageID,keep it default value!
+11:50:59,240 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,241 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MagicStoneOpenPoint,keep it default value!
+11:50:59,243 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,246 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MaxMissionEnergy,keep it default value!
+11:50:59,247 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,249 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MinUseNum,keep it default value!
+11:50:59,250 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,251 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBeginDate,keep it default value!
+11:50:59,252 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,253 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterEndDate,keep it default value!
+11:50:59,254 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,257 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBoxInfo,keep it default value!
+11:50:59,258 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,259 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterBuffMoney,keep it default value!
+11:50:59,260 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,261 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterFightNum,keep it default value!
+11:50:59,262 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,263 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterHP,keep it default value!
+11:50:59,264 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,267 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property YearMonsterOpenLevel,keep it default value!
+11:50:59,268 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,269 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenBeginTime,keep it default value!
+11:50:59,270 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,271 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenEndTime,keep it default value!
+11:50:59,272 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,274 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenEagleEyePrice,keep it default value!
+11:50:59,277 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,279 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenOpenCardPrice,keep it default value!
+11:50:59,281 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,282 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property NewChickenFlushPrice,keep it default value!
+11:50:59,283 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,284 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenMagicStonePackageMoney,keep it default value!
+11:50:59,285 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,287 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenRunePackageMoney,keep it default value!
+11:50:59,288 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,289 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property OpenRunePackageRange,keep it default value!
+11:50:59,290 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,291 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PetExp,keep it default value!
+11:50:59,292 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,293 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+11:50:59,294 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,295 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedDiscountMoney,keep it default value!
+11:50:59,298 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,299 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+11:50:59,300 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,301 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MarryRoomCreateMoney,keep it default value!
+11:50:59,302 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,303 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+11:50:59,305 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,306 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+11:50:59,309 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,310 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PromotePackagePrice,keep it default value!
+11:50:59,312 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,312 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidBeginTime,keep it default value!
+11:50:59,314 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,315 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidEndTime,keep it default value!
+11:50:59,318 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,319 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramidRevivePrice,keep it default value!
+11:50:59,321 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,322 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property PyramydTurnCardPrice,keep it default value!
+11:50:59,323 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,324 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RingLevel,keep it default value!
+11:50:59,325 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,328 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RingMaxRefineryLevel,keep it default value!
+11:50:59,329 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,330 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RuneLevelUpExp,keep it default value!
+11:50:59,331 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,332 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property RunePackageID,keep it default value!
+11:50:59,333 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,335 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsFreeCount,keep it default value!
+11:50:59,338 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,340 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsFreeLimit,keep it default value!
+11:50:59,341 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,343 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsPayMoney,keep it default value!
+11:50:59,344 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,345 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SearchGoodsTakeCardMoney,keep it default value!
+11:50:59,346 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,348 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SpaPriRoomContinueTime,keep it default value!
+11:50:59,349 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,350 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SpaPubRoomLoginPay,keep it default value!
+11:50:59,351 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,351 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property TestActive,keep it default value!
+11:50:59,353 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,353 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VIPExpForEachLv,keep it default value!
+11:50:59,354 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,355 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VIPStrengthenEx,keep it default value!
+11:50:59,359 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,359 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property VirtualName,keep it default value!
+11:50:59,360 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,361 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property TimeForLeague,keep it default value!
+11:50:59,362 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,363 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterFreezeHours,keep it default value!
+11:50:59,364 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,365 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyApprenticeFreezeHours,keep it default value!
+11:50:59,369 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,370 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyApprenticeAward,keep it default value!
+11:50:59,372 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,374 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterAward,keep it default value!
+11:50:59,375 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,376 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyAppAwardComplete,keep it default value!
+11:50:59,377 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,379 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasAwardComplete,keep it default value!
+11:50:59,381 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,381 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AcademyMasterExpPlus,keep it default value!
+11:50:59,382 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,383 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterRateData,keep it default value!
+11:50:59,384 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,385 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterMaxDay,keep it default value!
+11:50:59,386 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,387 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property LeftRouterEndDate,keep it default value!
+11:50:59,388 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,390 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EliteGameBlockWeapon,keep it default value!
+11:50:59,391 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,392 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EliteGameDayOpening,keep it default value!
+11:50:59,393 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,394 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightLibAwardGift,keep it default value!
+11:50:59,395 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,396 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightLibAwardExp,keep it default value!
+11:50:59,398 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,398 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionRiches,keep it default value!
+11:50:59,402 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,403 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardRiches,keep it default value!
+11:50:59,404 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,405 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardGP,keep it default value!
+11:50:59,406 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,407 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionAwardOffer,keep it default value!
+11:50:59,408 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,409 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionMinute,keep it default value!
+11:50:59,412 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,413 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MissionBuffDay,keep it default value!
+11:50:59,415 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,416 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property InlayGoldPrice,keep it default value!
+11:50:59,418 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,419 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritSwitch,keep it default value!
+11:50:59,420 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,422 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritMaxLevel,keep it default value!
+11:50:59,423 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,424 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property SendLittleGameActived,keep it default value!
+11:50:59,425 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,426 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property FightSpiritLevelAddDamage,keep it default value!
+11:50:59,427 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,428 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MysteryShopOpenTime,keep it default value!
+11:50:59,432 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,433 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MysteryShopFreshTime,keep it default value!
+11:50:59,435 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,436 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ClientVersion,keep it default value!
+11:50:59,437 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,438 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HalloweenEndDate,keep it default value!
+11:50:59,439 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,440 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayBeginDate,keep it default value!
+11:50:59,443 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,443 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayEndDate,keep it default value!
+11:50:59,444 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,445 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DDPlayMoney,keep it default value!
+11:50:59,446 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 280
+11:50:59,447 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property ExchangeFold,keep it default value!
+11:50:59,451 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+11:50:59,457 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+11:50:59,457 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+11:50:59,458 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:2612558: True
+11:50:59,460 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:45901: True
+11:50:59,509 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+11:50:59,510 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+11:50:59,514 - [MAIN] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerList() in C:\projeto ddtank 4.1\Source4.5\Bussiness\ServiceBussiness.cs:line 236
+11:50:59,

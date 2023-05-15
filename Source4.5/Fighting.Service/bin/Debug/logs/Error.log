@@ -1,0 +1,5 @@
+00:04:28,684 - [MAIN] - ERROR - Game.Base.BaseServer - InitSocket
+System.Net.Sockets.SocketException (0x80004005): O endereço solicitado não é válido no contexto
+   em System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   em Game.Base.BaseServer.InitSocket(IPAddress ip, Int32 port) na C:\Users\55849\Desktop\scripts\Source4.5\Game.Base\BaseServer.cs:linha 126

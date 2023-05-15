@@ -1,0 +1,23 @@
+12:23:06,235 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+12:23:06,266 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+12:23:06,298 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+12:23:06,298 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+12:23:06,298 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+12:23:06,298 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+12:23:06,516 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+12:23:06,657 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+12:23:06,657 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+12:23:06,735 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+12:23:06,735 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+12:23:06,766 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+12:23:06,782 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+12:23:06,798 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+12:23:06,829 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+12:23:06,844 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+12:23:06,844 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+12:23:06,876 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+12:23:17,765 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 68.183.198.57:65000
+12:23:17,803 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 68.183.198.57:65001
+12:26:45,449 - [9] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:26:45,449 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:26:48,288 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected

@@ -1,0 +1,420 @@
+C:\WONDERTANK vReZero\Source\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Game.Server.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Game.Server.pdb
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Game.Logic.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\LuaInterface.dll
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Bussiness.pdb
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\Game.Logic.pdb
+C:\WONDERTANK vReZero\Source\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source\Game.Server\obj\Debug\Game.Server.dll
+C:\WONDERTANK vReZero\Source\Game.Server\obj\Debug\Game.Server.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Game.Server.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Game.Server.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Game.Logic.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\LuaInterface.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Bussiness.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\Game.Logic.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\obj\Debug\Game.Server.dll
+C:\WONDERTANK vReZero\Source(costura)\Game.Server\obj\Debug\Game.Server.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Game.Server.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Game.Server.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Bussiness.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Game.Base.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Game.Logic.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\log4net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\protobuf-net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\zlib.net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\LuaInterface.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Bussiness.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Game.Base.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\Game.Logic.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\obj\Debug\Game.Server.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\log4net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\log4net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\Administrador\Desktop\Source(costura)\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\log4net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Game.Server.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Game.Server.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Bussiness.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Game.Base.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Game.Logic.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\log4net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\protobuf-net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\zlib.net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\LuaInterface.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Bussiness.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Game.Base.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\Game.Logic.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csprojAssemblyReference.cache
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.dll
+C:\DDtank 4.5\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Server.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Server.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Bussiness.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Base.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Logic.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\log4net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\protobuf-net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\zlib.net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\LuaInterface.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Bussiness.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Base.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Logic.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Server.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Server.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Logic.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\LuaInterface.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\Game.Logic.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Server\obj\Debug\Game.Server.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\obj\Debug\Game.Server.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\obj\Debug\Game.Server.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Game.Server.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Game.Server.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Game.Logic.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\LuaInterface.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\Game.Logic.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Game.Server.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Game.Server.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Bussiness.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Game.Base.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Game.Logic.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\log4net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\protobuf-net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\zlib.net.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\LuaInterface.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Bussiness.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Game.Base.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\Game.Logic.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\projeto ddtank 4.1\Source4.5\Game.Server\obj\Debug\Game.Server.dll
+C:\projeto ddtank 4.1\Source4.5\Game.Server\obj\Debug\Game.Server.pdb
+C:\Source4.5\Game.Server\bin\Debug\Game.Server.dll
+C:\Source4.5\Game.Server\bin\Debug\Game.Server.pdb
+C:\Source4.5\Game.Server\bin\Debug\Bussiness.dll
+C:\Source4.5\Game.Server\bin\Debug\Game.Base.dll
+C:\Source4.5\Game.Server\bin\Debug\Game.Logic.dll
+C:\Source4.5\Game.Server\bin\Debug\log4net.dll
+C:\Source4.5\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Source4.5\Game.Server\bin\Debug\protobuf-net.dll
+C:\Source4.5\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Source4.5\Game.Server\bin\Debug\zlib.net.dll
+C:\Source4.5\Game.Server\bin\Debug\LuaInterface.dll
+C:\Source4.5\Game.Server\bin\Debug\Bussiness.pdb
+C:\Source4.5\Game.Server\bin\Debug\Game.Base.pdb
+C:\Source4.5\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Source4.5\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Source4.5\Game.Server\obj\Debug\Game.Server.dll
+C:\Source4.5\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\log4net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\log4net.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\protobuf-net.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\LuaInterface.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\obj\Debug\Game.Server.csproj.CopyComplete
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Server\obj\Debug\Game.Server.pdb

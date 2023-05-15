@@ -1,0 +1,20 @@
+2020-09-26 19:06:06,630 - Client log: Error #2030: End of file was encountered.
+Error: Error #2030: End of file was encountered.
+	at flash.utils::ByteArray/readInt()
+	at ddt.manager::SocketManager/createNewChickenBoxEvent()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\ddt\manager\SocketManager.as:773]
+	at ddt.manager::SocketManager/__socketData()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\ddt\manager\SocketManager.as:690]
+	at flash.events::EventDispatcher/dispatchEventFunction()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at road7th.comm::ByteSocket/handlePackage()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\road7th\comm\ByteSocket.as:394]
+	at road7th.comm::ByteSocket/readPackage()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\road7th\comm\ByteSocket.as:303]
+	at road7th.comm::ByteSocket/handleIncoming()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\road7th\comm\ByteSocket.as:252]
+2020-09-26 19:06:36,968 - Client log: Error #2030: End of file was encountered.
+Error: Error #2030: End of file was encountered.
+	at flash.utils::ByteArray/readInt()
+	at ddt.manager::SocketManager/createNewChickenBoxEvent()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\ddt\manager\SocketManager.as:773]
+	at ddt.manager::SocketManager/__socketData()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\ddt\manager\SocketManager.as:690]
+	at flash.events::EventDispatcher/dispatchEventFunction()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at road7th.comm::ByteSocket/handlePackage()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\road7th\comm\ByteSocket.as:394]
+	at road7th.comm::ByteSocket/readPackage()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\road7th\comm\ByteSocket.as:303]
+	at road7th.comm::ByteSocket/handleIncoming()[C:\Users\EMRULLAH\Documents\Flash - Project\Wonder(new)\WTnew41\src\road7th\comm\ByteSocket.as:252]

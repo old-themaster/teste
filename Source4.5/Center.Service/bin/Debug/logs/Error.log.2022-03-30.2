@@ -1,0 +1,16 @@
+21:38:36,386 - [MAIN] - ERROR - Center.Server.CenterService - Start center server failed:System.ServiceModel.AddressAccessDeniedException: O HTTP não pôde registrar a URL http://+:2008/CenterService/. Seu processo não tem direitos de acesso a este namespace (consulte o site http://go.microsoft.com/fwlink/?LinkId=70353 para obter detalhes). ---> System.Net.HttpListenerException: Acesso negado
+   em System.Net.HttpListener.AddAllPrefixes()
+   em System.Net.HttpListener.Start()
+   em System.ServiceModel.Channels.SharedHttpTransportManager.OnOpen()
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.ServiceModel.Channels.SharedHttpTransportManager.OnOpen()
+   em System.ServiceModel.Channels.TransportManager.Open(TransportChannelListener channelListener)
+   em System.ServiceModel.Channels.TransportManagerContainer.Open(SelectTransportManagersCallback selectTransportManagerCallback)
+   em System.ServiceModel.Channels.TransportChannelListener.OnOpen(TimeSpan timeout)
+   em System.ServiceModel.Channels.HttpChannelListener`1.OnOpen(TimeSpan timeout)
+   em System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   em System.ServiceModel.Dispatcher.ChannelDispatcher.OnOpen(TimeSpan timeout)
+   em System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   em System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   em System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   em Center.Server.CenterService.Start() na C:\projeto DDtank\ddtank 4.5\Source4.5\Center.Server\Services\CenterService.cs:linha 213

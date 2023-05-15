@@ -1,0 +1,80 @@
+17:26:29,454 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:26:29,455 - [44] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:26:50,852 - [120] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58225
+17:26:50,852 - [120] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58226
+17:30:42,753 - [120] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:30:44,268 - [108] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:30:44,966 - [108] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+17:31:27,717 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+17:31:27,730 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+17:31:27,744 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+17:31:27,744 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+17:31:27,745 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+17:31:27,745 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+17:31:27,950 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+17:31:28,033 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+17:31:28,042 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+17:31:28,102 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+17:31:28,105 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+17:31:28,121 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+17:31:28,133 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+17:31:28,147 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+17:31:28,156 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+17:31:28,159 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:31:28,163 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+17:31:28,172 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+17:31:30,269 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58469
+17:31:30,291 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58470
+17:33:40,671 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:33:40,671 - [7] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:33:42,874 - [7] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+17:43:59,469 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+17:43:59,516 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+17:43:59,532 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+17:43:59,532 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+17:43:59,532 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+17:43:59,532 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+17:43:59,735 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+17:43:59,813 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+17:43:59,829 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+17:43:59,876 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+17:43:59,876 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+17:43:59,891 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+17:43:59,907 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+17:43:59,923 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+17:43:59,938 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+17:43:59,938 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:43:59,938 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+17:43:59,954 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+17:44:02,251 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58596
+17:44:02,282 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58597
+17:47:03,564 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:47:03,564 - [7] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:47:05,746 - [7] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+17:53:28,297 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+17:53:28,308 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+17:53:28,322 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+17:53:28,322 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+17:53:28,323 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+17:53:28,323 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+17:53:28,532 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+17:53:28,611 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+17:53:28,622 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+17:53:28,676 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+17:53:28,679 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+17:53:28,694 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+17:53:28,722 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+17:53:28,735 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+17:53:28,744 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+17:53:28,747 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:53:28,752 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+17:53:28,765 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+17:53:30,705 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59071
+17:53:30,740 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59072
+17:58:49,332 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:58:49,347 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:59:38,519 - [15] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59360
+17:59:38,551 - [15] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59361
+18:02:20,581 - [18] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:02:22,222 - [18] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:02:22,691 - [18] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected

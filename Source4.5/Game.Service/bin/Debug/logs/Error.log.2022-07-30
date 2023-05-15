@@ -1,0 +1,76 @@
+01:23:20,480 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property servidor,keep it default value!
+01:23:23,813 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70063 is not exist!
+01:23:23,814 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70039 is not exist!
+01:23:23,814 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70032 is not exist!
+01:23:23,815 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70031 is not exist!
+01:23:23,816 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70027 is not exist!
+01:23:23,817 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70026 is not exist!
+01:23:23,818 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70025 is not exist!
+01:23:24,107 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60206 is not exist!
+01:23:24,124 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60205 is not exist!
+01:23:24,157 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60204 is not exist!
+01:23:24,165 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60203 is not exist!
+01:23:24,166 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60202 is not exist!
+01:23:24,173 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60201 is not exist!
+01:23:24,174 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60110 is not exist!
+01:23:24,174 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60109 is not exist!
+01:23:24,175 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60108 is not exist!
+01:23:24,176 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60107 is not exist!
+01:23:24,176 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60106 is not exist!
+01:23:24,177 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60105 is not exist!
+01:23:24,178 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60104 is not exist!
+01:23:24,179 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60102 is not exist!
+01:23:24,179 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file60101 is not exist!
+01:23:24,180 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file40012 is not exist!
+01:23:24,181 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file40008 is not exist!
+01:23:24,572 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file15000 is not exist!
+01:23:24,576 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file14999 is not exist!
+01:23:24,579 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file14304 is not exist!
+01:23:27,466 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file10151 is not exist!
+01:23:27,625 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1711 is not exist!
+01:23:27,626 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1709 is not exist!
+01:23:27,627 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1708 is not exist!
+01:23:27,627 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1706 is not exist!
+01:23:27,628 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1705 is not exist!
+01:23:27,628 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1704 is not exist!
+01:23:27,630 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1703 is not exist!
+01:23:27,632 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1702 is not exist!
+01:23:27,632 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1654 is not exist!
+01:23:27,637 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1653 is not exist!
+01:23:27,638 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1639 is not exist!
+01:23:27,640 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1638 is not exist!
+01:23:27,642 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1618 is not exist!
+01:23:27,643 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1604 is not exist!
+01:23:27,648 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1602 is not exist!
+01:23:27,819 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1507 is not exist!
+01:23:27,819 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1506 is not exist!
+01:23:27,820 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1505 is not exist!
+01:23:27,821 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1503 is not exist!
+01:23:27,869 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1491 is not exist!
+01:23:27,869 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1490 is not exist!
+01:23:28,417 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1459 is not exist!
+01:23:44,762 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11338.bomb
+01:23:44,785 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119011.bomb
+01:23:45,488 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119012.bomb
+01:23:45,488 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119013.bomb
+01:23:45,490 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119021.bomb
+01:23:45,491 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119022.bomb
+01:23:45,492 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119023.bomb
+01:23:45,493 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119031.bomb
+01:23:45,494 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119032.bomb
+01:23:45,496 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119033.bomb
+01:23:45,554 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\119034.bomb
+01:23:45,668 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121011.bomb
+01:23:45,669 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121012.bomb
+01:23:45,670 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121013.bomb
+01:23:45,671 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121021.bomb
+01:23:45,672 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121022.bomb
+01:23:45,674 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121023.bomb
+01:23:45,676 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121031.bomb
+01:23:45,678 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121032.bomb
+01:23:45,679 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121033.bomb
+01:23:45,744 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121041.bomb
+01:23:45,825 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121042.bomb
+01:23:45,861 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121043.bomb
+01:23:45,928 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121051.bomb
+01:23:46,004 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\121052.bomb

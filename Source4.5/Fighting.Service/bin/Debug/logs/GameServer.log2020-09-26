@@ -1,0 +1,182 @@
+13:30:24,640 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+13:30:24,656 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+13:30:24,687 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+13:30:24,687 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+13:30:24,687 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+13:30:24,687 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+13:30:25,015 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+13:30:25,093 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+13:30:25,109 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+13:30:25,250 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+13:30:25,250 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+13:30:25,265 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+13:30:25,281 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+13:30:25,296 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+13:30:25,296 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+13:30:25,312 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+13:30:25,312 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+13:30:25,312 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+13:30:27,566 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:64851
+13:30:27,584 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:64852
+13:34:01,105 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:34:01,106 - [12] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:34:09,769 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:65109
+13:34:09,779 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:65110
+13:34:59,584 - [12] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:34:59,584 - [12] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:37:44,431 - [15] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:65300
+13:37:44,447 - [15] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:65301
+13:38:25,473 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:38:25,474 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:38:50,733 - [26] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:65370
+13:38:50,756 - [26] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:65371
+13:39:33,124 - [26] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:39:33,139 - [30] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:39:50,926 - [31] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:65429
+13:39:50,935 - [31] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:65430
+13:40:34,551 - [32] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:40:34,552 - [36] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:52:54,422 - [37] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:49753
+13:52:54,445 - [62] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:49754
+13:53:45,287 - [62] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+13:53:45,287 - [66] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:17:01,216 - [67] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:50245
+15:17:01,227 - [67] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:50246
+15:18:06,301 - [67] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:18:06,304 - [67] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:28:08,802 - [67] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:50796
+15:28:08,839 - [67] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:50797
+15:29:16,681 - [28] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:29:16,683 - [28] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:29:54,032 - [24] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:50900
+15:29:54,041 - [24] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:50901
+15:30:45,556 - [92] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:30:45,557 - [92] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:38:25,631 - [88] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51331
+15:38:25,655 - [88] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51332
+15:39:04,314 - [88] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:39:04,316 - [88] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:39:30,973 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51401
+15:39:30,988 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51402
+15:39:31,345 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:39:31,345 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:40:08,202 - [22] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51433
+15:40:08,240 - [22] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51434
+15:41:22,632 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:41:22,635 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:42:24,016 - [114] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51563
+15:42:24,028 - [114] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51564
+15:43:05,980 - [114] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:43:07,495 - [114] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:44:10,208 - [114] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51664
+15:44:10,215 - [114] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:51665
+15:46:04,443 - [114] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+15:46:04,444 - [41] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:20:23,904 - [41] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56351
+17:20:23,922 - [41] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56352
+17:21:37,208 - [92] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:21:37,212 - [92] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:25:53,670 - [89] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56639
+17:25:53,693 - [89] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56640
+17:25:54,407 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:25:54,409 - [89] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:27:29,746 - [89] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56718
+17:27:29,756 - [89] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56719
+17:28:07,945 - [19] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:28:07,946 - [19] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:29:54,827 - [17] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56853
+17:29:54,861 - [17] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56854
+17:34:22,768 - [110] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:34:22,769 - [110] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:41:06,647 - [121] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57100
+17:41:06,668 - [121] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57101
+17:42:10,934 - [49] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:42:10,937 - [49] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:47:31,186 - [49] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57433
+17:47:31,199 - [49] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57434
+17:49:15,593 - [49] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:49:15,596 - [49] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:50:41,056 - [103] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57542
+17:50:41,070 - [103] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57543
+17:51:30,956 - [103] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:51:30,959 - [103] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:53:16,114 - [96] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57686
+17:53:16,140 - [96] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57687
+17:54:01,161 - [74] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:54:01,162 - [77] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:56:50,435 - [77] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57872
+17:56:50,445 - [77] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57873
+17:59:18,355 - [77] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:59:18,357 - [77] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:03:18,119 - [64] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58209
+18:03:18,136 - [126] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58210
+18:06:25,409 - [126] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:06:25,410 - [134] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:06:37,752 - [126] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58393
+18:06:37,769 - [134] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58394
+18:08:18,640 - [134] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:08:18,640 - [139] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:08:28,327 - [134] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58498
+18:08:28,333 - [134] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58499
+18:10:56,138 - [134] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:10:56,152 - [134] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:11:06,101 - [134] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58636
+18:11:06,115 - [31] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:58637
+18:31:34,064 - [31] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:31:34,064 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:31:45,619 - [31] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59704
+18:31:45,701 - [31] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59706
+18:32:45,392 - [31] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:32:45,396 - [31] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:33:43,337 - [86] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59822
+18:33:43,365 - [86] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59823
+18:34:29,252 - [86] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:34:29,253 - [86] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:35:19,680 - [92] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59914
+18:35:19,692 - [92] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59915
+18:36:02,363 - [92] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:36:02,377 - [92] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:36:09,791 - [92] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59966
+18:36:09,821 - [92] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:59967
+18:37:04,866 - [142] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:37:04,868 - [142] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:37:19,290 - [142] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60033
+18:37:19,301 - [142] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60034
+18:39:06,041 - [142] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:39:06,056 - [142] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:39:08,486 - [142] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60133
+18:39:08,494 - [137] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60134
+18:44:26,404 - [142] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:44:26,406 - [142] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:52:18,401 - [57] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60788
+18:52:18,418 - [57] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:60789
+18:53:21,021 - [57] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:53:21,022 - [57] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:01:09,618 - [78] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:61231
+19:01:09,632 - [78] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:61232
+19:02:04,435 - [78] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:02:04,436 - [78] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:05:16,663 - [78] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:61454
+19:05:16,679 - [78] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:61455
+19:06:44,468 - [78] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:06:44,469 - [26] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:18:30,020 - [78] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62117
+19:18:30,035 - [78] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62118
+19:19:41,771 - [21] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:19:41,774 - [21] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:20:57,242 - [21] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62257
+19:20:57,279 - [21] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62258
+19:21:59,143 - [21] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:21:59,145 - [117] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:22:08,314 - [21] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62327
+19:22:08,337 - [21] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62328
+19:22:53,120 - [117] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:22:53,120 - [117] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:23:33,283 - [121] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62405
+19:23:33,297 - [121] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:62406
+19:24:28,918 - [121] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:24:28,919 - [121] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+20:08:17,621 - [39] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:64606
+20:08:17,633 - [39] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:64607
+20:09:43,424 - [39] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+20:09:43,425 - [39] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0

@@ -1,0 +1,1480 @@
+﻿++Solução 'CenterServer' ‎(5 de 5 projetos)
+i:{00000000-0000-0000-0000-000000000000}:CenterServer.sln
+++Center.Server
+i:{00000000-0000-0000-0000-000000000000}:Center.Server
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++Referências
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++Commands
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\commands\
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\commands\
+++config
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\config\
+++Managers
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\managers\
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\
+++Services
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\services\
+++Statics
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\statics\
+++AssemblyInfo.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\assemblyinfo.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\assemblyinfo.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\assemblyinfo.cs
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\properties\assemblyinfo.cs
+++CenterServer.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\centerserver.cs
+++CenterServerConfig.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\centerserverconfig.cs
+++ConsortiaBossMgr.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\consortiabossmgr.cs
+++ConsortiaMrg.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\consortiamrg.cs
+++eMailRespose.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\emailrespose.cs
+++eMessageType.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\emessagetype.cs
+++ePackageType.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\epackagetype.cs
+++ePlayerState.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\eplayerstate.cs
+++ICenterService.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\icenterservice.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\centerservice\icenterservice.cs
+++LoginMgr.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\loginmgr.cs
+++Player.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\player.cs
+++ServerClient.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\serverclient.cs
+++ServerData.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\serverdata.cs
+++ServerMgr.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\servermgr.cs
+++WorldMgr.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\worldmgr.cs
+++Bussiness
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{00000000-0000-0000-0000-000000000000}:Bussiness
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++Game.Base
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{00000000-0000-0000-0000-000000000000}:Game.Base
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++log4net
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++SqlDataProvider
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{00000000-0000-0000-0000-000000000000}:SqlDataProvider
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++System
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++System.Configuration
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:
+++System.Core
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++System.Data
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++System.Runtime.Serialization
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+++System.ServiceModel
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+++System.Xml
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++System.Xml.Linq
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++GamePropertiesCommand.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\commands\gamepropertiescommand.cs
+++logconfig.xml
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\config\logconfig.xml
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logconfig.xml
+++MacroDropMgr.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\managers\macrodropmgr.cs
+++CenterService.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\services\centerservice.cs
+++LogMgr.cs
+i:{2f5c82b0-880e-437a-b707-ec5330349c60}:c:\projeto ddtank\ddtank 4.5\source4.5\center.server\statics\logmgr.cs
+++Config
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\config\
+++Events
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\
+++Packets
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\packets\
+++BaseClient.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\baseclient.cs
+++BaseConnector.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\baseconnector.cs
+++BaseServer.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\baseserver.cs
+++BaseServerConfiguration.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\baseserverconfiguration.cs
+++ClientEventHandle.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\clienteventhandle.cs
+++ConsoleClient.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\consoleclient.cs
+++eBuffer.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\ebuffer.cs
+++ePrivLevel.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\eprivlevel.cs
+++GameCommand.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\gamecommand.cs
+++ICommandHandler.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\icommandhandler.cs
+++Marshal.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\marshal.cs
+++PacketIn.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\packetin.cs
+++QueueMgr.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\queuemgr.cs
+++ResourceUtil.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\resourceutil.cs
+++ScriptMgr.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\scriptmgr.cs
+++Statistics.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\statistics.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\statistics.cs
+++WeakMulticastDelegate.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\weakmulticastdelegate.cs
+++WeakRef.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\weakref.cs
+++protobuf-net
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:
+++zlib.net
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++AbstractCommandHandler.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\commands\abstractcommandhandler.cs
+++BuildScriptCommand.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\commands\buildscriptcommand.cs
+++CmdAttribute.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\commands\cmdattribute.cs
+++CommandMgr.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\commands\commandmgr.cs
+++CommandMgrSetupCommand.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\commands\commandmgrsetupcommand.cs
+++ScriptManagerCommand.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\commands\scriptmanagercommand.cs
+++BaseAppConfig.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\config\baseappconfig.cs
+++ConfigElement.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\config\configelement.cs
+++ConfigPropertyAttribute.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\config\configpropertyattribute.cs
+++XMLConfigFile.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\config\xmlconfigfile.cs
+++script
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\script\
+++server
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\server\
+++GameEventMgr.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\gameeventmgr.cs
+++GameServerStartedEventAttribute.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\gameserverstartedeventattribute.cs
+++GameServerStoppedEventAttribute.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\gameserverstoppedeventattribute.cs
+++RoadEvent.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\roadevent.cs
+++RoadEventHandler.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\roadeventhandler.cs
+++RoadEventHandlerCollection.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\roadeventhandlercollection.cs
+++ScriptLoadedEventAttribute.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\scriptloadedeventattribute.cs
+++ScriptUnloadedEventAttribute.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\scriptunloadedeventattribute.cs
+++FSM.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\packets\fsm.cs
+++GSPacketIn.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\packets\gspacketin.cs
+++StreamProcessor.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\packets\streamprocessor.cs
+++ScriptEvent.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\script\scriptevent.cs
+++GameServerEvent.cs
+i:{0b98b651-e8ad-42a2-a9d2-340aa0d795be}:c:\projeto ddtank\ddtank 4.5\source4.5\game.base\events\server\gameserverevent.cs
+++bin
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\bin\
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\
+++GameProperties
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\gameproperties\
+++Interface
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\interface\
+++Languages
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\languages\
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\languages\
+++lib
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\lib\
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\lib\
+++obj
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\obj\
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\obj\
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\obj\
+++Protocol
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\protocol\
+++Service References
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\
+++ActiveBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\activebussiness.cs
+++AreaBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\areabussiness.cs
+++Base64.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\base64.cs
+++BaseBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\basebussiness.cs
+++BaseCrossBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\basecrossbussiness.cs
+++BuffType.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bufftype.cs
+++Bussiness.pdb
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bussiness.pdb
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\bussiness.pdb
+++Bussiness.sln
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bussiness.sln
+++ChatInputView.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\chatinputview.cs
+++CheckCode.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\checkcode.cs
+++ConsortiaBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\consortiabussiness.cs
+++CookieInfoBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\cookieinfobussiness.cs
+++CountBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\countbussiness.cs
+++favicon.ico
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\favicon.ico
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\favicon.ico
+++IniReader.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\inireader.cs
+++ItemRecordBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\itemrecordbussiness.cs
+++ManageBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managebussiness.cs
+++MapBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\mapbussiness.cs
+++MemberShipBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\membershipbussiness.cs
+++OrderBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\orderbussiness.cs
+++PlayerBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\playerbussiness.cs
+++ProduceBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\producebussiness.cs
+++PveBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\pvebussiness.cs
+++RandomSafe.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\randomsafe.cs
+++ServiceBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\servicebussiness.cs
+++StaticFunction.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\staticfunction.cs
+++ThreadSafeRandom.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\threadsaferandom.cs
+++UserInfoBussiness.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\userinfobussiness.cs
+++XmlExtends.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\xmlextends.cs
+++System.Drawing
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+++System.Web
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:
+++Debug
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\obj\debug\
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\bin\debug\
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\obj\debug\
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\obj\debug\
+++Release
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\release\
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\obj\release\
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\bin\release\
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\release\
+++GameProperties.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\gameproperties\gameproperties.cs
+++BaseInterface.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\interface\baseinterface.cs
+++DWInterface.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\interface\dwinterface.cs
+++InterfaceType.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\interface\interfacetype.cs
+++QYInterface.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\interface\qyinterface.cs
+++SRInterface.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\interface\srinterface.cs
+++LanguageMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\languages\languagemgr.cs
+++Game.Base.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\lib\game.base.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\game.base.dll
+++log4net.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\lib\log4net.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\log4net.dll
+++SqlDataProvider.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\lib\sqldataprovider.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\sqldataprovider.dll
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\bin\debug\sqldataprovider.dll
+++AccumulActiveLoginMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\accumulactiveloginmgr.cs
+++AchievementMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\achievementmgr.cs
+++ActiveMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\activemgr.cs
+++ActivityQuestMngr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\activityquestmngr.cs
+++ConsortiaExtraMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\consortiaextramgr.cs
+++ConsortiaLevelMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\consortialevelmgr.cs
+++DiceLevelAwardMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\dicelevelawardmgr.cs
+++DropMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\dropmgr.cs
+++EventAwardMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\eventawardmgr.cs
+++EventLiveMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\eventlivemgr.cs
+++FightSpiritTemplateMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\fightspirittemplatemgr.cs
+++GoldEquipMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\goldequipmgr.cs
+++ItemBoxMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\itemboxmgr.cs
+++ItemMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\itemmgr.cs
+++LightriddleQuestMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\lightriddlequestmgr.cs
+++NewTitleMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\newtitlemgr.cs
+++PetMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\petmgr.cs
+++QQTipsMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\qqtipsmgr.cs
+++QuestMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\questmgr.cs
+++ShopMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\shopmgr.cs
+++SubActiveMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\subactivemgr.cs
+++TotemHonorMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\totemhonormgr.cs
+++TotemMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\totemmgr.cs
+++TreasureAwardMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\treasureawardmgr.cs
+++WorldEventMgr.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\managers\worldeventmgr.cs
+++eDropType.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\protocol\edroptype.cs
+++eReloadType.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\protocol\ereloadtype.cs
+++CenterService
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\centerservice\
+++WebLogin
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\
+++Bussiness.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\bussiness.dll
+++Game.Base.pdb
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\game.base.pdb
+++protobuf-net.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\protobuf-net.dll
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\lib\protobuf-net.dll
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\bin\debug\protobuf-net.dll
+++SqlDataProvider.pdb
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\sqldataprovider.pdb
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.pdb
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\bin\debug\sqldataprovider.pdb
+++zlib.net.dll
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\bin\debug\zlib.net.dll
+++.NETFramework,Version=v4.8.AssemblyAttributes.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+++.NETFramework,Version=v4.0.AssemblyAttributes.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\obj\release\.netframework,version=v4.0.assemblyattributes.cs
+++1Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\centerservice\1reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\1reference.cs
+++ICenterServiceChannel.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\centerservice\icenterservicechannel.cs
+++Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\centerservice\reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\reference.cs
+++2Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\2reference.cs
+++3Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\3reference.cs
+++4Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\4reference.cs
+++5Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\5reference.cs
+++6Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\6reference.cs
+++7Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\7reference.cs
+++8Reference.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\8reference.cs
+++PassPortSoap.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\passportsoap.cs
+++PassPortSoapChannel.cs
+i:{84bf6699-751a-4078-aec4-e217dacdec28}:c:\projeto ddtank\ddtank 4.5\source4.5\bussiness\service references\weblogin\passportsoapchannel.cs
+++DAL
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\dal\
+++SqlDataProvider.BaseClass
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.baseclass\
+++SqlDataProvider.Data
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\
+++eBageType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\ebagetype.cs
+++eEventType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\eeventtype.cs
+++eGameView.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\egameview.cs
+++eGiftType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\egifttype.cs
+++eItemNotice.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\eitemnotice.cs
+++eRuneType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\erunetype.cs
+++eTreasureType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\etreasuretype.cs
+++SqlDataProvider.sln
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.sln
+++Step.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\step.cs
+++AsyncComandExecuteHanle.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\dal\asynccomandexecutehanle.cs
+++SqlHelper.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\dal\sqlhelper.cs
+++SqlHelperParameterCache.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\dal\sqlhelperparametercache.cs
+++ApplicationLog.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.baseclass\applicationlog.cs
+++Sql_DbObject.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.baseclass\sql_dbobject.cs
+++AASInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\aasinfo.cs
+++AcademyRequestInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\academyrequestinfo.cs
+++AccumulAtiveLoginAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\accumulativeloginawardinfo.cs
+++AchievementCondictionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\achievementcondictioninfo.cs
+++AchievementConditionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\achievementconditioninfo.cs
+++AchievementData.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\achievementdata.cs
+++AchievementDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\achievementdatainfo.cs
+++AchievementGoodsInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\achievementgoodsinfo.cs
+++AchievementInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\achievementinfo.cs
+++AchievementProcessInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\achievementprocessinfo.cs
+++AchievementRewardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\achievementrewardinfo.cs
+++ActiveAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activeawardinfo.cs
+++ActiveAwardItemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activeawarditeminfo.cs
+++ActiveConditionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activeconditioninfo.cs
+++ActiveConvertItemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activeconvertiteminfo.cs
+++ActiveInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activeinfo.cs
+++ActiveQuestUserData.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activequestuserdata.cs
+++ActiveSystemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activesysteminfo.cs
+++ActiveType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activetype.cs
+++ActivityItem.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activityitem.cs
+++ActivityQuestInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activityquestinfo.cs
+++ActivitySystemItemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\activitysystemiteminfo.cs
+++AreaConfigInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\areaconfiginfo.cs
+++AsunaAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\asunaawardinfo.cs
+++AtivityQuestConditionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\ativityquestconditioninfo.cs
+++AtivityQuestGoodsInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\ativityquestgoodsinfo.cs
+++AuctionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\auctioninfo.cs
+++BallConfigInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\ballconfiginfo.cs
+++BallInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\ballinfo.cs
+++BeautyvoteInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\beautyvoteinfo.cs
+++BestEquipInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\bestequipinfo.cs
+++BigBugleInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\bigbugleinfo.cs
+++BoguCeilInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\boguceilinfo.cs
+++BufferInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\bufferinfo.cs
+++CardGrooveUpdateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\cardgrooveupdateinfo.cs
+++CardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\cardinfo.cs
+++CardTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\cardtemplateinfo.cs
+++CardUpdateConditionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\cardupdateconditioninfo.cs
+++CardUpdateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\cardupdateinfo.cs
+++CategoryInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\categoryinfo.cs
+++ChargeRecordInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\chargerecordinfo.cs
+++ClothGroupTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\clothgrouptemplateinfo.cs
+++ClothPropertyTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\clothpropertytemplateinfo.cs
+++CommConfigInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\commconfiginfo.cs
+++CommunalActiveAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\communalactiveawardinfo.cs
+++CommunalActiveExpInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\communalactiveexpinfo.cs
+++CommunalActiveInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\communalactiveinfo.cs
+++ConsortiaAllyInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiaallyinfo.cs
+++ConsortiaApplyAllyInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiaapplyallyinfo.cs
+++ConsortiaApplyUserInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiaapplyuserinfo.cs
+++ConsortiaBadgeConfigInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiabadgeconfiginfo.cs
+++ConsortiaBattlePlayerInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiabattleplayerinfo.cs
+++ConsortiaBossConfigInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiabossconfiginfo.cs
+++ConsortiaBossInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiabossinfo.cs
+++ConsortiaBufferInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiabufferinfo.cs
+++ConsortiaBuffTempInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiabufftempinfo.cs
+++ConsortiaDutyInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiadutyinfo.cs
+++ConsortiaEquipControlInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiaequipcontrolinfo.cs
+++ConsortiaEventInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiaeventinfo.cs
+++ConsortiaInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiainfo.cs
+++ConsortiaInviteUserInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiainviteuserinfo.cs
+++ConsortiaLevelInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortialevelinfo.cs
+++ConsortiaTaskInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiataskinfo.cs
+++ConsortiaUserInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\consortiauserinfo.cs
+++DailyAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dailyawardinfo.cs
+++DailyLeagueAwardItems.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dailyleagueawarditems.cs
+++DailyLeagueAwardList.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dailyleagueawardlist.cs
+++DailyLogListInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dailyloglistinfo.cs
+++DailyRecordInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dailyrecordinfo.cs
+++DataObject.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dataobject.cs
+++DDQiYuanInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\ddqiyuaninfo.cs
+++DiceDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dicedatainfo.cs
+++DiceLevelAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dicelevelawardinfo.cs
+++DropCondiction.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dropcondiction.cs
+++DropInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dropinfo.cs
+++DropItem.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\dropitem.cs
+++EatPetsInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eatpetsinfo.cs
+++EdictumInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\edictuminfo.cs
+++eItemAddType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eitemaddtype.cs
+++eItemRemoveType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eitemremovetype.cs
+++EliteGameRoundInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\elitegameroundinfo.cs
+++Equip.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\equip.cs
+++EquipType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\equiptype.cs
+++eStoreInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\estoreinfo.cs
+++EventAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eventawardinfo.cs
+++EventLiveGoods.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eventlivegoods.cs
+++EventLiveInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eventliveinfo.cs
+++EventRewardGoodsInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eventrewardgoodsinfo.cs
+++EventRewardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eventrewardinfo.cs
+++EventRewardProcessInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\eventrewardprocessinfo.cs
+++ExerciseInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\exerciseinfo.cs
+++FairBattleRewardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\fairbattlerewardinfo.cs
+++FightRateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\fightrateinfo.cs
+++FightSpiritTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\fightspirittemplateinfo.cs
+++FigSpiritUpInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\figspiritupinfo.cs
+++FriendInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\friendinfo.cs
+++FusionCombinedInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\fusioncombinedinfo.cs
+++FusionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\fusioninfo.cs
+++GameNeedPetSkillInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\gameneedpetskillinfo.cs
+++GiftInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\giftinfo.cs
+++GiftLevelInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\giftlevelinfo.cs
+++GodCardGroupDetailInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\godcardgroupdetailinfo.cs
+++GodCardGroupUser.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\godcardgroupuser.cs
+++Godcardlist.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\godcardlist.cs
+++Godcardlistgroup.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\godcardlistgroup.cs
+++GodcardlistgroupCard.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\godcardlistgroupcard.cs
+++Godcardpointrewardlist.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\godcardpointrewardlist.cs
+++GodCardUser.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\godcarduser.cs
+++GoldEquipTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\goldequiptemplateinfo.cs
+++GypsyItemDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\gypsyitemdatainfo.cs
+++HotSpringRoomInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\hotspringroominfo.cs
+++ItemBoxInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\itemboxinfo.cs
+++ItemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\iteminfo.cs
+++ItemRecordTypeInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\itemrecordtypeinfo.cs
+++Items_Fusion_List_Info.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\items_fusion_list_info.cs
+++ItemTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\itemtemplateinfo.cs
+++LanternriddlesInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\lanternriddlesinfo.cs
+++LevelInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\levelinfo.cs
+++LightriddleQuestInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\lightriddlequestinfo.cs
+++LoadUserBoxInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\loaduserboxinfo.cs
+++LogFight.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\logfight.cs
+++LogItem.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\logitem.cs
+++LogMoney.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\logmoney.cs
+++LogServer.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\logserver.cs
+++LotteryItemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\lotteryiteminfo.cs
+++LuckstarActivityRankInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\luckstaractivityrankinfo.cs
+++LuckStarRewardRecordInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\luckstarrewardrecordinfo.cs
+++LuckyStartToptenAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\luckystarttoptenawardinfo.cs
+++MailInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\mailinfo.cs
+++MapGoodsInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\mapgoodsinfo.cs
+++MapInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\mapinfo.cs
+++MarryApplyInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\marryapplyinfo.cs
+++MarryInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\marryinfo.cs
+++MarryProp.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\marryprop.cs
+++MarryRoomInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\marryroominfo.cs
+++MissionEnergyInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\missionenergyinfo.cs
+++MissionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\missioninfo.cs
+++MysteryShopInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\mysteryshopinfo.cs
+++NewChickenBoxItemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\newchickenboxiteminfo.cs
+++NewTitleInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\newtitleinfo.cs
+++NpcInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\npcinfo.cs
+++NpcPlayerInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\npcplayerinfo.cs
+++PetConfig.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petconfig.cs
+++PetEquipDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petequipdatainfo.cs
+++PetEquipInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petequipinfo.cs
+++PetExpItemPriceInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petexpitempriceinfo.cs
+++PetFightPropertyInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petfightpropertyinfo.cs
+++PetLevel.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petlevel.cs
+++PetMoePropertyInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petmoepropertyinfo.cs
+++PetSkillElementInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petskillelementinfo.cs
+++PetSkillInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petskillinfo.cs
+++PetSkillTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petskilltemplateinfo.cs
+++PetStarExpInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\petstarexpinfo.cs
+++PetTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\pettemplateinfo.cs
+++PetType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\pettype.cs
+++PlayerEliteGameInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\playerelitegameinfo.cs
+++PlayerInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\playerinfo.cs
+++PlayerInfoHistory.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\playerinfohistory.cs
+++PlayerLimitInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\playerlimitinfo.cs
+++PlayerPropertyInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\playerpropertyinfo.cs
+++PropInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\propinfo.cs
+++PveInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\pveinfo.cs
+++PyramidConfigInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\pyramidconfiginfo.cs
+++PyramidInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\pyramidinfo.cs
+++QQtipsMessagesInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\qqtipsmessagesinfo.cs
+++QuestAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\questawardinfo.cs
+++QuestConditionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\questconditioninfo.cs
+++QuestDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\questdatainfo.cs
+++QuestInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\questinfo.cs
+++QuestRateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\questrateinfo.cs
+++RankingLightriddleInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\rankinglightriddleinfo.cs
+++RankingPersonInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\rankingpersoninfo.cs
+++RateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\rateinfo.cs
+++RecordInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\recordinfo.cs
+++RefineryInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\refineryinfo.cs
+++RingstationBattleFieldInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\ringstationbattlefieldinfo.cs
+++RingstationConfigInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\ringstationconfiginfo.cs
+++RuneTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\runetemplateinfo.cs
+++SearchGoodsTempInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\searchgoodstempinfo.cs
+++ServerEventInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\servereventinfo.cs
+++ServerInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\serverinfo.cs
+++ServerMapInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\servermapinfo.cs
+++ServerProperty.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\serverproperty.cs
+++SevenItem.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\sevenitem.cs
+++ShopCondition.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\shopcondition.cs
+++ShopFreeCountInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\shopfreecountinfo.cs
+++ShopGoodsShowListInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\shopgoodsshowlistinfo.cs
+++ShopGoXuInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\shopgoxuinfo.cs
+++ShopInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\shopinfo.cs
+++ShopItemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\shopiteminfo.cs
+++ShopType.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\shoptype.cs
+++SpecialItemDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\specialitemdatainfo.cs
+++StrengThenExpInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\strengthenexpinfo.cs
+++StrengthenGoodsInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\strengthengoodsinfo.cs
+++StrengthenInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\strengtheninfo.cs
+++SubActiveConditionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\subactiveconditioninfo.cs
+++SubActiveInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\subactiveinfo.cs
+++Suit_Manager.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\suit_manager.cs
+++Suit_TemplateID.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\suit_templateid.cs
+++Suit_TemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\suit_templateinfo.cs
+++TexpInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\texpinfo.cs
+++TotemHonorTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\totemhonortemplateinfo.cs
+++TotemInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\toteminfo.cs
+++TreasureAwardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\treasureawardinfo.cs
+++TreasureDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\treasuredatainfo.cs
+++TreeTemplateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\treetemplateinfo.cs
+++UserAvatarCollectionDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\useravatarcollectiondatainfo.cs
+++UserAvatarCollectionInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\useravatarcollectioninfo.cs
+++UserBoguAdventureInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userboguadventureinfo.cs
+++UserBoxInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userboxinfo.cs
+++UserChristmasInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userchristmasinfo.cs
+++UserDrillInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userdrillinfo.cs
+++UserExitRoomLogInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userexitroomloginfo.cs
+++UserFarmInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userfarminfo.cs
+++UserFieldInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userfieldinfo.cs
+++UserGemStone.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\usergemstone.cs
+++UserGiftInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\usergiftinfo.cs
+++UserGodcardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\usergodcardinfo.cs
+++UserInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userinfo.cs
+++UserLabyrinthInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userlabyrinthinfo.cs
+++UserMatchInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\usermatchinfo.cs
+++UserRank.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userrank.cs
+++UserRankDateInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userrankdateinfo.cs
+++UserRankInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userrankinfo.cs
+++UserRingStationInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userringstationinfo.cs
+++Users_MonthcardgoodInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\users_monthcardgoodinfo.cs
+++UsersCardInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userscardinfo.cs
+++UsersExtraInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\usersextrainfo.cs
+++UsersPetInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userspetinfo.cs
+++UsersRecordInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\usersrecordinfo.cs
+++UserTreasureInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\usertreasureinfo.cs
+++UserTreeInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\usertreeinfo.cs
+++UserVIPInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\uservipinfo.cs
+++UserWorldBoss.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\userworldboss.cs
+++WindInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\windinfo.cs
+++WorldMgrDataInfo.cs
+i:{4d86ca83-4902-4288-9144-6170aa09ceac}:c:\projeto ddtank\ddtank 4.5\source4.5\sqldataprovider\sqldataprovider.data\worldmgrdatainfo.cs
+++Center.Service
+i:{00000000-0000-0000-0000-000000000000}:Center.Service
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\.vs\center.service\
+++Properties
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\properties\
+++.vs
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\.vs\
+++actions
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\actions\
+++macrodrop
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\macrodrop\
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\macrodrop\
+++App.config
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\app.config
+++FodyWeavers.xml
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\fodyweavers.xml
+++FodyWeavers.xsd
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\fodyweavers.xsd
+++game.ico
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\game.ico
+++IAction.cs
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\iaction.cs
+++packages.config
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\packages.config
+++Program.cs
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\program.cs
+++Costura
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++Newtonsoft.Json
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++System.configuration
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++System.Data.DataSetExtensions
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:
+++ConsoleStart.cs
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\actions\consolestart.cs
+++macroDrop.ini
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\macrodrop\macrodrop.ini
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\macrodrop\macrodrop.ini
+++v16
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\.vs\center.service\v16\
+++logs
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\
+++scripts
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\scripts\
+++Center.Service.exe
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\center.service.exe
+++Center.Service.exe.config
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\center.service.exe.config
+++Center.Service.pdb
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\center.service.pdb
+++.suo
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\.vs\center.service\v16\.suo
+++Language-tr.txt
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\languages\language-tr.txt
+++SystemNotice.xml
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\languages\systemnotice.xml
+++Cheats.log
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log
+++Cheats.log.2019-05-05
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2019-05-05
+++Cheats.log.2020-08-20
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-20
+++Cheats.log.2020-08-21
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-21
+++Cheats.log.2020-08-22
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-22
+++Cheats.log.2020-08-23
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-23
+++Cheats.log.2020-08-24
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-24
+++Cheats.log.2020-08-25
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-25
+++Cheats.log.2020-08-26
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-26
+++Cheats.log.2020-08-27
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-27
+++Cheats.log.2020-08-28
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-28
+++Cheats.log.2020-08-29
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-29
+++Cheats.log.2020-08-30
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-08-30
+++Cheats.log.2020-09-04
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-04
+++Cheats.log.2020-09-22
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-22
+++Cheats.log.2020-09-23
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-23
+++Cheats.log.2020-09-24
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-24
+++Cheats.log.2020-09-25
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-25
+++Cheats.log.2020-09-26
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-26
+++Cheats.log.2020-09-27
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-27
+++Cheats.log.2020-09-28
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-28
+++Cheats.log.2020-09-29
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-09-29
+++Cheats.log.2020-10-01
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-10-01
+++Cheats.log.2020-10-02
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-10-02
+++Cheats.log.2020-10-03
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-10-03
+++Cheats.log.2020-10-04
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-10-04
+++Cheats.log.2020-10-05
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\cheats.log.2020-10-05
+++Error.log
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log
+++Error.log.2019-05-05
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2019-05-05
+++Error.log.2020-08-20
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20
+++Error.log.2020-08-20.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.1
+++Error.log.2020-08-20.10
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.10
+++Error.log.2020-08-20.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.2
+++Error.log.2020-08-20.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.3
+++Error.log.2020-08-20.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.4
+++Error.log.2020-08-20.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.5
+++Error.log.2020-08-20.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.6
+++Error.log.2020-08-20.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.7
+++Error.log.2020-08-20.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.8
+++Error.log.2020-08-20.9
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-20.9
+++Error.log.2020-08-21
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-21
+++Error.log.2020-08-21.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-21.1
+++Error.log.2020-08-21.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-21.2
+++Error.log.2020-08-22
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22
+++Error.log.2020-08-22.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22.1
+++Error.log.2020-08-22.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22.2
+++Error.log.2020-08-22.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22.3
+++Error.log.2020-08-22.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22.4
+++Error.log.2020-08-22.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22.5
+++Error.log.2020-08-22.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22.6
+++Error.log.2020-08-22.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22.7
+++Error.log.2020-08-22.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-22.8
+++Error.log.2020-08-23
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-23
+++Error.log.2020-08-23.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-23.1
+++Error.log.2020-08-23.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-23.2
+++Error.log.2020-08-23.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-23.3
+++Error.log.2020-08-24
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24
+++Error.log.2020-08-24.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.1
+++Error.log.2020-08-24.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.2
+++Error.log.2020-08-24.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.3
+++Error.log.2020-08-24.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.4
+++Error.log.2020-08-24.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.5
+++Error.log.2020-08-24.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.6
+++Error.log.2020-08-24.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.7
+++Error.log.2020-08-24.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.8
+++Error.log.2020-08-24.9
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-24.9
+++Error.log.2020-08-25
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25
+++Error.log.2020-08-25.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.1
+++Error.log.2020-08-25.10
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.10
+++Error.log.2020-08-25.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.2
+++Error.log.2020-08-25.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.3
+++Error.log.2020-08-25.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.4
+++Error.log.2020-08-25.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.5
+++Error.log.2020-08-25.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.6
+++Error.log.2020-08-25.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.7
+++Error.log.2020-08-25.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.8
+++Error.log.2020-08-25.9
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-25.9
+++Error.log.2020-08-26
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-26
+++Error.log.2020-08-26.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-26.1
+++Error.log.2020-08-26.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-26.2
+++Error.log.2020-08-26.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-26.3
+++Error.log.2020-08-27
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-27
+++Error.log.2020-08-27.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-27.1
+++Error.log.2020-08-27.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-27.2
+++Error.log.2020-08-28
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28
+++Error.log.2020-08-28.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.1
+++Error.log.2020-08-28.10
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.10
+++Error.log.2020-08-28.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.2
+++Error.log.2020-08-28.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.3
+++Error.log.2020-08-28.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.4
+++Error.log.2020-08-28.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.5
+++Error.log.2020-08-28.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.6
+++Error.log.2020-08-28.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.7
+++Error.log.2020-08-28.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.8
+++Error.log.2020-08-28.9
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-28.9
+++Error.log.2020-08-29
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29
+++Error.log.2020-08-29.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.1
+++Error.log.2020-08-29.10
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.10
+++Error.log.2020-08-29.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.2
+++Error.log.2020-08-29.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.3
+++Error.log.2020-08-29.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.4
+++Error.log.2020-08-29.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.5
+++Error.log.2020-08-29.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.6
+++Error.log.2020-08-29.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.7
+++Error.log.2020-08-29.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.8
+++Error.log.2020-08-29.9
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-29.9
+++Error.log.2020-08-30
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-30
+++Error.log.2020-08-30.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-08-30.1
+++Error.log.2020-09-04
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-04
+++Error.log.2020-09-04.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-04.1
+++Error.log.2020-09-22
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22
+++Error.log.2020-09-22.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.1
+++Error.log.2020-09-22.10
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.10
+++Error.log.2020-09-22.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.2
+++Error.log.2020-09-22.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.3
+++Error.log.2020-09-22.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.4
+++Error.log.2020-09-22.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.5
+++Error.log.2020-09-22.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.6
+++Error.log.2020-09-22.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.7
+++Error.log.2020-09-22.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.8
+++Error.log.2020-09-22.9
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-22.9
+++Error.log.2020-09-23
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-23
+++Error.log.2020-09-23.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-23.1
+++Error.log.2020-09-23.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-23.2
+++Error.log.2020-09-23.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-23.3
+++Error.log.2020-09-24
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-24
+++Error.log.2020-09-24.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-24.1
+++Error.log.2020-09-24.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-24.2
+++Error.log.2020-09-24.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-24.3
+++Error.log.2020-09-25
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-25
+++Error.log.2020-09-25.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-25.1
+++Error.log.2020-09-25.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-25.2
+++Error.log.2020-09-26
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-26
+++Error.log.2020-09-27
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-27
+++Error.log.2020-09-27.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-27.1
+++Error.log.2020-09-27.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-27.2
+++Error.log.2020-09-28
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28
+++Error.log.2020-09-28.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.1
+++Error.log.2020-09-28.10
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.10
+++Error.log.2020-09-28.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.2
+++Error.log.2020-09-28.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.3
+++Error.log.2020-09-28.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.4
+++Error.log.2020-09-28.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.5
+++Error.log.2020-09-28.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.6
+++Error.log.2020-09-28.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.7
+++Error.log.2020-09-28.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.8
+++Error.log.2020-09-28.9
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-28.9
+++Error.log.2020-09-29
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-29
+++Error.log.2020-09-29.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-29.1
+++Error.log.2020-09-29.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-29.2
+++Error.log.2020-09-29.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-09-29.3
+++Error.log.2020-10-01
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-01
+++Error.log.2020-10-01.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-01.1
+++Error.log.2020-10-01.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-01.2
+++Error.log.2020-10-01.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-01.3
+++Error.log.2020-10-01.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-01.4
+++Error.log.2020-10-02
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-02
+++Error.log.2020-10-02.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-02.1
+++Error.log.2020-10-02.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-02.2
+++Error.log.2020-10-02.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-02.3
+++Error.log.2020-10-02.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-02.4
+++Error.log.2020-10-03
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-03
+++Error.log.2020-10-03.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-03.1
+++Error.log.2020-10-03.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-03.2
+++Error.log.2020-10-04
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04
+++Error.log.2020-10-04.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.1
+++Error.log.2020-10-04.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.2
+++Error.log.2020-10-04.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.3
+++Error.log.2020-10-04.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.4
+++Error.log.2020-10-04.5
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.5
+++Error.log.2020-10-04.6
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.6
+++Error.log.2020-10-04.7
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.7
+++Error.log.2020-10-04.8
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.8
+++Error.log.2020-10-04.9
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-04.9
+++Error.log.2020-10-05
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-05
+++Error.log.2020-10-05.1
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-05.1
+++Error.log.2020-10-05.2
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-05.2
+++Error.log.2020-10-05.3
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-05.3
+++Error.log.2020-10-05.4
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\error.log.2020-10-05.4
+++GameServer.log
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log
+++GameServer.log2019-05-05
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2019-05-05
+++GameServer.log2020-08-20
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-20
+++GameServer.log2020-08-21
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-21
+++GameServer.log2020-08-22
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-22
+++GameServer.log2020-08-23
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-23
+++GameServer.log2020-08-24
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-24
+++GameServer.log2020-08-25
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-25
+++GameServer.log2020-08-26
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-26
+++GameServer.log2020-08-27
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-27
+++GameServer.log2020-08-28
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-28
+++GameServer.log2020-08-29
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-29
+++GameServer.log2020-08-30
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-08-30
+++GameServer.log2020-09-04
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-04
+++GameServer.log2020-09-22
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-22
+++GameServer.log2020-09-23
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-23
+++GameServer.log2020-09-24
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-24
+++GameServer.log2020-09-25
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-25
+++GameServer.log2020-09-26
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-26
+++GameServer.log2020-09-27
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-27
+++GameServer.log2020-09-28
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-28
+++GameServer.log2020-09-29
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-09-29
+++GameServer.log2020-10-01
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-10-01
+++GameServer.log2020-10-02
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-10-02
+++GameServer.log2020-10-03
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-10-03
+++GameServer.log2020-10-04
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-10-04
+++GameServer.log2020-10-05
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gameserver.log2020-10-05
+++GMActions.log
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log
+++GMActions.log.2019-05-05
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2019-05-05
+++GMActions.log.2020-08-20
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-20
+++GMActions.log.2020-08-21
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-21
+++GMActions.log.2020-08-22
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-22
+++GMActions.log.2020-08-23
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-23
+++GMActions.log.2020-08-24
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-24
+++GMActions.log.2020-08-25
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-25
+++GMActions.log.2020-08-26
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-26
+++GMActions.log.2020-08-27
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-27
+++GMActions.log.2020-08-28
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-28
+++GMActions.log.2020-08-29
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-29
+++GMActions.log.2020-08-30
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-08-30
+++GMActions.log.2020-09-04
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-04
+++GMActions.log.2020-09-22
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-22
+++GMActions.log.2020-09-23
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-23
+++GMActions.log.2020-09-24
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-24
+++GMActions.log.2020-09-25
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-25
+++GMActions.log.2020-09-26
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-26
+++GMActions.log.2020-09-27
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-27
+++GMActions.log.2020-09-28
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-28
+++GMActions.log.2020-09-29
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-09-29
+++GMActions.log.2020-10-01
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-10-01
+++GMActions.log.2020-10-02
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-10-02
+++GMActions.log.2020-10-03
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-10-03
+++GMActions.log.2020-10-04
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-10-04
+++GMActions.log.2020-10-05
+i:{ca06cbbb-0c55-4eb0-90a0-2e39460f3c90}:c:\projeto ddtank\ddtank 4.5\source4.5\center.service\bin\debug\logs\gmactions.log.2020-10-05

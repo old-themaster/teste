@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84bf6699-751a-4078-aec4-e217dacdec28": {
+      "ProjectGuid": "84bf6699-751a-4078-aec4-e217dacdec28",
+      "DisplayName": "Bussiness",
+      "ColorIndex": 0
+    },
+    "4d86ca83-4902-4288-9144-6170aa09ceac": {
+      "ProjectGuid": "4d86ca83-4902-4288-9144-6170aa09ceac",
+      "DisplayName": "SqlDataProvider",
+      "ColorIndex": 1
+    },
+    "64eef839-e979-442f-9332-58090101ba67": {
+      "ProjectGuid": "64eef839-e979-442f-9332-58090101ba67",
+      "DisplayName": "Tank.Request",
+      "ColorIndex": 2
+    },
+    "24028d61-9e32-4f86-ad36-4b4af594094d": {
+      "ProjectGuid": "24028d61-9e32-4f86-ad36-4b4af594094d",
+      "DisplayName": "Road.Flash",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

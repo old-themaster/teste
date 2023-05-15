@@ -1,0 +1,92 @@
+12:22:59,563 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+12:22:59,688 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+12:22:59,703 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+12:22:59,703 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+12:22:59,703 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:2612558: True
+12:22:59,703 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+12:22:59,766 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+12:22:59,766 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+12:22:59,781 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+12:22:59,781 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+12:22:59,781 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+12:22:59,797 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+12:22:59,813 - [MAIN] - ERROR - Center.Server.WorldMgr - SystemNotice file :  not found !
+12:22:59,813 - [MAIN] - INFO  - Center.Server.WorldMgr - Total 0 syterm notice loaded.
+12:22:59,813 - [MAIN] - INFO  - Center.Server.CenterServer - WorldMgr Init: True
+12:22:59,813 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+12:22:59,828 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+12:22:59,828 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+12:22:59,828 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+12:22:59,828 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+12:22:59,828 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+12:22:59,828 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+12:22:59,828 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+12:22:59,828 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+12:22:59,828 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+12:22:59,844 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+12:22:59,844 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+12:23:17,718 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 68.183.198.57:64999
+12:23:59,825 - [13] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+12:23:59,825 - [13] - DEBUG - Center.Server.CenterServer - Scan ThreadId=13
+12:23:59,826 - [13] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+12:23:59,826 - [14] - INFO  - Center.Server.CenterServer - Saving Record...
+12:23:59,827 - [14] - DEBUG - Center.Server.CenterServer - Save ThreadId=14
+12:23:59,827 - [12] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+12:23:59,830 - [12] - DEBUG - Center.Server.CenterServer - Scan ThreadId=12
+12:23:59,829 - [15] - INFO  - Center.Server.CenterServer - Saving database...
+12:23:59,828 - [13] - INFO  - Center.Server.CenterServer - Saving Record...
+12:23:59,833 - [13] - DEBUG - Center.Server.CenterServer - Save ThreadId=13
+12:23:59,831 - [15] - DEBUG - Center.Server.CenterServer - Save ThreadId=15
+12:23:59,834 - [12] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+12:23:59,836 - [13] - INFO  - Center.Server.CenterServer - Saving Record complete!
+12:23:59,889 - [14] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+12:23:59,910 - [15] - INFO  - Center.Server.CenterServer - Saving database complete!
+12:23:59,911 - [15] - INFO  - Center.Server.CenterServer - Saved all databases 94ms
+12:24:59,821 - [16] - INFO  - Center.Server.CenterServer - System Notice ...
+12:24:59,822 - [16] - DEBUG - Center.Server.CenterServer - Save ThreadId=16
+12:24:59,823 - [16] - INFO  - Center.Server.CenterServer - System Notice complete!
+12:24:59,833 - [16] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+12:24:59,834 - [16] - DEBUG - Center.Server.CenterServer - Scan ThreadId=16
+12:24:59,834 - [19] - INFO  - Center.Server.CenterServer - Saving Record...
+12:24:59,835 - [19] - DEBUG - Center.Server.CenterServer - Save ThreadId=19
+12:24:59,833 - [17] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+12:24:59,837 - [17] - DEBUG - Center.Server.CenterServer - Scan ThreadId=17
+12:24:59,833 - [18] - INFO  - Center.Server.CenterServer - Saving Record...
+12:24:59,840 - [18] - DEBUG - Center.Server.CenterServer - Save ThreadId=18
+12:24:59,838 - [19] - INFO  - Center.Server.CenterServer - Saving Record complete!
+12:24:59,840 - [17] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+12:24:59,841 - [19] - INFO  - Center.Server.CenterServer - Saving database...
+12:24:59,836 - [16] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+12:24:59,843 - [18] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+12:24:59,844 - [19] - DEBUG - Center.Server.CenterServer - Save ThreadId=19
+12:24:59,848 - [19] - INFO  - Center.Server.CenterServer - Saving database complete!
+12:24:59,848 - [19] - INFO  - Center.Server.CenterServer - Saved all databases 15ms
+12:25:59,834 - [22] - INFO  - Center.Server.CenterServer - Scan Consortiaboss...
+12:25:59,835 - [24] - INFO  - Center.Server.CenterServer - Saving Record...
+12:25:59,834 - [23] - INFO  - Center.Server.CenterServer - Scan  WorldEvent ...
+12:25:59,835 - [25] - INFO  - Center.Server.CenterServer - Saving Record...
+12:25:59,840 - [24] - DEBUG - Center.Server.CenterServer - Save ThreadId=24
+12:25:59,840 - [22] - DEBUG - Center.Server.CenterServer - Scan ThreadId=22
+12:25:59,848 - [25] - DEBUG - Center.Server.CenterServer - Save ThreadId=25
+12:25:59,845 - [23] - DEBUG - Center.Server.CenterServer - Scan ThreadId=23
+12:25:59,850 - [23] - INFO  - Center.Server.CenterServer - Scan WorldEvent complete!
+12:25:59,848 - [24] - INFO  - Center.Server.CenterServer - Saving Record complete!
+12:25:59,849 - [22] - INFO  - Center.Server.CenterServer - Scan Consortiaboss complete!
+12:25:59,854 - [23] - INFO  - Center.Server.CenterServer - Saving database...
+12:25:59,855 - [23] - DEBUG - Center.Server.CenterServer - Save ThreadId=23
+12:25:59,856 - [25] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+12:25:59,857 - [23] - INFO  - Center.Server.CenterServer - Saving database complete!
+12:25:59,857 - [23] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+12:26:45,276 - [28] - INFO  - Game.Base.BaseClient - Disconnecting client (68.183.198.57:64999), received bytes=0
+12:26:50,812 - [MAIN] - INFO  - Center.Server.CenterServer - Saving database...
+12:26:50,813 - [MAIN] - DEBUG - Center.Server.CenterServer - Save ThreadId=1
+12:26:50,815 - [MAIN] - INFO  - Center.Server.CenterServer - Saving database complete!
+12:26:50,817 - [MAIN] - INFO  - Center.Server.CenterServer - Saved all databases 16ms
+12:26:50,818 - [MAIN] - INFO  - Center.Server.CenterServer - Saving Record...
+12:26:50,819 - [MAIN] - DEBUG - Center.Server.CenterServer - Save ThreadId=1
+12:26:50,820 - [MAIN] - INFO  - Center.Server.CenterServer - Saving Record complete!
+12:26:50,827 - [MAIN] - DEBUG - Game.Base.BaseServer - Stopping server! - Entering method
+12:26:50,828 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is no longer listening for incoming connections!
+12:26:50,829 - [MAIN] - DEBUG - Game.Base.BaseServer - Stopping server! - Cleaning up client list!
+12:26:50,830 - [MAIN] - DEBUG - Game.Base.BaseServer - Stopping server! - End of method!
+12:26:50,828 - [29] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected

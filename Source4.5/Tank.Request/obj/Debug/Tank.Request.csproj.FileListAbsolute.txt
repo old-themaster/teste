@@ -1,0 +1,190 @@
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Tank.Request.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Ajax.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Bussiness.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Game.Base.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\log4net.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Road.Flash.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\zlib.net.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Bussiness.pdb
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Game.Base.pdb
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\WONDERTANK vReZero\Source\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source\Tank.Request\obj\Debug\Tank.Request.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source\Tank.Request\obj\Debug\Tank.Request.dll
+C:\WONDERTANK vReZero\Source\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Tank.Request.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Ajax.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Bussiness.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Game.Base.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\log4net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Road.Flash.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\zlib.net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\protobuf-net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Bussiness.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Game.Base.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\obj\Debug\Tank.Request.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\obj\Debug\Tank.Request.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Tank.Request.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Ajax.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Road.Flash.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\obj\Debug\Tank.Request.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Tank.Request.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Ajax.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Bussiness.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Game.Base.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\log4net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Road.Flash.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\zlib.net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Bussiness.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Game.Base.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Tank.Request.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Ajax.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Bussiness.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Game.Base.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\log4net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Road.Flash.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\zlib.net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\protobuf-net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Bussiness.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Game.Base.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csprojAssemblyReference.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Tank.Request.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Ajax.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Bussiness.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Game.Base.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\log4net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Road.Flash.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\zlib.net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\protobuf-net.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Bussiness.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Game.Base.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csprojAssemblyReference.cache
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.dll
+C:\DDtank 4.5\Source(costura) - Copia\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Tank.Request.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Ajax.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Bussiness.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Game.Base.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\log4net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Road.Flash.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\zlib.net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Bussiness.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Game.Base.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\55849\Desktop\scripts\Source4.5\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Tank.Request.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Ajax.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Bussiness.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Game.Base.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\log4net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Road.Flash.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\zlib.net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\protobuf-net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Bussiness.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Game.Base.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.AssemblyReference.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Tank.Request.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Ajax.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Road.Flash.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\obj\Debug\Tank.Request.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Tank.Request.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Tank.Request.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Ajax.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Bussiness.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Game.Base.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\log4net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Road.Flash.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\zlib.net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Bussiness.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Game.Base.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\Road.Flash.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Tank.Request\obj\Debug\Tank.Request.csproj.CopyComplete

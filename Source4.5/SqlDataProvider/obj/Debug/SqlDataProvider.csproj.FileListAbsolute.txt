@@ -1,0 +1,127 @@
+C:\WONDERTANK vReZero\Source\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source\SqlDataProvider\obj\Debug\SqlDataProvider.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source(costura)\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source(costura)\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source(costura)\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\WONDERTANK vReZero\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\WONDERTANK vReZero\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\WONDERTANK vReZero\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\WONDERTANK vReZero\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\Administrador\Desktop\Source(costura)\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador\Desktop\Source(costura)\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador\Desktop\Source(costura)\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\Users\Administrador\Desktop\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\Administrador\Desktop\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csprojAssemblyReference.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\Users\pc novo\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\pc novo\Downloads\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\DDtank 4.5\Source(costura) - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\DDtank 4.5\Source(costura) - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\DDtank 4.5\Source(costura) - Copia\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\DDtank 4.5\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csprojAssemblyReference.cache
+C:\DDtank 4.5\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\DDtank 4.5\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\DDtank 4.5\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\DDtank 4.5\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\55849\Desktop\scripts\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\Users\55849\Desktop\scripts\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\projeto DDtank\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\projeto DDtank\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\DDtank arquivos\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtank 4.5\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\projeto ddtank 4.1\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\projeto ddtank 4.1\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\projeto ddtank 4.1\Source4.5\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\projeto ddtank 4.1\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\projeto ddtank 4.1\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\projeto ddtank 4.1\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Source4.5\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Source4.5\SqlDataProvider\bin\Debug\protobuf-net.dll
+C:\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
+C:\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Source4.5\SqlDataProvider\obj\Debug\SqlDataProvider.pdb

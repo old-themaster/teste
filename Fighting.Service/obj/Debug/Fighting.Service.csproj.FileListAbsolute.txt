@@ -1,0 +1,327 @@
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\logconfig.xml
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Fighting.Service.application
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Fighting.Service.exe
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Fighting.Service.pdb
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Fighting.Server.dll
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Fighting.Server.pdb
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\Fighting.Service\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny3\Fighting.Service\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny3\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+F:\DDTank\Workspce.Gunny3\Fighting.Service\obj\Debug\Fighting.Service.application
+F:\DDTank\Workspce.Gunny3\Fighting.Service\obj\Debug\Fighting.Service.exe
+F:\DDTank\Workspce.Gunny3\Fighting.Service\obj\Debug\Fighting.Service.pdb
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\Fighting.Service.exe
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\Fighting.Service.pdb
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\logconfig.xml
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.application
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.exe
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.pdb
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Server.dll
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Server.pdb
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+F:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\Fighting.Service.application
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\logconfig.xml
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.application
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.exe
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Service.pdb
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Server.dll
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Game.Logic.dll
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\log4net.dll
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Bussiness.dll
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\zlib.net.dll
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Fighting.Server.pdb
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Game.Logic.pdb
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\log4net.xml
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\SqlDataProvider.pdb
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\bin\Debug\Bussiness.pdb
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\Fighting.Service.application
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\Fighting.Service.exe
+D:\DDTank\Workspce.Gunny.II\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\WONDERTANK vReZero\Source\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\WONDERTANK vReZero\Source\Fighting.Service\bin\Debug\logconfig.xml
+C:\WONDERTANK vReZero\Source\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\WONDERTANK vReZero\Source\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\WONDERTANK vReZero\Source\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\WONDERTANK vReZero\Source\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\WONDERTANK vReZero\Source\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\WONDERTANK vReZero\Source\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\WONDERTANK vReZero\Source\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\WONDERTANK vReZero\Source\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\WONDERTANK vReZero\Source\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\WONDERTANK vReZero\Source\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\bin\Debug\logconfig.xml
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\WONDERTANK vReZero\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\bin\Debug\logconfig.xml
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\bin\Debug\logconfig.xml
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\Users\Leilton\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\bin\Debug\logconfig.xml
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\bin\Debug\logconfig.xml
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\logconfig.xml
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\logconfig.xml
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\bin\Debug\logconfig.xml
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csprojAssemblyReference.cache
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\DDtank 4.5\Source(costura) - Copia\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\bin\Debug\logconfig.xml
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\Users\55849\Desktop\scripts\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\bin\Debug\logconfig.xml
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.AssemblyReference.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.SuggestedBindingRedirects.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\projeto DDtank\ddtank 4.5\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\bin\Debug\logconfig.xml
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.SuggestedBindingRedirects.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\bin\Debug\logconfig.xml
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.SuggestedBindingRedirects.cache
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\projeto ddtank 4.1\Source4.5\Fighting.Service\obj\Debug\Fighting.Service.pdb
+D:\Projetos Externos\TheMaster\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+D:\Projetos Externos\TheMaster\Fighting.Service\bin\Debug\logconfig.xml
+D:\Projetos Externos\TheMaster\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+D:\Projetos Externos\TheMaster\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+D:\Projetos Externos\TheMaster\Fighting.Service\bin\Debug\Fighting.Service.application
+D:\Projetos Externos\TheMaster\Fighting.Service\bin\Debug\Fighting.Service.exe
+D:\Projetos Externos\TheMaster\Fighting.Service\bin\Debug\Fighting.Service.pdb
+D:\Projetos Externos\TheMaster\Fighting.Service\obj\Debug\Fighting.Service.csproj.AssemblyReference.cache
+D:\Projetos Externos\TheMaster\Fighting.Service\obj\Debug\Fighting.Service.csproj.SuggestedBindingRedirects.cache
+D:\Projetos Externos\TheMaster\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+D:\Projetos Externos\TheMaster\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+D:\Projetos Externos\TheMaster\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+D:\Projetos Externos\TheMaster\Fighting.Service\obj\Debug\Fighting.Service.application
+D:\Projetos Externos\TheMaster\Fighting.Service\obj\Debug\Fighting.Service.exe
+D:\Projetos Externos\TheMaster\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\projeto ddtank 4.1\source\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\projeto ddtank 4.1\source\Fighting.Service\bin\Debug\logconfig.xml
+C:\projeto ddtank 4.1\source\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\projeto ddtank 4.1\source\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\projeto ddtank 4.1\source\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\projeto ddtank 4.1\source\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\projeto ddtank 4.1\source\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\projeto ddtank 4.1\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.SuggestedBindingRedirects.cache
+C:\projeto ddtank 4.1\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\projeto ddtank 4.1\source\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\projeto ddtank 4.1\source\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\projeto ddtank 4.1\source\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\projeto ddtank 4.1\source\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\bin\Debug\Languages\Language-vn.txt
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\bin\Debug\logconfig.xml
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\bin\Debug\Fighting.Service.exe.config
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\bin\Debug\Fighting.Service.exe.manifest
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\bin\Debug\Fighting.Service.application
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\bin\Debug\Fighting.Service.exe
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\bin\Debug\Fighting.Service.pdb
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\Users\Gabriel\Desktop\TheMaster\source\Fighting.Service\obj\Debug\Fighting.Service.pdb
+C:\Users\Gabriel\Desktop\TheMaster\source\Build.All\Languages\Language-vn.txt
+C:\Users\Gabriel\Desktop\TheMaster\source\Build.All\logconfig.xml
+C:\Users\Gabriel\Desktop\TheMaster\source\Build.All\Fighting.Service.exe.config
+C:\Users\Gabriel\Desktop\TheMaster\source\Build.All\Fighting.Service.exe.manifest
+C:\Users\Gabriel\Desktop\TheMaster\source\Build.All\Fighting.Service.application
+C:\Users\Gabriel\Desktop\TheMaster\source\Build.All\Fighting.Service.exe
+C:\Users\Gabriel\Desktop\TheMaster\source\Build.All\Fighting.Service.pdb
+C:\Users\Administrador\Downloads\source\Build.All\Languages\Language-vn.txt
+C:\Users\Administrador\Downloads\source\Build.All\logconfig.xml
+C:\Users\Administrador\Downloads\source\Build.All\Fighting.Service.exe.config
+C:\Users\Administrador\Downloads\source\Build.All\Fighting.Service.exe.manifest
+C:\Users\Administrador\Downloads\source\Build.All\Fighting.Service.application
+C:\Users\Administrador\Downloads\source\Build.All\Fighting.Service.exe
+C:\Users\Administrador\Downloads\source\Build.All\Fighting.Service.pdb
+C:\Users\Administrador\Downloads\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Downloads\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\source\Fighting.Service\obj\Debug\Fighting.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador\Downloads\source\Fighting.Service\obj\Debug\Fighting.Service.exe.manifest
+C:\Users\Administrador\Downloads\source\Fighting.Service\obj\Debug\Fighting.Service.application
+C:\Users\Administrador\Downloads\source\Fighting.Service\obj\Debug\Fighting.Service.exe
+C:\Users\Administrador\Downloads\source\Fighting.Service\obj\Debug\Fighting.Service.pdb

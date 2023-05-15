@@ -1,0 +1,81 @@
+12:10:37,012 - [9] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:10:37,012 - [119] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+12:10:39,169 - [138] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+17:58:06,778 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+17:58:06,778 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+17:58:06,794 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+17:58:06,794 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+17:58:06,794 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+17:58:06,794 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+17:58:06,919 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+17:58:06,997 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+17:58:06,997 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+17:58:07,059 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+17:58:07,059 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+17:58:07,075 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+17:58:07,075 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+17:58:07,090 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+17:58:07,106 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+17:58:07,106 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:58:07,106 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+17:58:07,122 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+17:58:09,310 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56486
+17:58:09,340 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:56487
+18:03:37,150 - [4] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in C:\WONDERTANK vReZero\Source\Game.Logic\Phy\Object\Player.cs:line 155
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Game.Logic\PVPGame.cs:line 59
+   at Fighting.Server.Games.BattleGame..ctor(Int32 id, List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\BattleGame.cs:line 31
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\GameMgr.cs:line 201
+18:03:42,116 - [4] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in C:\WONDERTANK vReZero\Source\Game.Logic\Phy\Object\Player.cs:line 155
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Game.Logic\PVPGame.cs:line 59
+   at Fighting.Server.Games.BattleGame..ctor(Int32 id, List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\BattleGame.cs:line 31
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\GameMgr.cs:line 201
+18:04:12,126 - [4] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in C:\WONDERTANK vReZero\Source\Game.Logic\Phy\Object\Player.cs:line 155
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Game.Logic\PVPGame.cs:line 59
+   at Fighting.Server.Games.BattleGame..ctor(Int32 id, List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\BattleGame.cs:line 31
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\GameMgr.cs:line 201
+18:04:17,144 - [4] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in C:\WONDERTANK vReZero\Source\Game.Logic\Phy\Object\Player.cs:line 155
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Game.Logic\PVPGame.cs:line 59
+   at Fighting.Server.Games.BattleGame..ctor(Int32 id, List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\BattleGame.cs:line 31
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\GameMgr.cs:line 201
+18:04:47,118 - [4] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in C:\WONDERTANK vReZero\Source\Game.Logic\Phy\Object\Player.cs:line 155
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Game.Logic\PVPGame.cs:line 59
+   at Fighting.Server.Games.BattleGame..ctor(Int32 id, List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\BattleGame.cs:line 31
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\GameMgr.cs:line 201
+18:04:52,121 - [4] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in C:\WONDERTANK vReZero\Source\Game.Logic\Phy\Object\Player.cs:line 155
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Game.Logic\PVPGame.cs:line 59
+   at Fighting.Server.Games.BattleGame..ctor(Int32 id, List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in C:\WONDERTANK vReZero\Source\Fighting.Server\Games\BattleGame.cs:line 31
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, Prox18:27:49,691 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+18:27:49,707 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+18:27:49,707 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+18:27:49,707 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+18:27:49,707 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+18:27:49,707 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+18:27:49,926 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+18:27:50,019 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+18:27:50,019 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+18:27:50,082 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+18:27:50,082 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+18:27:50,097 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+18:27:50,113 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+18:27:50,129 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+18:27:50,129 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+18:27:50,144 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+18:27:50,144 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+18:27:50,144 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+18:27:52,363 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57249
+18:27:52,363 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 178.63.219.82:57250
+23:45:21,632 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+23:45:21,632 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+23:45:22,414 - [34] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected

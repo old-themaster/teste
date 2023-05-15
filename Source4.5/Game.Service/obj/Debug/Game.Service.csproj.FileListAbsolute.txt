@@ -1,0 +1,347 @@
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Road.Service.exe.config
+F:\DDTank\Workspce.Gunny3\Game.Service\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\battle.xml
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\logconfig.xml
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Road.Service.exe.manifest
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Road.Service.application
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Road.Service.exe
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Road.Service.pdb
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Game.Server.dll
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\Game.Server.pdb
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\Game.Service\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny3\Game.Service\obj\Debug\Road.Service.exe.manifest
+F:\DDTank\Workspce.Gunny3\Game.Service\obj\Debug\Road.Service.application
+F:\DDTank\Workspce.Gunny3\Game.Service\obj\Debug\Road.Service.exe
+F:\DDTank\Workspce.Gunny3\Game.Service\obj\Debug\Road.Service.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\battle.xml
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\logconfig.xml
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.exe.config
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.exe.manifest
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.application
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.exe
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Server.dll
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Server.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\Road.Service.exe.manifest
+F:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\Road.Service.application
+F:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\Road.Service.exe
+F:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\Road.Service.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Languages\Language-vn.txt
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\battle.xml
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\logconfig.xml
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.exe.config
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.exe.manifest
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.application
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.exe
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Road.Service.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Bussiness.dll
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Logic.dll
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Server.dll
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\log4net.dll
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\zlib.net.dll
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Bussiness.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Logic.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\Game.Server.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\SqlDataProvider.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Service\bin\Debug\log4net.xml
+D:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\Road.Service.exe.manifest
+D:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\Road.Service.application
+D:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\Road.Service.exe
+D:\DDTank\Workspce.Gunny.II\Game.Service\obj\Debug\Road.Service.pdb
+E:\DDTank\Source\Game.Service\bin\Debug\Languages\Language-vn.txt
+E:\DDTank\Source\Game.Service\bin\Debug\battle.xml
+E:\DDTank\Source\Game.Service\bin\Debug\logconfig.xml
+E:\DDTank\Source\Game.Service\bin\Debug\Road.Service.exe.config
+E:\DDTank\Source\Game.Service\bin\Debug\Road.Service.exe.manifest
+E:\DDTank\Source\Game.Service\bin\Debug\Road.Service.application
+E:\DDTank\Source\Game.Service\bin\Debug\Road.Service.exe
+E:\DDTank\Source\Game.Service\bin\Debug\Road.Service.pdb
+E:\DDTank\Source\Game.Service\bin\Debug\Bussiness.dll
+E:\DDTank\Source\Game.Service\bin\Debug\Game.Base.dll
+E:\DDTank\Source\Game.Service\bin\Debug\Game.Logic.dll
+E:\DDTank\Source\Game.Service\bin\Debug\Game.Server.dll
+E:\DDTank\Source\Game.Service\bin\Debug\log4net.dll
+E:\DDTank\Source\Game.Service\bin\Debug\SqlDataProvider.dll
+E:\DDTank\Source\Game.Service\bin\Debug\zlib.net.dll
+E:\DDTank\Source\Game.Service\bin\Debug\Bussiness.pdb
+E:\DDTank\Source\Game.Service\bin\Debug\Game.Base.pdb
+E:\DDTank\Source\Game.Service\bin\Debug\Game.Logic.pdb
+E:\DDTank\Source\Game.Service\bin\Debug\Game.Server.pdb
+E:\DDTank\Source\Game.Service\bin\Debug\SqlDataProvider.pdb
+E:\DDTank\Source\Game.Service\bin\Debug\log4net.xml
+E:\DDTank\Source\Game.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\DDTank\Source\Game.Service\obj\Debug\Road.Service.exe.manifest
+E:\DDTank\Source\Game.Service\obj\Debug\Road.Service.application
+E:\DDTank\Source\Game.Service\obj\Debug\Road.Service.exe
+E:\DDTank\Source\Game.Service\obj\Debug\Road.Service.pdb
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Languages\Language-vn.txt
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\battle.xml
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\logconfig.xml
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Road.Service.exe.config
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Road.Service.exe.manifest
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Road.Service.application
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Road.Service.exe
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Road.Service.pdb
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Bussiness.dll
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Game.Base.dll
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Game.Logic.dll
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Game.Server.dll
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\log4net.dll
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\SqlDataProvider.dll
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\zlib.net.dll
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Bussiness.pdb
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Game.Base.pdb
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Game.Logic.pdb
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\Game.Server.pdb
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\SqlDataProvider.pdb
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\bin\Debug\log4net.xml
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\obj\Debug\Road.Service.exe.manifest
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\obj\Debug\Road.Service.application
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\obj\Debug\Road.Service.exe
+D:\Games\GunnyII\Source.FULL.R2.5\Source\Game.Service\obj\Debug\Road.Service.pdb
+C:\WONDERTANK vReZero\Source\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source\Game.Service\bin\Debug\battle.xml
+C:\WONDERTANK vReZero\Source\Game.Service\bin\Debug\logconfig.xml
+C:\WONDERTANK vReZero\Source\Game.Service\bin\Debug\Game.Service.exe.config
+C:\WONDERTANK vReZero\Source\Game.Service\bin\Debug\Game.Service.exe
+C:\WONDERTANK vReZero\Source\Game.Service\bin\Debug\Game.Service.pdb
+C:\WONDERTANK vReZero\Source\Game.Service\obj\Debug\Game.Service.exe
+C:\WONDERTANK vReZero\Source\Game.Service\obj\Debug\Game.Service.pdb
+C:\WONDERTANK vReZero\Source\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\bin\Debug\battle.xml
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\bin\Debug\logconfig.xml
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\bin\Debug\Game.Service.exe.config
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\bin\Debug\Game.Service.exe
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\bin\Debug\Game.Service.pdb
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\obj\Debug\Game.Service.exe
+C:\WONDERTANK vReZero\Source(costura)\Game.Service\obj\Debug\Game.Service.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\bin\Debug\battle.xml
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\bin\Debug\logconfig.xml
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\bin\Debug\Game.Service.exe.config
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\bin\Debug\Game.Service.exe
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\bin\Debug\Game.Service.pdb
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\obj\Debug\Game.Service.exe
+C:\WonderTank v4.5 (Final)\Nova pasta\Source(costura)\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\bin\Debug\battle.xml
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\bin\Debug\logconfig.xml
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\Leilton\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\bin\Debug\battle.xml
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\bin\Debug\logconfig.xml
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\Administrador.OMINIHOST\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\bin\Debug\battle.xml
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\bin\Debug\logconfig.xml
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\Administrador\Desktop\Source(costura)\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\bin\Debug\battle.xml
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\bin\Debug\logconfig.xml
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura)\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\battle.xml
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\logconfig.xml
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\Administrador.OMINIHOST\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\battle.xml
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\logconfig.xml
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\pc novo\Downloads\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\bin\Debug\battle.xml
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\bin\Debug\logconfig.xml
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.exe.config
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.exe
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.pdb
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csprojAssemblyReference.cache
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.exe
+C:\DDtank 4.5\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\bin\Debug\battle.xml
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\bin\Debug\logconfig.xml
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\bin\Debug\battle.xml
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\bin\Debug\logconfig.xml
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\bin\Debug\battle.xml
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\bin\Debug\logconfig.xml
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\55849\Desktop\scripts\Source(costura) - Copia - Copia - Copia\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\bin\Debug\battle.xml
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\bin\Debug\logconfig.xml
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\55849\Desktop\scripts\Source4.5\Game.Service\obj\Debug\Game.Service.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\bin\Debug\battle.xml
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\bin\Debug\logconfig.xml
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\bin\Debug\Game.Service.exe.config
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\bin\Debug\Game.Service.exe
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\bin\Debug\Game.Service.pdb
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.SuggestedBindingRedirects.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.exe
+C:\projeto DDtank\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\bin\Debug\battle.xml
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\bin\Debug\logconfig.xml
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\bin\Debug\Game.Service.exe.config
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\bin\Debug\Game.Service.exe
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\bin\Debug\Game.Service.pdb
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.SuggestedBindingRedirects.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.exe
+C:\DDtank arquivos\ddtank 4.5\Source4.5\Game.Service\obj\Debug\Game.Service.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\bin\Debug\battle.xml
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\bin\Debug\logconfig.xml
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\bin\Debug\Game.Service.exe.config
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\bin\Debug\Game.Service.exe
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\bin\Debug\Game.Service.pdb
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.SuggestedBindingRedirects.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\obj\Debug\Game.Service.exe
+C:\DDtank arquivos\ddtatnk alom projeto novo\Source4.5\Game.Service\obj\Debug\Game.Service.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Service\bin\Debug\battle.xml
+C:\projeto ddtank 4.1\Source4.5\Game.Service\bin\Debug\logconfig.xml
+C:\projeto ddtank 4.1\Source4.5\Game.Service\bin\Debug\Game.Service.exe.config
+C:\projeto ddtank 4.1\Source4.5\Game.Service\bin\Debug\Game.Service.exe
+C:\projeto ddtank 4.1\Source4.5\Game.Service\bin\Debug\Game.Service.pdb
+C:\projeto ddtank 4.1\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.SuggestedBindingRedirects.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\projeto ddtank 4.1\Source4.5\Game.Service\obj\Debug\Game.Service.exe
+C:\projeto ddtank 4.1\Source4.5\Game.Service\obj\Debug\Game.Service.pdb
+C:\Source4.5\Game.Service\bin\Debug\battle.xml
+C:\Source4.5\Game.Service\bin\Debug\logconfig.xml
+C:\Source4.5\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Source4.5\Game.Service\bin\Debug\Game.Service.exe
+C:\Source4.5\Game.Service\bin\Debug\Game.Service.pdb
+C:\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.SuggestedBindingRedirects.cache
+C:\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Source4.5\Game.Service\obj\Debug\Game.Service.exe
+C:\Source4.5\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\bin\Debug\battle.xml
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\bin\Debug\logconfig.xml
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\Jorgi\Downloads\Source4.5\Source4.5\Game.Service\obj\Debug\Game.Service.pdb
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\bin\Debug\battle.xml
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\bin\Debug\logconfig.xml
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\bin\Debug\Game.Service.exe.config
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\bin\Debug\Game.Service.exe
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\bin\Debug\Game.Service.pdb
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\obj\Debug\Game.Service.csproj.Fody.CopyLocal.cache
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\obj\Debug\Game.Service.exe
+C:\Users\Administrador\Downloads\source\Source4.5\Game.Service\obj\Debug\Game.Service.pdb

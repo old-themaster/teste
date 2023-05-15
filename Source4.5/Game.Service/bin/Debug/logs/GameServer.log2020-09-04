@@ -1,0 +1,642 @@
+16:45:39,261 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+16:45:39,304 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+16:45:39,307 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+16:45:39,308 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+16:45:39,331 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+16:45:39,331 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+16:45:39,331 - [MAIN] - INFO  - Game.Server.GameServer - Edition: 2612558: True
+16:45:39,333 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port: 9200: True
+16:45:39,421 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+16:45:39,425 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+16:45:39,441 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+16:45:39,452 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1201600 is not exist!
+16:45:39,452 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file80005 is not exist!
+16:45:39,452 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file80004 is not exist!
+16:45:39,452 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file80003 is not exist!
+16:45:39,452 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file80002 is not exist!
+16:45:39,452 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file80001 is not exist!
+16:45:39,453 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70014 is not exist!
+16:45:39,453 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70013 is not exist!
+16:45:39,453 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70012 is not exist!
+16:45:39,453 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70011 is not exist!
+16:45:39,453 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70010 is not exist!
+16:45:39,453 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70006 is not exist!
+16:45:39,453 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70005 is not exist!
+16:45:39,453 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70004 is not exist!
+16:45:39,454 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70003 is not exist!
+16:45:39,454 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70002 is not exist!
+16:45:39,454 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file70001 is not exist!
+16:45:39,454 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file30006 is not exist!
+16:45:39,454 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file30005 is not exist!
+16:45:39,455 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file20004 is not exist!
+16:45:39,455 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file15002 is not exist!
+16:45:39,456 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file13002 is not exist!
+16:45:39,456 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file13001 is not exist!
+16:45:39,456 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file12017 is not exist!
+16:45:39,457 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file12016 is not exist!
+16:45:39,457 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file12015 is not exist!
+16:45:39,457 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file12012 is not exist!
+16:45:39,458 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file12007 is not exist!
+16:45:39,458 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file12006 is not exist!
+16:45:39,459 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file12005 is not exist!
+16:45:39,459 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file12004 is not exist!
+16:45:39,459 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11260 is not exist!
+16:45:39,463 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11047 is not exist!
+16:45:39,463 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11046 is not exist!
+16:45:39,463 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11045 is not exist!
+16:45:39,464 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11038 is not exist!
+16:45:39,464 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11036 is not exist!
+16:45:39,465 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11035 is not exist!
+16:45:39,465 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11034 is not exist!
+16:45:39,465 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11033 is not exist!
+16:45:39,466 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11030 is not exist!
+16:45:39,466 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11027 is not exist!
+16:45:39,467 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11026 is not exist!
+16:45:39,467 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11024 is not exist!
+16:45:39,467 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11021 is not exist!
+16:45:39,468 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11020 is not exist!
+16:45:39,468 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11019 is not exist!
+16:45:39,469 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11018 is not exist!
+16:45:39,469 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11017 is not exist!
+16:45:39,469 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11016 is not exist!
+16:45:39,470 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11014 is not exist!
+16:45:39,470 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11012 is not exist!
+16:45:39,470 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11011 is not exist!
+16:45:39,472 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11009 is not exist!
+16:45:39,473 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11008 is not exist!
+16:45:39,473 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11007 is not exist!
+16:45:39,474 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11006 is not exist!
+16:45:39,474 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11004 is not exist!
+16:45:39,474 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11003 is not exist!
+16:45:39,475 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11002 is not exist!
+16:45:39,475 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file11001 is not exist!
+16:45:39,475 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file4001 is not exist!
+16:45:39,476 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file2013 is not exist!
+16:45:39,476 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file2012 is not exist!
+16:45:39,477 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file2010 is not exist!
+16:45:39,477 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file2001 is not exist!
+16:45:39,477 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1999 is not exist!
+16:45:39,478 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1998 is not exist!
+16:45:39,478 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1516 is not exist!
+16:45:39,478 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1515 is not exist!
+16:45:39,479 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1514 is not exist!
+16:45:39,479 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1513 is not exist!
+16:45:39,480 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1512 is not exist!
+16:45:39,480 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1511 is not exist!
+16:45:39,480 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1497 is not exist!
+16:45:39,483 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1496 is not exist!
+16:45:39,483 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1495 is not exist!
+16:45:39,484 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1494 is not exist!
+16:45:39,484 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1493 is not exist!
+16:45:39,484 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1488 is not exist!
+16:45:39,485 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1487 is not exist!
+16:45:39,485 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1486 is not exist!
+16:45:39,486 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1483 is not exist!
+16:45:39,486 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1482 is not exist!
+16:45:39,486 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1481 is not exist!
+16:45:39,487 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1480 is not exist!
+16:45:39,487 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1479 is not exist!
+16:45:39,488 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1478 is not exist!
+16:45:39,488 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1477 is not exist!
+16:45:39,488 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1476 is not exist!
+16:45:39,489 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1475 is not exist!
+16:45:39,489 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1474 is not exist!
+16:45:39,490 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1473 is not exist!
+16:45:39,490 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1472 is not exist!
+16:45:39,490 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1471 is not exist!
+16:45:39,491 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1470 is not exist!
+16:45:39,491 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1469 is not exist!
+16:45:39,492 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1468 is not exist!
+16:45:39,494 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1467 is not exist!
+16:45:39,495 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1466 is not exist!
+16:45:39,495 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1465 is not exist!
+16:45:39,496 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1464 is not exist!
+16:45:39,496 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1463 is not exist!
+16:45:39,496 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1462 is not exist!
+16:45:39,497 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1458 is not exist!
+16:45:39,497 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1457 is not exist!
+16:45:39,498 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1456 is not exist!
+16:45:39,498 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1455 is not exist!
+16:45:39,499 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1446 is not exist!
+16:45:39,499 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1445 is not exist!
+16:45:39,499 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1444 is not exist!
+16:45:39,500 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1441 is not exist!
+16:45:39,500 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1440 is not exist!
+16:45:39,500 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1439 is not exist!
+16:45:39,501 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1438 is not exist!
+16:45:39,502 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1437 is not exist!
+16:45:39,502 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1436 is not exist!
+16:45:39,503 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1434 is not exist!
+16:45:39,505 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1433 is not exist!
+16:45:39,505 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1432 is not exist!
+16:45:39,506 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1429 is not exist!
+16:45:39,506 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1408 is not exist!
+16:45:39,507 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1407 is not exist!
+16:45:39,507 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1406 is not exist!
+16:45:39,507 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1405 is not exist!
+16:45:39,508 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1402 is not exist!
+16:45:39,508 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1401 is not exist!
+16:45:39,509 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1400 is not exist!
+16:45:39,509 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1350 is not exist!
+16:45:39,509 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1347 is not exist!
+16:45:39,510 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1346 is not exist!
+16:45:39,510 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1345 is not exist!
+16:45:39,511 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1344 is not exist!
+16:45:39,511 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1343 is not exist!
+16:45:39,511 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1342 is not exist!
+16:45:39,512 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1328 is not exist!
+16:45:39,512 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1319 is not exist!
+16:45:39,513 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1318 is not exist!
+16:45:39,513 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1316 is not exist!
+16:45:39,513 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1315 is not exist!
+16:45:39,516 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1314 is not exist!
+16:45:39,516 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1313 is not exist!
+16:45:39,516 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1311 is not exist!
+16:45:39,517 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1303 is not exist!
+16:45:39,517 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1302 is not exist!
+16:45:39,518 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1299 is not exist!
+16:45:39,518 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1291 is not exist!
+16:45:39,518 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1286 is not exist!
+16:45:39,519 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1285 is not exist!
+16:45:39,519 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1284 is not exist!
+16:45:39,519 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1283 is not exist!
+16:45:39,520 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1282 is not exist!
+16:45:39,520 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1281 is not exist!
+16:45:39,520 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1280 is not exist!
+16:45:39,521 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1279 is not exist!
+16:45:39,521 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1278 is not exist!
+16:45:39,522 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1277 is not exist!
+16:45:39,522 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1276 is not exist!
+16:45:39,523 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1275 is not exist!
+16:45:39,525 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1274 is not exist!
+16:45:39,526 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1273 is not exist!
+16:45:39,526 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1272 is not exist!
+16:45:39,526 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1271 is not exist!
+16:45:39,527 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1270 is not exist!
+16:45:39,527 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1269 is not exist!
+16:45:39,527 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1268 is not exist!
+16:45:39,528 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1267 is not exist!
+16:45:39,528 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1266 is not exist!
+16:45:39,528 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1253 is not exist!
+16:45:39,529 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1252 is not exist!
+16:45:39,529 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1251 is not exist!
+16:45:39,530 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1250 is not exist!
+16:45:39,530 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1249 is not exist!
+16:45:39,530 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1247 is not exist!
+16:45:39,531 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1244 is not exist!
+16:45:39,531 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1243 is not exist!
+16:45:39,531 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1242 is not exist!
+16:45:39,532 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1241 is not exist!
+16:45:39,532 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1238 is not exist!
+16:45:39,532 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1237 is not exist!
+16:45:39,533 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1236 is not exist!
+16:45:39,533 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1234 is not exist!
+16:45:39,534 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1233 is not exist!
+16:45:39,536 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1232 is not exist!
+16:45:39,537 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1229 is not exist!
+16:45:39,537 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1228 is not exist!
+16:45:39,537 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1224 is not exist!
+16:45:39,538 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1222 is not exist!
+16:45:39,538 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1221 is not exist!
+16:45:39,538 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1220 is not exist!
+16:45:39,539 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1219 is not exist!
+16:45:39,539 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1218 is not exist!
+16:45:39,539 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1217 is not exist!
+16:45:39,540 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1216 is not exist!
+16:45:39,540 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1215 is not exist!
+16:45:39,541 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1214 is not exist!
+16:45:39,541 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1213 is not exist!
+16:45:39,541 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1211 is not exist!
+16:45:39,542 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1210 is not exist!
+16:45:39,542 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1209 is not exist!
+16:45:39,542 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1208 is not exist!
+16:45:39,543 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1207 is not exist!
+16:45:39,543 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1205 is not exist!
+16:45:39,544 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1204 is not exist!
+16:45:39,544 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1203 is not exist!
+16:45:39,545 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1202 is not exist!
+16:45:39,547 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1201 is not exist!
+16:45:39,547 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1198 is not exist!
+16:45:39,548 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1197 is not exist!
+16:45:39,548 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1196 is not exist!
+16:45:39,549 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1195 is not exist!
+16:45:39,549 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1194 is not exist!
+16:45:39,550 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1193 is not exist!
+16:45:39,550 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1192 is not exist!
+16:45:39,550 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1191 is not exist!
+16:45:39,551 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1190 is not exist!
+16:45:39,551 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1189 is not exist!
+16:45:39,552 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1188 is not exist!
+16:45:39,552 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1187 is not exist!
+16:45:39,552 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1186 is not exist!
+16:45:39,553 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1185 is not exist!
+16:45:39,553 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1184 is not exist!
+16:45:39,553 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1183 is not exist!
+16:45:39,554 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1182 is not exist!
+16:45:39,555 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1181 is not exist!
+16:45:39,555 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1180 is not exist!
+16:45:39,558 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1179 is not exist!
+16:45:39,558 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1178 is not exist!
+16:45:39,559 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1177 is not exist!
+16:45:39,559 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1176 is not exist!
+16:45:39,559 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1175 is not exist!
+16:45:39,560 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1174 is not exist!
+16:45:39,560 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1173 is not exist!
+16:45:39,561 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1172 is not exist!
+16:45:39,561 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1171 is not exist!
+16:45:39,562 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1170 is not exist!
+16:45:39,562 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1169 is not exist!
+16:45:39,563 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1168 is not exist!
+16:45:39,563 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1167 is not exist!
+16:45:39,563 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1166 is not exist!
+16:45:39,564 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1165 is not exist!
+16:45:39,564 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1164 is not exist!
+16:45:39,565 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1163 is not exist!
+16:45:39,565 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1162 is not exist!
+16:45:39,565 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1161 is not exist!
+16:45:39,568 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1160 is not exist!
+16:45:39,569 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1159 is not exist!
+16:45:39,569 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1158 is not exist!
+16:45:39,570 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1157 is not exist!
+16:45:39,570 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1156 is not exist!
+16:45:39,570 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1155 is not exist!
+16:45:39,571 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1154 is not exist!
+16:45:39,571 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1153 is not exist!
+16:45:39,572 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1152 is not exist!
+16:45:39,572 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1151 is not exist!
+16:45:39,572 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1150 is not exist!
+16:45:39,573 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1149 is not exist!
+16:45:39,573 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1148 is not exist!
+16:45:39,574 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1147 is not exist!
+16:45:39,574 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1146 is not exist!
+16:45:39,575 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1145 is not exist!
+16:45:39,575 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1144 is not exist!
+16:45:39,576 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1143 is not exist!
+16:45:39,576 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1142 is not exist!
+16:45:39,576 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1141 is not exist!
+16:45:39,578 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1138 is not exist!
+16:45:39,579 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1137 is not exist!
+16:45:39,579 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1136 is not exist!
+16:45:39,579 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1135 is not exist!
+16:45:39,580 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1134 is not exist!
+16:45:39,580 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1133 is not exist!
+16:45:39,581 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1132 is not exist!
+16:45:39,581 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1131 is not exist!
+16:45:39,581 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1130 is not exist!
+16:45:39,582 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1129 is not exist!
+16:45:39,582 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1128 is not exist!
+16:45:39,583 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1126 is not exist!
+16:45:39,583 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1125 is not exist!
+16:45:39,583 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1124 is not exist!
+16:45:39,584 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1123 is not exist!
+16:45:39,584 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1122 is not exist!
+16:45:39,584 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1121 is not exist!
+16:45:39,585 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1120 is not exist!
+16:45:39,586 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1119 is not exist!
+16:45:39,586 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1118 is not exist!
+16:45:39,588 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1114 is not exist!
+16:45:39,589 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1113 is not exist!
+16:45:39,589 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1112 is not exist!
+16:45:39,590 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1111 is not exist!
+16:45:39,590 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1110 is not exist!
+16:45:39,591 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1109 is not exist!
+16:45:39,591 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1108 is not exist!
+16:45:39,591 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1107 is not exist!
+16:45:39,592 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1106 is not exist!
+16:45:39,592 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1105 is not exist!
+16:45:39,593 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1104 is not exist!
+16:45:39,593 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1103 is not exist!
+16:45:39,593 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1102 is not exist!
+16:45:39,594 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1101 is not exist!
+16:45:39,594 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1100 is not exist!
+16:45:39,594 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1099 is not exist!
+16:45:39,595 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1098 is not exist!
+16:45:39,595 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1097 is not exist!
+16:45:39,596 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1096 is not exist!
+16:45:39,596 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1095 is not exist!
+16:45:39,596 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1094 is not exist!
+16:45:39,598 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1093 is not exist!
+16:45:39,599 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1092 is not exist!
+16:45:39,599 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1091 is not exist!
+16:45:39,600 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1090 is not exist!
+16:45:39,600 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1089 is not exist!
+16:45:39,600 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1088 is not exist!
+16:45:39,601 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1087 is not exist!
+16:45:39,601 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1085 is not exist!
+16:45:39,602 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1084 is not exist!
+16:45:39,602 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1083 is not exist!
+16:45:39,602 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1082 is not exist!
+16:45:39,603 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1078 is not exist!
+16:45:39,603 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1076 is not exist!
+16:45:39,604 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1075 is not exist!
+16:45:39,604 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1074 is not exist!
+16:45:39,605 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1073 is not exist!
+16:45:39,605 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1072 is not exist!
+16:45:39,605 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1071 is not exist!
+16:45:39,606 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1068 is not exist!
+16:45:39,606 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1067 is not exist!
+16:45:39,607 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1066 is not exist!
+16:45:39,609 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1065 is not exist!
+16:45:39,609 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1064 is not exist!
+16:45:39,609 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1063 is not exist!
+16:45:39,610 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1062 is not exist!
+16:45:39,610 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1061 is not exist!
+16:45:39,611 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1060 is not exist!
+16:45:39,611 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1059 is not exist!
+16:45:39,612 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1058 is not exist!
+16:45:39,612 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1057 is not exist!
+16:45:39,612 - [MAIN] - ERROR - Game.Logic.MapMgr - Map's file1056 is not exist!
+16:45:39,613 - [MAIN] - ERROR - Game.Logic.MapMgr - 16:57:01,961 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Metadata file 'Game.Base.dll' could not be found
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -     Line:0 Col:0
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Metadata file 'Game.Logic.dll' could not be found
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -     Line:0 Col:0
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Metadata file 'Game.Server.dll' could not be found
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -     Line:0 Col:0
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Metadata file 'SqlDataProvider.dll' could not be found
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -     Line:0 Col:0
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Metadata file 'Bussiness.dll' could not be found
+16:57:02,055 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -     Line:0 Col:0
+16:57:02,055 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: False
+16:57:02,055 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+16:57:02,055 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+16:57:02,086 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+16:57:02,086 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+16:57:02,086 - [MAIN] - INFO  - Game.Server.GameServer - Edition: 2612558: True
+16:57:02,086 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port: 9200: True
+16:57:02,211 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+16:57:02,211 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+16:57:02,321 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+16:57:02,758 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+16:57:02,836 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+16:57:02,883 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+16:57:03,008 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+16:57:03,008 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+16:57:03,008 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+16:57:03,024 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+16:57:03,024 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+16:57:03,024 - [MAIN] - INFO  - Game.Server.GameServer - UserBoxMgr Init: True
+16:57:03,024 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+16:57:03,040 - [MAIN] - INFO  - Game.Server.GameServer - AchievementMgr Init: True
+16:57:03,040 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+16:57:03,040 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+16:57:03,055 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+16:57:03,055 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+16:57:03,055 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+16:57:03,071 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+16:57:03,071 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+16:57:03,071 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+16:57:03,086 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+16:57:03,086 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr17:02:34,636 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:02:34,730 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: False
+17:02:34,730 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:02:34,730 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:02:34,777 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:02:34,777 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:02:34,777 - [MAIN] - INFO  - Game.Server.GameServer - Edition: 2612558: True
+17:02:34,777 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port: 9200: True
+17:02:34,917 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:02:34,933 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:02:35,214 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:02:35,808 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:02:35,917 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:02:35,980 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:02:36,214 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:02:36,230 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+17:02:36,230 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+17:02:36,230 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+17:02:36,230 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:02:36,230 - [MAIN] - INFO  - Game.Server.GameServer - UserBoxMgr Init: True
+17:02:36,230 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:02:36,245 - [MAIN] - INFO  - Game.Server.GameServer - AchievementMgr Init: True
+17:02:36,245 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+17:02:36,245 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+17:02:36,261 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:02:36,261 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:02:36,261 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:02:36,277 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:02:36,277 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:02:36,277 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:02:36,292 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:02:36,292 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:02:36,308 - [MAIN] - INFO  - Game.Server.GameServer - NewTitleMgr Init: True
+17:02:36,386 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:02:36,433 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:02:36,433 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:02:36,433 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:02:36,449 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:02:36,449 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaExtraMgr Init: True
+17:02:36,464 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:02:36,464 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:02:36,480 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+17:02:36,480 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+17:02:36,480 - [MAIN] - INFO  - Game.Server.GameServer - FairBattleRewardMgr Init: True
+17:02:36,495 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaTaskMgr Setup: True
+17:02:36,511 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Setup: True
+17:02:36,511 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:02:36,527 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:02:36,527 - [MAIN] - INFO  - Game.Server.GameServer - RankMgr Init: True
+17:02:36,527 - [MAIN] - INFO  - Game.Server.GameServer - CommunalActiveMgr Setup: True
+17:02:36,527 - [MAIN] - INFO 17:03:06,574 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:03:06,621 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: False
+17:03:06,621 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:03:06,621 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:03:06,636 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:03:06,636 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:03:06,636 - [MAIN] - INFO  - Game.Server.GameServer - Edition: 2612558: True
+17:03:06,636 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port: 9200: True
+17:03:06,714 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:03:06,714 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:03:06,824 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:03:07,027 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:03:07,121 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:03:07,152 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:03:07,261 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:03:07,261 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+17:03:07,277 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+17:03:07,277 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+17:03:07,277 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:03:07,277 - [MAIN] - INFO  - Game.Server.GameServer - UserBoxMgr Init: True
+17:03:07,277 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:03:07,292 - [MAIN] - INFO  - Game.Server.GameServer - AchievementMgr Init: True
+17:03:07,292 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+17:03:07,292 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+17:03:07,308 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:03:07,308 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:03:07,308 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:03:07,324 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:03:07,324 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:03:07,324 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:03:07,324 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:03:07,339 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:03:07,339 - [MAIN] - INFO  - Game.Server.GameServer - NewTitleMgr Init: True
+17:03:07,433 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:03:07,464 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:03:07,480 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:03:07,480 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:03:07,480 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:03:07,480 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaExtraMgr Init: True
+17:03:07,496 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:03:07,496 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:03:07,511 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+17:03:07,511 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+17:03:07,511 - [MAIN] - INFO  - Game.Server.GameServer - FairBattleRewardMgr Init: True
+17:03:07,527 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaTaskMgr Setup: True
+17:03:07,542 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Setup: True
+17:03:07,542 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:03:07,542 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:03:07,542 - [MAIN] - INFO  - Game.Server.GameServer - RankMgr Init: True
+17:03:07,558 - [MAIN] - INFO  - Game.Server.GameServer - CommunalActiveMgr Setup: True
+17:03:07,558 - [MAIN] - INFO 17:03:48,871 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:03:48,917 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: False
+17:03:48,917 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:03:48,917 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:03:48,964 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:03:48,964 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:03:48,964 - [MAIN] - INFO  - Game.Server.GameServer - Edition: 2612558: True
+17:03:48,964 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port: 9200: True
+17:03:49,074 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:03:49,089 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:03:49,277 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:03:49,574 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:03:49,699 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:03:49,730 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:03:49,886 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:03:49,902 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+17:03:49,902 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+17:03:49,902 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+17:03:49,902 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:03:49,902 - [MAIN] - INFO  - Game.Server.GameServer - UserBoxMgr Init: True
+17:03:49,917 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:03:49,917 - [MAIN] - INFO  - Game.Server.GameServer - AchievementMgr Init: True
+17:03:49,917 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+17:03:49,933 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+17:03:49,933 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:03:49,949 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:03:49,949 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:03:49,964 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:03:49,964 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:03:50,011 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:03:50,011 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:03:50,027 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:03:50,027 - [MAIN] - INFO  - Game.Server.GameServer - NewTitleMgr Init: True
+17:03:50,136 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:03:50,183 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:03:50,183 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:03:50,183 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:03:50,199 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:03:50,199 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaExtraMgr Init: True
+17:03:50,214 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:03:50,214 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:03:50,230 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+17:03:50,246 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+17:03:50,246 - [MAIN] - INFO  - Game.Server.GameServer - FairBattleRewardMgr Init: True
+17:03:50,261 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaTaskMgr Setup: True
+17:03:50,277 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Setup: True
+17:03:50,277 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:03:50,277 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:03:50,277 - [MAIN] - INFO  - Game.Server.GameServer - RankMgr Init: True
+17:03:50,292 - [MAIN] - INFO  - Game.Server.GameServer - CommunalActiveMgr Setup: True
+17:03:50,292 - [MAIN] - INFO 17:06:31,850 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:06:31,881 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: False
+17:06:31,896 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:06:31,896 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:06:31,912 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:06:31,912 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:06:31,912 - [MAIN] - INFO  - Game.Server.GameServer - Edition: 2612558: True
+17:06:31,912 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port: 9200: True
+17:06:32,006 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:06:32,006 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:06:32,162 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:06:32,537 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:06:32,615 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:06:32,662 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:06:32,787 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:06:32,787 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+17:06:32,787 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+17:06:32,803 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+17:06:32,803 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:06:32,803 - [MAIN] - INFO  - Game.Server.GameServer - UserBoxMgr Init: True
+17:06:32,803 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:06:32,818 - [MAIN] - INFO  - Game.Server.GameServer - AchievementMgr Init: True
+17:06:32,818 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+17:06:32,818 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+17:06:32,834 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:06:32,834 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:06:32,834 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:06:32,850 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:06:32,850 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:06:32,850 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:06:32,850 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:06:32,865 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:06:32,865 - [MAIN] - INFO  - Game.Server.GameServer - NewTitleMgr Init: True
+17:06:32,943 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:06:32,975 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:06:32,975 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:06:32,990 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:06:32,990 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:06:32,990 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaExtraMgr Init: True
+17:06:33,006 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:06:33,006 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:06:33,021 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+17:06:33,021 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+17:06:33,021 - [MAIN] - INFO  - Game.Server.GameServer - FairBattleRewardMgr Init: True
+17:06:33,037 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaTaskMgr Setup: True
+17:06:33,053 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Setup: True
+17:06:33,053 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:06:33,068 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:06:33,068 - [MAIN] - INFO  - Game.Server.GameServer - RankMgr Init: True
+17:06:33,068 - [MAIN] - INFO  - Game.Server.GameServer - CommunalActiveMgr Setup: True
+17:06:33,068 - [MAIN] - INFO  - Game.Server.GameServer - QQTipsMgr Init: True
+17:06:33,084 - [MAIN] - INFO  - Game.Server.GameServer - SubActiveMgr Setup: True
+17:06:33,084 - [MAIN] - INFO  - Game.Server.GameServer - EventAwardMgr Setup: True
+17:06:33,084 - [MAIN] - INFO  - Game.Server.GameServer - EventLiveMgr Setup: True
+17:06:33,084 - [MAIN] - INFO  - Game.Server.GameServer - CommandsMgr Setup: True
+17:06:33,084 - [MAIN] - INFO  - Game.Server.GameServer - AcademyMgr Setup: True
+17:06:33,100 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 178.63.219.82:9208 loaded...
+17:06:33,100 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+17:06:33,100 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+17:06:33,100 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+17:06:33,100 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+17:06:33,100 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 156 handlers from GameServer Assembly!
+17:06:33,115 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 5 commands!
+17:06:33,115 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:06:33,115 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 178.63.219.82:9202
+17:06:33,115 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+17:06:33,115 - [MAIN] - INFO  - Game.Server.GameServer - HotSpringMgr Init: True
+17:06:33,131 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 178.63.219.82:9208
+17:06:33,131 - [MAIN] - INFO  - Game.Server.GameServer - AutoBot Init: True
+17:06:33,146 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 178.63.219.82:9208
+17:06:33,146 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+17:06:33,162 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+17:07:33,100 - [17] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:07:33,100 - [17] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:07:33,100 - [17] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:07:33,147 - [18] - INFO  - Game.Server.RingStation.RingStationMgr - Begin Scan RingStation Info....
+17:07:33,147 - [18] - INFO  - Game.Server.RingStation.RingStationMgr - End Scan RingStation Info....
+17:08:33,115 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:08:33,115 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:08:33,115 - [18] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:08:33,162 - [17] - INFO  - Game.Server.RingStation.RingStationMgr - Begin Scan RingStation Info....
+17:08:33,162 - [17] - INFO  - Game.Server.RingStation.RingStationMgr - End Scan RingStation Info....
+17:09:33,100 - [18] - INFO  - Game.Server.GameServer - Begin ping check....
+17:09:33,100 - [18] - INFO  - Game.Server.GameServer - End ping check....
+17:09:33,100 - [18] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:09:33,100 - [18] - INFO  - Game.Server.GameServer - End ping center check....
+17:09:33,131 - [17] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:09:33,131 - [17] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:09:33,131 - [17] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:09:33,178 - [17] - INFO  - Game.Server.RingStation.RingStationMgr - Begin Scan RingStation Info....
+17:09:33,178 - [17] - INFO  - Game.Server.RingStation.RingStationMgr - End Scan RingStation Info....
+17:10:33,147 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:10:33,147 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:10:33,147 - [18] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:10:33,178 - [18] - INFO  - Game.Server.RingStation.RingStationMgr - Begin Scan RingStation Info....
+17:10:33,178 - [18] - INFO  - Game.Server.RingStation.RingStationMgr - End Scan RingStation Info....
+17:11:33,162 - [17] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:11:33,162 - [17] - INFO  - 

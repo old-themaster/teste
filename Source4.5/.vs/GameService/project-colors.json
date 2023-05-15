@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84bf6699-751a-4078-aec4-e217dacdec28": {
+      "ProjectGuid": "84bf6699-751a-4078-aec4-e217dacdec28",
+      "DisplayName": "Bussiness",
+      "ColorIndex": 0
+    },
+    "ba6261a9-2fa0-4bf1-8cdd-06148e211407": {
+      "ProjectGuid": "ba6261a9-2fa0-4bf1-8cdd-06148e211407",
+      "DisplayName": "Game.Server",
+      "ColorIndex": 1
+    },
+    "86e4a36d-d548-4bd5-b3ed-8666a5090173": {
+      "ProjectGuid": "86e4a36d-d548-4bd5-b3ed-8666a5090173",
+      "DisplayName": "Game.Logic",
+      "ColorIndex": 2
+    },
+    "4d86ca83-4902-4288-9144-6170aa09ceac": {
+      "ProjectGuid": "4d86ca83-4902-4288-9144-6170aa09ceac",
+      "DisplayName": "SqlDataProvider",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "501be6b6-e26d-444c-93ef-6075e394c7ac": {
+      "ProjectGuid": "501be6b6-e26d-444c-93ef-6075e394c7ac",
+      "DisplayName": "Game.Service",
+      "ColorIndex": 4
+    },
+    "0b98b651-e8ad-42a2-a9d2-340aa0d795be": {
+      "ProjectGuid": "0b98b651-e8ad-42a2-a9d2-340aa0d795be",
+      "DisplayName": "Game.Base",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

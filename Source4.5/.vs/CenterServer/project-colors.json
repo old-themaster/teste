@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f5c82b0-880e-437a-b707-ec5330349c60": {
+      "ProjectGuid": "2f5c82b0-880e-437a-b707-ec5330349c60",
+      "DisplayName": "Center.Server",
+      "ColorIndex": 0
+    },
+    "84bf6699-751a-4078-aec4-e217dacdec28": {
+      "ProjectGuid": "84bf6699-751a-4078-aec4-e217dacdec28",
+      "DisplayName": "Bussiness",
+      "ColorIndex": 1
+    },
+    "ca06cbbb-0c55-4eb0-90a0-2e39460f3c90": {
+      "ProjectGuid": "ca06cbbb-0c55-4eb0-90a0-2e39460f3c90",
+      "DisplayName": "Center.Service",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

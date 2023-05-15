@@ -1,0 +1,14 @@
+16:09:03,976 - [13] - ERROR - Game.Logic.BaseGame - Can't create game ai :GameServerScript.AI.Game.AntCaveSimpleGame
+16:09:04,016 - [14] - ERROR - Game.Logic.BaseGame - Map update error:
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Logic.PVEGame.PrepareNewSession() in C:\WONDERTANK vReZero\Source(costura)\Game.Logic\Game.Logic\PVEGame.cs:line 1830
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in C:\WONDERTANK vReZero\Source(costura)\Game.Logic\Game.Logic.Actions\CheckPVEGameStateAction.cs:line 30
+   at Game.Logic.BaseGame.Update(Int64 tick) in C:\WONDERTANK vReZero\Source(costura)\Game.Logic\Game.Logic\BaseGame.cs:line 2857
+16:09:04,094 - [14] - ERROR - Game.Logic.BaseGame - Map update error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.BaseGame.SendStartLoading(Int32 maxTime) in C:\WONDERTANK vReZero\Source(costura)\Game.Logic\Game.Logic\BaseGame.cs:line 2588
+   at Game.Logic.PVEGame.StartLoading() in C:\WONDERTANK vReZero\Source(costura)\Game.Logic\Game.Logic\PVEGame.cs:line 2297
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in C:\WONDERTANK vReZero\Source(costura)\Game.Logic\Game.Logic.Actions\CheckPVEGameStateAction.cs:line 95
+   at Game.Logic.BaseGame.Update(Int64 tick) in C:\WONDERTANK vReZero\Source(costura)\Game.Logic\Game.Logic\BaseGame.cs:line 2856
